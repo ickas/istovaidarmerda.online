@@ -1,0 +1,13 @@
+mochawesome-report
+mochawesome.json
+
+./node_modules
+
+# Coverage directory used by istanbul
+coverage
+
+# Dependency directory
+node_modules
+cypress/videos
+cypress/screenshots
+cypress/results
