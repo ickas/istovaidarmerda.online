@@ -1,0 +1,86 @@
+#__next,
+.layout__page {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	min-height: var(--viewport-height, 100vh);
+
+	@include breakpoint(xlarge) {
+		display: grid;
+		grid-gap: 0;
+		min-height: 100%;
+		grid-template-columns: var(--top-navigation-width) 1fr;
+		grid-template-rows: 1fr;
+	}
+}
+
+.layout {
+	&__container {
+		width: 100%;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		position: relative;
+	}
+
+	&__page,
+	&__content {
+		background-color: var(--body-background);
+	}
+
+	&__content {
+		flex-grow: 1;
+		flex-shrink: 1;
+		flex-basis: auto;
+		margin-top: 0;
+
+		@include breakpoint(xlarge) {
+			margin-top: 0;
+			grid-column-start: 2;
+		}
+	}
+
+	&__row {
+		width: 100%;
+		margin: 0 auto;
+		padding-right: $global-padding;
+		padding-left: $global-padding;
+		margin-right: auto;
+		margin-left: auto;
+		max-width: $global-width;
+
+		@include breakpoint(medium) {
+			padding-right: $global-padding * 1.5;
+			padding-left: $global-padding * 1.5;
+		}
+
+		@include breakpoint(large) {
+			max-width: $global-width;
+			padding-top: $global-padding * 3;
+			padding-bottom: $global-padding * 3;
+		}
+	}
+
+	&__section {
+		padding-top: $global-padding * 1.5;
+		padding-bottom: $global-padding * 1.5;
+
+		@include breakpoint(large) {
+			padding-top: $global-padding * 3;
+			padding-bottom: $global-padding * 3;
+		}
+
+		&:last-child {
+			padding-bottom: $global-padding * 0.5;
+		}
+
+		&--overflow {
+			margin-top: -(($global-padding * 1.5) * 2);
+
+			@include breakpoint(large) {
+				margin-top: -(($global-padding * 4) * 2);
+			}
+		}
+	}
+}

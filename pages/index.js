@@ -1,13 +1,4 @@
-import Head from "next/head";
 import styled from "styled-components";
-
-const Container = styled.div`
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-`;
 
 const Main = styled.main`
 	flex: 1;
@@ -32,19 +23,24 @@ const Main = styled.main`
 
 export default function Home() {
 	return (
-		<Container>
-			<Head>
-				<title>Isto vai dar merda 💩</title>
-				<meta name="robots" content="noindex, nofollow" />
-				<meta key="description" name="description" content="" />
-				<meta key="keywords" name="keywords" content="" />
-			</Head>
-
-			<Main>
+		<>
+			<header className="header">
+				<div className="header__left">
+					<a href="#sobre" className="header__logo">
+						<div className="header__logo">Logo</div>
+					</a>
+				</div>
+				<div className="header__right">
+					<nav className="header__navigation">
+						<p>navigation</p>
+					</nav>
+				</div>
+			</header>
+			<Main className="layout__content">
 				<span className="poop">💩</span>
 				<span className="title">Isto vai dar merda</span>
 				<span className="soon">Brevemente</span>
 			</Main>
-		</Container>
+		</>
 	);
 }

@@ -1,0 +1,119 @@
+@import "colors";
+@import "easings";
+@import "elevation";
+
+// 1. Global
+// ---------
+$body-font-family: "ivdm-sans", -apple-system, BlinkMacSystemFont, "DIN", "Open Sans", "Roboto", "Segoe UI", Roboto,
+	Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+$heading-font-family: "ivdm-serif", "Georgia", "Times", serif;
+$navbar-height: rem-calc(48);
+$scrolled-navbar: ($navbar-height * 2);
+$golden-ratio: 1.61803398875;
+$ratio: $golden-ratio;
+$top-navigation-width: clamp(rem-calc(160), 100%, rem-calc(320));
+$viewport-unit: 1vh;
+$global-font-size: 100%;
+$global-width: rem-calc(1160);
+$global-lineheight: $ratio;
+
+$body-antialiased: true;
+$global-margin: 1rem;
+$global-padding: 1rem;
+$global-position: 1rem;
+$global-weight-normal: normal;
+$global-weight-bold: bold;
+$global-radius: 0.25rem;
+$global-menu-padding: 0.7rem 1rem;
+$global-menu-nested-margin: 1rem;
+$global-text-direction: ltr;
+$global-flexbox: true;
+$global-prototype-breakpoints: false;
+$global-button-cursor: auto;
+$global-color-pick-contrast-tolerance: 0;
+$print-transparent-backgrounds: true;
+
+// 2. Breakpoints
+// --------------
+$breakpoints: (
+	small: 0,
+	medium: 640px,
+	large: 1024px,
+	xlarge: 1200px,
+	xxlarge: 1440px,
+);
+$breakpoint-medium: "screen and #{breakpoint(medium)}";
+$breakpoint-large: "screen and #{breakpoint(large)}";
+$breakpoint-xlarge: "screen and #{breakpoint(xlarge)}";
+$breakpoint-xxlarge: "screen and #{breakpoint(xxlarge)}";
+$print-breakpoint: large;
+$breakpoint-classes: (small medium large xlarge xxlarge);
+
+// 3. The Grid
+// -----------
+$grid-row-width: $global-width;
+$grid-column-count: 12;
+$grid-column-gutter: (
+	small: 16px,
+	medium: 32px,
+);
+$grid-column-align-edge: true;
+$grid-column-alias: "columns";
+$block-grid-max: 8;
+
+// 4. Base Typography
+// ------------------
+$header-font-weight: $global-weight-normal;
+$header-font-style: normal;
+$font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
+$header-color: inherit;
+$header-lineheight: $ratio;
+$header-margin-bottom: 1rem;
+$header-text-rendering: geometricPrecision;
+$small-font-size: 80%;
+$header-small-font-color: $color-gray4;
+$paragraph-lineheight: $ratio;
+$paragraph-margin-bottom: 1rem;
+$paragraph-text-rendering: optimizeLegibility;
+$anchor-color: $color-primary;
+$anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+$anchor-text-decoration: none;
+$anchor-text-decoration-hover: none;
+$flex-source-ordering-count: 6;
+$flexbox-responsive-breakpoints: true;
+$fieldset-border: none;
+$fieldset-padding: rem-calc(16);
+$fieldset-margin: rem-calc(16 0);
+$legend-padding: rem-calc(0 3);
+$form-spacing: rem-calc(16);
+$helptext-color: $color-black;
+$helptext-font-size: rem-calc(13);
+$helptext-font-style: italic;
+$input-prefix-color: $color-black;
+$input-prefix-background: $color-gray2;
+$input-prefix-border: 1px solid $color-gray4;
+$input-prefix-padding: 1rem;
+$form-label-color: $color-black;
+$form-label-font-size: rem-calc(14);
+$form-label-font-weight: $global-weight-normal;
+$form-label-line-height: 1.8;
+$select-background: $color-white;
+$select-triangle-color: $color-gray8;
+$select-radius: $global-radius;
+$input-color: $color-black;
+$input-placeholder-color: $color-gray4;
+$input-font-family: inherit;
+$input-font-size: rem-calc(16);
+$input-font-weight: $global-weight-normal;
+$input-line-height: $global-lineheight;
+$input-background: $color-gray0;
+$input-background-focus: $color-white;
+$input-background-disabled: $color-gray3;
+$input-border: 1px solid $color-gray1;
+$input-border-focus: 1px solid $color-primary;
+$input-padding: $form-spacing / 2;
+$input-shadow: inset 0 1px 1px rgba($color-black, 0.05);
+$input-shadow-focus: 0 0 4px $color-primary;
+$input-cursor-disabled: not-allowed;
+$input-transition: box-shadow 375ms, border-color 250ms ease-in-out;
+$table-padding: rem-calc(8 10 10);
