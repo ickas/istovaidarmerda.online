@@ -28,10 +28,11 @@
 	--darkBrown: #4d352d;
 	--fontLight: 300;
 	--fontBlack: 900;
+	--lineHeight: 150%;
 }
 
 html {
-	font-size: 17px;
+	font-size: 18px;
 }
 
 body {
@@ -41,6 +42,9 @@ body {
 	font-size: 1rem;
 	font-weight: var(--fontLight, 300);
 	font-display: swap;
-	line-height: 125%;
 	color: var(--default, #212121);
+}
+
+h1, p {
+	margin: 0;
 }
