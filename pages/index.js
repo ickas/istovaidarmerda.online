@@ -2,6 +2,7 @@ import Head from "next/head";
 
 import Hero from "components/Hero";
 import Schedule from "components/Schedule";
+import Where from "components/Where";
 import { events } from "../utils/schedule";
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
 
 			<Hero />
 			<Schedule events={events} />
+			<Where twitter={"https://twitter.com/IstoVai"} youtube={"https://youtube.com"} />
 		</>
 	);
 }

@@ -54,18 +54,27 @@ body {
 	color: var(--default, #212121);
 }
 
-h1, p {
+h1, h2, h3, h4, p {
 	margin: 0;
 }
 
+h2 {
+	font-size: 4rem;
+	font-weight: var(--fontBlack);
+	text-transform: uppercase;
+	color: var(--lightBrown);
+}
+
 h3 {
-	margin: 0;
 	font-size: 3rem;
 	font-weight: var(--fontBlack);
 }
 
 h4 {
-	margin: 0;
 	font-size: 1rem;
 	font-weight: var(--fontBlack);
+}
+
+p:not(:last-child) {
+	margin-bottom: 10px;
 }
