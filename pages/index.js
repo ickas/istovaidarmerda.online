@@ -1,6 +1,8 @@
 import Head from "next/head";
 
 import Hero from "components/Hero";
+import Schedule from "components/Schedule";
+import { events } from "../utils/schedule";
 
 export default function Home() {
 	return (
@@ -13,6 +15,7 @@ export default function Home() {
 			</Head>
 
 			<Hero />
+			<Schedule events={events} />
 		</>
 	);
 }

@@ -9,6 +9,14 @@
 @font-face {
 	font-family: "Rubik";
 	font-style: normal;
+	font-weight: 400;
+	src: local("Rubik Regular"), local("Rubik-Regular"),
+		url("../public/fonts/Rubik/static/Rubik-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Rubik";
+	font-style: normal;
 	font-weight: 900;
 	src: local("Rubik Black"), local("Rubik-Black"),
 		url("../public/fonts/Rubik/static/Rubik-Black.ttf") format("truetype");
@@ -27,6 +35,7 @@
 	--lightBrown: #946037;
 	--darkBrown: #4d352d;
 	--fontLight: 300;
+	--fontRegular: 400;
 	--fontBlack: 900;
 	--lineHeight: 150%;
 }
@@ -47,4 +56,16 @@ body {
 
 h1, p {
 	margin: 0;
+}
+
+h3 {
+	margin: 0;
+	font-size: 3rem;
+	font-weight: var(--fontBlack);
+}
+
+h4 {
+	margin: 0;
+	font-size: 1rem;
+	font-weight: var(--fontBlack);
 }
