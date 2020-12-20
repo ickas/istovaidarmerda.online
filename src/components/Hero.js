@@ -2,8 +2,10 @@ import React from "react";
 import styled from "styled-components";
 
 import ButtonLink from "./ButtonLink";
+import MouseImage from "./MouseImage";
 
 const Wrapper = styled.section`
+	position: relative;
 	background-color: var(--yellow);
 	width: 100vw;
 	min-height: 100vh;
@@ -13,6 +15,13 @@ const Wrapper = styled.section`
 		margin: 0 auto;
 		display: flex;
 		align-items: center;
+	}
+
+	.mouse {
+		position: absolute;
+		bottom: 15px;
+		margin-left: 50%;
+		transform: translateX(-50%);
 	}
 `;
 
@@ -102,6 +111,8 @@ const Hero = () => (
 				</CallToAction>
 			</Intro>
 		</div>
+
+		<MouseImage className="mouse" />
 	</Wrapper>
 );
 
