@@ -70,7 +70,6 @@ const Intro = styled.div`
 
 const CallToAction = styled.div`
 	margin-top: 50px;
-	width: 200px;
 	display: flex;
 
 	a {
@@ -106,8 +105,8 @@ const Hero = () => (
 					temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
 				</p>
 				<CallToAction>
-					<ButtonLink url="#0" value="Agenda" />
-					<ButtonLink url="#0" value="Hein?!" />
+					<ButtonLink url="#schedule" value="Agenda" />
+					<ButtonLink url="#hein" value="Hein?!" />
 				</CallToAction>
 			</Intro>
 		</div>

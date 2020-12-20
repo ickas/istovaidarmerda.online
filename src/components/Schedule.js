@@ -109,7 +109,7 @@ const Personas = ({ values }) =>
 	));
 
 const Schedule = ({ events }) => (
-	<Wrapper>
+	<Wrapper id="schedule">
 		<Events>
 			{Array.isArray(events) &&
 				events.map((event, index) => (
