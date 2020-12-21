@@ -92,45 +92,58 @@ const Persona = styled.div`
 
 const Personas = ({ values }) =>
 	Array.isArray(values) &&
-	values.map((persona, index) => (
-		<Persona key={index}>
-			<Link href={persona.url} target="_blank">
-				<a>
-					<div className="avatar">
-						<Image src={persona.avatar} alt={persona.name} width={50} height={50} />
-					</div>
-					<div>
-						<span className="name">{persona.name}</span>
-						<span className="job">{persona.job}</span>
-					</div>
-				</a>
-			</Link>
-		</Persona>
-	));
+	values.map((persona, index) => {
+		const key = `persona-${index}`;
+		return (
+			<Persona key={key}>
+				<Link href={persona.url} target="_blank">
+					<a>
+						<div className="avatar">
+							<Image src={persona.avatar} alt={persona.name} width={50} height={50} />
+						</div>
+						<div>
+							<span className="name">{persona.name}</span>
+							<span className="job">{persona.job}</span>
+						</div>
+					</a>
+				</Link>
+			</Persona>
+		);
+	});
 
 const Schedule = ({ events }) => (
 	<Wrapper id="schedule">
 		<Events>
 			{Array.isArray(events) &&
-				events.map((event, index) => (
-					<Event key={index}>
-						<h3>{event.date}</h3>
-						<span className="area">{event.area}</span>
-						<span className="title">{event.title}</span>
-						<div>
-							<h4>Moderador</h4>
-							<Personas values={event.moderator} />
-							<h4 style={{ marginTop: "15px" }}>Painel</h4>
-							<Personas values={event.speakers} />
-						</div>
-					</Event>
-				))}
+				events.map((event, index) => {
+					const key = `event-${index}`;
+					return (
+						<Event key={key}>
+							<h3>{event.date}</h3>
+							<span className="area">{event.area}</span>
+							<span className="title">{event.title}</span>
+							<div>
+								<h4>Moderador</h4>
+								<Personas values={event.moderator} />
+								<h4 style={{ marginTop: "15px" }}>Painel</h4>
+								<Personas values={event.speakers} />
+							</div>
+						</Event>
+					);
+				})}
 		</Events>
 	</Wrapper>
 );
 
 Schedule.propTypes = {
-	events: PropTypes.array.isRequired,
+	events: PropTypes.arrayOf(
+		PropTypes.shape({
+			area: PropTypes.string,
+			title: PropTypes.string,
+			moderator: PropTypes.string,
+			speakers: PropTypes.string,
+		}),
+	).isRequired,
 };
 
 export default Schedule;
