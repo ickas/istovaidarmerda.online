@@ -41,6 +41,8 @@ const Logo = styled.figure`
 `;
 
 const Intro = styled.div`
+	background-color: var(--yellow);
+
 	.hero__title {
 		font-size: ${rem("64px")};
 		text-transform: uppercase;

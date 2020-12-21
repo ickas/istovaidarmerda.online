@@ -14,7 +14,7 @@ const items = [
 		text: "Ir para a secção Onde",
 	},
 	{
-		target: "#about",
+		target: "#hein",
 		text: "Ir para a secção Sobre",
 	},
 ];
@@ -23,7 +23,9 @@ function IstoVaiDarMerdApp({ Component, pageProps }) {
 	return (
 		<>
 			<SkipLinks items={items} />
-			<Component {...pageProps} />
+			<main>
+				<Component {...pageProps} />
+			</main>
 		</>
 	);
 }

@@ -113,6 +113,7 @@ const Personas = ({ values }) =>
 
 const Schedule = ({ events }) => (
 	<Wrapper id="schedule">
+		<h2 className="sr-only">Agenda</h2>
 		<Events>
 			{Array.isArray(events) &&
 				events.map((event, index) => {

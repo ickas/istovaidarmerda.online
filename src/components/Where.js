@@ -69,7 +69,7 @@ const Where = ({ twitter, youtube }) => (
 				<ButtonLink
 					className="twitter"
 					borderColor="#1565C0"
-					bgColor="#1D8EEF"
+					bgColor="#0073DB"
 					url={twitter}
 					icon="twitter"
 					value="Twitter"
@@ -79,7 +79,7 @@ const Where = ({ twitter, youtube }) => (
 				<ButtonLink
 					className="youtube"
 					borderColor="#C62828"
-					bgColor="#FC0007"
+					bgColor="#ED0007"
 					url={youtube}
 					icon="youtube"
 					value="YouTube"
