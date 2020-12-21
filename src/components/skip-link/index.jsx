@@ -6,7 +6,7 @@ import { SkipLink, propTypes as ITEM } from "./link";
 
 // Styling
 const Wrapper = styled.nav`
-	width: 100%;
+  width: 100%;
 `;
 
 /**
@@ -22,15 +22,15 @@ const Wrapper = styled.nav`
  * @returns {JSX.Element}
  */
 const SkipLinks = ({ items }) => (
-	<Wrapper>
-		{items.map((item) => (
-			<SkipLink key={item.target} target={item.target} text={item.text} />
-		))}
-	</Wrapper>
+  <Wrapper>
+    {items.map((item) => (
+      <SkipLink key={item.target} target={item.target} text={item.text} />
+    ))}
+  </Wrapper>
 );
 
 SkipLinks.propTypes = {
-	items: arrayOf(shape(ITEM)).isRequired,
+  items: arrayOf(shape(ITEM)).isRequired,
 };
 
 export default SkipLinks;

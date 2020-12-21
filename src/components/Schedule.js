@@ -5,146 +5,146 @@ import Image from "next/image";
 import styled from "styled-components";
 
 const Wrapper = styled.section`
-	padding: 100px;
+  padding: 100px;
 `;
 
 const Events = styled.div`
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	grid-gap: 30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 30px;
 `;
 
 const Event = styled.div`
-	border-top: 15px solid var(--yellow);
+  border-top: 15px solid var(--yellow);
 
-	h3 {
-		margin: 10px 0 -5px 0;
-	}
+  h3 {
+    margin: 10px 0 -5px 0;
+  }
 
-	h4 {
-		margin-bottom: 10px;
-		font-size: 0.75rem;
-		color: var(--lightBrown);
-	}
+  h4 {
+    margin-bottom: 10px;
+    font-size: 0.75rem;
+    color: var(--lightBrown);
+  }
 
-	> span {
-		display: block;
-		line-height: 150%;
+  > span {
+    display: block;
+    line-height: 150%;
 
-		&.area {
-			font-style: italic;
-		}
+    &.area {
+      font-style: italic;
+    }
 
-		&.title {
-			font-weight: var(--fontBlack);
-		}
-	}
+    &.title {
+      font-weight: var(--fontBlack);
+    }
+  }
 
-	> div {
-		margin-top: 30px;
+  > div {
+    margin-top: 30px;
 
-		a {
-			color: var(--default);
-			text-decoration: none;
-		}
-	}
+    a {
+      color: var(--default);
+      text-decoration: none;
+    }
+  }
 `;
 
 const Persona = styled.div`
-	&:not(:last-child) {
-		margin-bottom: 10px;
-	}
+  &:not(:last-child) {
+    margin-bottom: 10px;
+  }
 
-	a {
-		display: flex;
+  a {
+    display: flex;
 
-		div {
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
+    div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
 
-			&.avatar {
-				margin-right: 5px;
-				width: 50px;
-				height: 50px;
+      &.avatar {
+        margin-right: 5px;
+        width: 50px;
+        height: 50px;
 
-				img {
-					border-radius: 999px;
-					object-fit: cover;
-					overflow: hidden;
-				}
-			}
-		}
+        img {
+          border-radius: 999px;
+          object-fit: cover;
+          overflow: hidden;
+        }
+      }
+    }
 
-		span {
-			&.name {
-				font-weight: var(--fontRegular);
-			}
+    span {
+      &.name {
+        font-weight: var(--fontRegular);
+      }
 
-			&.job {
-				font-size: 0.75rem;
-				font-style: italic;
-				color: var(--lightBrown);
-			}
-		}
-	}
+      &.job {
+        font-size: 0.75rem;
+        font-style: italic;
+        color: var(--lightBrown);
+      }
+    }
+  }
 `;
 
 const Personas = ({ values }) =>
-	Array.isArray(values) &&
-	values.map((persona, index) => {
-		const key = `persona-${index}`;
-		return (
-			<Persona key={key}>
-				<Link href={persona.url} target="_blank">
-					<a>
-						<div className="avatar">
-							<Image src={persona.avatar} alt={persona.name} width={50} height={50} />
-						</div>
-						<div>
-							<span className="name">{persona.name}</span>
-							<span className="job">{persona.job}</span>
-						</div>
-					</a>
-				</Link>
-			</Persona>
-		);
-	});
+  Array.isArray(values) &&
+  values.map((persona, index) => {
+    const key = `persona-${index}`;
+    return (
+      <Persona key={key}>
+        <Link href={persona.url} target="_blank">
+          <a>
+            <div className="avatar">
+              <Image src={persona.avatar} alt={persona.name} width={50} height={50} />
+            </div>
+            <div>
+              <span className="name">{persona.name}</span>
+              <span className="job">{persona.job}</span>
+            </div>
+          </a>
+        </Link>
+      </Persona>
+    );
+  });
 
 const Schedule = ({ events }) => (
-	<Wrapper id="schedule">
-		<h2 className="sr-only">Agenda</h2>
-		<Events>
-			{Array.isArray(events) &&
-				events.map((event, index) => {
-					const key = `event-${index}`;
-					return (
-						<Event key={key}>
-							<h3>{event.date}</h3>
-							<span className="area">{event.area}</span>
-							<span className="title">{event.title}</span>
-							<div>
-								<h4>Moderador</h4>
-								<Personas values={event.moderator} />
-								<h4 style={{ marginTop: "15px" }}>Painel</h4>
-								<Personas values={event.speakers} />
-							</div>
-						</Event>
-					);
-				})}
-		</Events>
-	</Wrapper>
+  <Wrapper id="schedule">
+    <h2 className="sr-only">Agenda</h2>
+    <Events>
+      {Array.isArray(events) &&
+        events.map((event, index) => {
+          const key = `event-${index}`;
+          return (
+            <Event key={key}>
+              <h3>{event.date}</h3>
+              <span className="area">{event.area}</span>
+              <span className="title">{event.title}</span>
+              <div>
+                <h4>Moderador</h4>
+                <Personas values={event.moderator} />
+                <h4 style={{ marginTop: "15px" }}>Painel</h4>
+                <Personas values={event.speakers} />
+              </div>
+            </Event>
+          );
+        })}
+    </Events>
+  </Wrapper>
 );
 
 Schedule.propTypes = {
-	events: PropTypes.arrayOf(
-		PropTypes.shape({
-			area: PropTypes.string,
-			title: PropTypes.string,
-			moderator: PropTypes.string,
-			speakers: PropTypes.string,
-		}),
-	).isRequired,
+  events: PropTypes.arrayOf(
+    PropTypes.shape({
+      area: PropTypes.string,
+      title: PropTypes.string,
+      moderator: PropTypes.string,
+      speakers: PropTypes.string,
+    }),
+  ).isRequired,
 };
 
 export default Schedule;

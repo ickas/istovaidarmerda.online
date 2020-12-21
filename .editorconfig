@@ -16,7 +16,7 @@ curly_bracket_next_line = "true"
 
 # Unix-style newlines with a newline ending every file
 [*]
-indent_style = tab
+indent_style = space
 indent_size = 2
 end_of_line = lf
 insert_final_newline = true

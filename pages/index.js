@@ -12,19 +12,19 @@ import { events } from "../utils/schedule";
  * @returns {JSX.Element}
  */
 export default function Home() {
-	return (
-		<>
-			<Head>
-				<title>Isto vai dar merda 💩</title>
-				<meta name="robots" content="noindex, nofollow" />
-				<meta key="description" name="description" content="" />
-				<meta key="keywords" name="keywords" content="" />
-			</Head>
+  return (
+    <>
+      <Head>
+        <title>Isto vai dar merda 💩</title>
+        <meta name="robots" content="noindex, nofollow" />
+        <meta key="description" name="description" content="" />
+        <meta key="keywords" name="keywords" content="" />
+      </Head>
 
-			<Hero />
-			<Schedule events={events} />
-			<Where twitter="https://twitter.com/IstoVai" youtube="https://youtube.com" />
-			<Hein />
-		</>
-	);
+      <Hero />
+      <Schedule events={events} />
+      <Where twitter="https://twitter.com/IstoVai" youtube="https://youtube.com" />
+      <Hein />
+    </>
+  );
 }
