@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-import Hero from "components/Hero";
+import Hero from "components/hero";
 import Schedule from "components/Schedule";
 import Where from "components/Where";
 import Hein from "components/Hein";
