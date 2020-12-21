@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
+import { rem } from "polished";
 
 import ButtonLink from "./ButtonLink";
 
@@ -9,32 +10,33 @@ const Wrapper = styled.section`
 	background-image: url("images/poop-pattern.svg");
 	background-repeat: repeat;
 	background-position: center;
-	padding: 100px;
+	background-size: ${rem("272px")} ${rem("256px")};
+	padding: ${rem("100px")};
 
 	> div {
 		margin: 0 auto;
-		border-radius: 50px;
+		border-radius: ${rem("50px")};
 		background-color: var(--light);
-		max-width: 1000px;
+		max-width: ${rem("1000px")};
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		padding: 50px;
+		padding: ${rem("50px")};
 		text-align: center;
-		box-shadow: 0 0 50px rgba(33, 33, 33, 0.25);
+		box-shadow: 0 0 ${rem("50px")} rgba(33, 33, 33, 0.25);
 
 		p {
-			max-width: 600px;
+			max-width: ${rem("600px")};
 		}
 	}
 `;
 
 const CallToAction = styled.div`
-	margin-top: 50px;
+	margin-top: ${rem("50px")};
 	display: flex;
 
 	a {
-		min-width: 200px;
+		min-width: ${rem("200px")};
 
 		&.twitter:hover {
 			background-color: #1565c0;
@@ -45,7 +47,7 @@ const CallToAction = styled.div`
 		}
 
 		&:not(:last-child) {
-			margin-right: 10px;
+			margin-right: ${rem("10px")};
 		}
 
 		&:hover {
@@ -55,7 +57,7 @@ const CallToAction = styled.div`
 `;
 
 const Where = ({ twitter, youtube }) => (
-	<Wrapper>
+	<Wrapper id="where">
 		<div>
 			<h2>Onde?</h2>
 			<p>
@@ -65,22 +67,24 @@ const Where = ({ twitter, youtube }) => (
 			<p>#istovaidarmerda #ivdm #istovaidarfoto #istovaidardicatech #istovaidarvinho #istovaidarrabisco</p>
 			<CallToAction>
 				<ButtonLink
-					className={"twitter"}
-					borderColor={"#1565C0"}
-					bgColor={"#1D8EEF"}
+					className="twitter"
+					borderColor="#1565C0"
+					bgColor="#1D8EEF"
 					url={twitter}
-					icon={"twitter"}
+					icon="twitter"
 					value="Twitter"
 					target="_blank"
+					label="A nossa página no Twitter"
 				/>
 				<ButtonLink
-					className={"youtube"}
-					borderColor={"#C62828"}
-					bgColor={"#FC0007"}
+					className="youtube"
+					borderColor="#C62828"
+					bgColor="#FC0007"
 					url={youtube}
-					icon={"youtube"}
+					icon="youtube"
 					value="YouTube"
 					target="_blank"
+					label="O nosso canal no Youtube"
 				/>
 			</CallToAction>
 		</div>
