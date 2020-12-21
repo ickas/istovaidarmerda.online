@@ -6,6 +6,11 @@ import Where from "components/Where";
 import Hein from "components/Hein";
 import { events } from "../utils/schedule";
 
+/**
+ * Home Page
+ *
+ * @returns {JSX.Element}
+ */
 export default function Home() {
 	return (
 		<>
@@ -18,7 +23,7 @@ export default function Home() {
 
 			<Hero />
 			<Schedule events={events} />
-			<Where twitter={"https://twitter.com/IstoVai"} youtube={"https://youtube.com"} />
+			<Where twitter="https://twitter.com/IstoVai" youtube="https://youtube.com" />
 			<Hein />
 		</>
 	);
