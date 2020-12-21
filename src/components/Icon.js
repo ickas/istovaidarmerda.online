@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 
 import icons from "../../utils/icons";
 
-const Icon = (props) => (
+const Icon = ({ fill, icon }) => (
 	<svg viewBox="0 0 32 32">
-		<path style={{ fill: props.fill }} d={icons[props.icon]} />
+		<path style={{ fill }} d={icons[icon]} />
 	</svg>
 );
 

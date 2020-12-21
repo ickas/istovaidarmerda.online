@@ -1,7 +1,8 @@
 import React from "react";
+import { string } from "prop-types";
 
-const MouseImage = (props) => (
-	<svg width={30} height={40} viewBox="0 0 30 40" {...props}>
+const MouseImage = ({ className }) => (
+	<svg width={30} height={40} viewBox="0 0 30 40" className={className}>
 		<g id="mouse" fill="#212121" data-name="mouse" transform="translate(-945 -1010)">
 			<path
 				id="mouse-alt"
@@ -21,4 +22,13 @@ const MouseImage = (props) => (
 		</g>
 	</svg>
 );
+
+MouseImage.defaultProps = {
+	className: "mouse",
+};
+
+MouseImage.propTypes = {
+	className: string,
+};
+
 export default MouseImage;

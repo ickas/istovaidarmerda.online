@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { rem } from "polished";
 
 import ButtonLink from "./ButtonLink";
 import MouseImage from "./MouseImage";
@@ -7,11 +8,12 @@ import MouseImage from "./MouseImage";
 const Wrapper = styled.section`
 	position: relative;
 	background-color: var(--yellow);
-	width: 100vw;
+	max-width: 100vw;
+	width: 100%;
 	min-height: 100vh;
 	display: flex;
 
-	> div {
+	.hero__container {
 		margin: 0 auto;
 		display: flex;
 		align-items: center;
@@ -19,14 +21,14 @@ const Wrapper = styled.section`
 
 	.mouse {
 		position: absolute;
-		bottom: 15px;
+		bottom: 1rem;
 		margin-left: 50%;
 		transform: translateX(-50%);
 	}
 `;
 
-const Logo = styled.div`
-	margin-right: 50px;
+const Logo = styled.figure`
+	margin-right: ${rem("50px")};
 	height: 100%;
 	display: flex;
 	align-items: center;
@@ -39,60 +41,61 @@ const Logo = styled.div`
 `;
 
 const Intro = styled.div`
-	h1 {
-		font-size: 4rem;
+	.hero__title {
+		font-size: ${rem("64px")};
 		text-transform: uppercase;
 		color: var(--lightBrown);
 	}
 
-	p {
-		max-width: 600px;
+	.hero__description {
+		max-width: ${rem("600px")};
 		line-height: var(--lineHeight);
 	}
 
 	svg {
 		display: block;
-		margin-bottom: -15px;
-		width: 500px;
+		margin-bottom: ${rem("-15px")};
+		width: ${rem("500px")};
 		height: auto;
 
 		text {
-			font-size: 4rem;
+			font-size: ${rem("64px")};
 			font-weight: var(--fontBlack);
 			text-transform: uppercase;
-			line-height: 4rem;
+			line-height: ${rem("64px")};
 			stroke: var(--default);
-			stroke-width: 2px;
+			stroke-width: ${rem("2px")};
 			fill: transparent;
 		}
 	}
 `;
 
 const CallToAction = styled.div`
-	margin-top: 50px;
+	margin-top: ${rem("50px")};
 	display: flex;
 
 	a {
-		min-width: 200px;
+		min-width: ${rem("200px")};
 
 		&:not(:last-child) {
-			margin-right: 10px;
+			margin-right: ${rem("10px")};
 		}
 
-		&:hover {
+		&:hover,
+		&:focus {
 			background-color: var(--darkBrown);
 		}
 	}
 `;
 
 const Hero = () => (
-	<Wrapper>
-		<div>
+	<Wrapper className="hero" data-testid="hero">
+		<div className="hero__container">
 			<Logo>
-				<img src={"/images/ivdm-logo.svg"} alt={"Isto Vai Dar Merda logo"} />
+				<img src="/images/ivdm-logo.svg" width={271} height={300} alt="Isto Vai Dar Merda logo" />
 			</Logo>
 			<Intro>
-				<h1>
+				<h1 className="hero__title" aria-label="Isto Vai Dar Merda" data-testid="hero-title">
 					<svg xmlns="http://www.w3.org/2000/svg" width={498} height={85}>
 						<text x={0} y={65}>
 							Isto Vai Dar
@@ -100,13 +103,13 @@ const Hero = () => (
 					</svg>
 					Merda
 				</h1>
-				<p>
-					O <i>Isto Vai Dar Merda</i> é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar
+				<p className="hero__description" data-testid="hero-description">
+					O <i>Isto Vai Dar Merda</i> é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar
 					temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
 				</p>
-				<CallToAction>
-					<ButtonLink url="#schedule" value="Agenda" />
-					<ButtonLink url="#hein" value="Hein?!" />
+				<CallToAction className="hero__call-to-action">
+					<ButtonLink url="/#schedule" value="Agenda" label="Consulta a Agenda" />
+					<ButtonLink url="/#hein" value="Hein?!" label="Sabe mais sobre o evento" />
 				</CallToAction>
 			</Intro>
 		</div>

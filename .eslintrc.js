@@ -24,4 +24,12 @@ module.exports = {
 		"jsx-a11y/anchor-is-valid": "off",
 		"jsx-a11y/anchor-has-content": "off",
 	},
+	settings: {
+		"import/resolver": {
+			node: {
+				extensions: [".js", ".jsx", ".ts", ".tsx"],
+				moduleDirectory: ["node_modules", "src/"],
+			},
+		},
+	},
 };

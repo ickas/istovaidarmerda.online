@@ -13,7 +13,7 @@ const Hein = () => (
 		<div>
 			<h2>O quê?</h2>
 			<p>
-				O <i>Isto Vai Dar Merda</i> é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar
+				O <i>Isto Vai Dar Merda</i> é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar
 				temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
 			</p>
 			<p>
