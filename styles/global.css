@@ -119,13 +119,13 @@ p:not(:last-child) {
 	margin-left: auto;
 	margin-right: auto;
 	opacity: 1;
-	outline-color: var(--color-gray1, #ecedf0);
+	outline-color: var(--default, #ecedf0);
 	padding: 0 0.5rem;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
 	transition: all 64ms ease-in;
-	width: calc(100% - 11.25rem);
+	width: 18rem;
 	z-index: 3;
 	position: absolute;
 	top: 0.5rem;
@@ -150,5 +150,5 @@ p:not(:last-child) {
 .skip-link,
 .skip-link:focus,
 .skip-link:hover {
-	color: var(--default);
+	color: var(--light);
 }

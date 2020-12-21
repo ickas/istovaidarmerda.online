@@ -5,7 +5,7 @@ import { arrayOf, shape } from "prop-types";
 import { SkipLink, propTypes as ITEM } from "./link";
 
 // Styling
-const Wrapper = styled.div`
+const Wrapper = styled.nav`
 	width: 100%;
 `;
 
