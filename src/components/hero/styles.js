@@ -47,7 +47,6 @@ export const Intro = styled.div`
 
   .hero__description {
     max-width: ${rem("600px")};
-    line-height: var(--lineHeight);
   }
 
   svg {
