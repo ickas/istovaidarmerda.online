@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Link from "next/link";
-import Image from "next/image";
 import styled from "styled-components";
 
 const Wrapper = styled.section`
@@ -99,7 +98,7 @@ const Personas = ({ values }) =>
         <Link href={persona.url} target="_blank">
           <a>
             <div className="avatar">
-              <Image src={persona.avatar} alt={persona.name} width={50} height={50} />
+              <img src={persona.avatar} alt={persona.name} width={50} height={50} />
             </div>
             <div>
               <span className="name">{persona.name}</span>
