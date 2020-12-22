@@ -5,6 +5,7 @@ import Schedule from "components/Schedule";
 import Where from "components/Where";
 import Hein from "components/Hein";
 import Partners from "components/Partners";
+import Footer from "components/Footer";
 import { events } from "../utils/schedule";
 import { partners } from "../utils/partners";
 
@@ -28,6 +29,7 @@ export default function Home() {
       <Where twitter="https://twitter.com/IstoVai" youtube="https://youtube.com" />
       <Hein />
       <Partners partners={partners} />
+      <Footer />
     </>
   );
 }
