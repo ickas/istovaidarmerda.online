@@ -76,7 +76,7 @@ const Footer = () => (
             </Link>
           </li>
           <li>
-            <Link href="#0" passHref>
+            <Link href="https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg" passHref>
               <a target="_blank">Youtube</a>
             </Link>
           </li>
@@ -86,7 +86,7 @@ const Footer = () => (
         <h4>Media</h4>
         <ul>
           <li>
-            <Link href="#0" passHref>
+            <Link href="https://drive.google.com/drive/folders/1J4i9QUIF_M7-OQ8qXOPmOJdGK3O7HUqR?usp=sharing" passHref>
               <a target="_blank">Press Kit</a>
             </Link>
           </li>
