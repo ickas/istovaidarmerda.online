@@ -92,9 +92,8 @@ const Persona = styled.div`
 const Personas = ({ values }) =>
   Array.isArray(values) &&
   values.map((persona, index) => {
-    const key = `persona-${index}`;
     return (
-      <Persona key={key}>
+      <Persona key={`persona-${index}`}>
         <Link href={persona.url} target="_blank">
           <a>
             <div className="avatar">
@@ -138,10 +137,25 @@ const Schedule = ({ events }) => (
 Schedule.propTypes = {
   events: PropTypes.arrayOf(
     PropTypes.shape({
+      date: PropTypes.string,
       area: PropTypes.string,
       title: PropTypes.string,
-      moderator: PropTypes.string,
-      speakers: PropTypes.string,
+      moderator: PropTypes.arrayOf(
+        PropTypes.shape({
+          avatar: PropTypes.string,
+          name: PropTypes.string,
+          job: PropTypes.string,
+          url: PropTypes.string,
+        }),
+      ),
+      speakers: PropTypes.arrayOf(
+        PropTypes.shape({
+          avatar: PropTypes.string,
+          name: PropTypes.string,
+          job: PropTypes.string,
+          url: PropTypes.string,
+        }),
+      ),
     }),
   ).isRequired,
 };
