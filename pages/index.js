@@ -1,11 +1,10 @@
 import Head from "next/head";
-
 import Hero from "components/hero";
-import Schedule from "components/Schedule";
-import Where from "components/Where";
-import Hein from "components/Hein";
-import Partners from "components/Partners";
-import Footer from "components/Footer";
+import Schedule from "components/schedule";
+import Where from "components/where";
+import Hein from "components/hein";
+import Partners from "components/partners";
+import Footer from "components/footer";
 import { events } from "../utils/schedule";
 import { partners } from "../utils/partners";
 

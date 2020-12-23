@@ -94,6 +94,14 @@ p:not(:last-child) {
   margin-bottom: 10px;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  .is-visible,
+  .is-visible:after,
+  .is-visible:before {
+    animation-play-state: running;
+  }
+}
+
 .js-focus-visible :focus:not(.focus-visible) {
   outline: none;
 }

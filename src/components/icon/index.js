@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import icons from "../../utils/icons";
+import icons from "../../../utils/icons";
 
 const Icon = ({ fill, icon }) => (
   <svg viewBox="0 0 32 32">
