@@ -1,4 +1,4 @@
-export const events = [
+export const agenda = [
   {
     date: "12 Jan",
     area: "Profissionais da Saúde e da Ciência",

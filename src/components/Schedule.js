@@ -2,10 +2,24 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "next/link";
 import styled from "styled-components";
+
+import { rem } from "polished";
 import { device } from "utils/breakpoints";
 
 const Wrapper = styled.section`
-  padding: 30px;
+  padding: 50px 30px 30px 30px;
+
+  h2 {
+    margin-bottom: 50px;
+    font-size: ${rem("40px")};
+    text-align: center;
+  }
+
+  @media ${device.s} {
+    h2 {
+      font-size: ${rem("64px")};
+    }
+  }
 
   @media ${device.l} {
     padding: 100px;
@@ -18,6 +32,16 @@ const Events = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   grid-gap: 30px;
+
+  & + h2 {
+    margin-top: 50px;
+  }
+
+  @media ${device.s} {
+    & + h2 {
+      margin-top: 100px;
+    }
+  }
 `;
 
 const Event = styled.div`
@@ -41,8 +65,14 @@ const Event = styled.div`
       font-style: italic;
     }
 
-    &.title {
+    &.title,
+    &.rubric-title {
       font-weight: var(--fontBlack);
+    }
+
+    &.rubric-title {
+      margin-top: 10px;
+      font-size: 1.2rem;
     }
   }
 
@@ -116,12 +146,12 @@ const Personas = ({ values }) =>
     );
   });
 
-const Schedule = ({ events }) => (
+const Schedule = ({ agenda, rubrics }) => (
   <Wrapper id="schedule">
-    <h2 className="sr-only">Agenda</h2>
+    <h2>Agenda</h2>
     <Events>
-      {Array.isArray(events) &&
-        events.map((event, index) => {
+      {Array.isArray(agenda) &&
+        agenda.map((event, index) => {
           const key = `event-${index}`;
           return (
             <Event key={key}>
@@ -138,11 +168,27 @@ const Schedule = ({ events }) => (
           );
         })}
     </Events>
+
+    <h2>Rubricas</h2>
+    <Events>
+      {Array.isArray(rubrics) &&
+        rubrics.map((event, index) => {
+          const key = `event-${index}`;
+          return (
+            <Event key={key}>
+              <span className="rubric-title">{event.title}</span>
+              <div>
+                <Personas values={event.speakers} />
+              </div>
+            </Event>
+          );
+        })}
+    </Events>
   </Wrapper>
 );
 
 Schedule.propTypes = {
-  events: PropTypes.arrayOf(
+  agenda: PropTypes.arrayOf(
     PropTypes.shape({
       date: PropTypes.string,
       area: PropTypes.string,
