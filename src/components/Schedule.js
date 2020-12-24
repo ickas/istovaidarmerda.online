@@ -131,8 +131,8 @@ const Personas = ({ values }) =>
   values.map((persona, index) => {
     return (
       <Persona key={`persona-${index}`}>
-        <Link href={persona.url} target="_blank">
-          <a>
+        <Link href={persona.url} passHred>
+          <a rel="noopener noreferrer" target="_blank">
             <div className="avatar">
               <img src={persona.avatar} alt={persona.name} width={50} height={50} />
             </div>
