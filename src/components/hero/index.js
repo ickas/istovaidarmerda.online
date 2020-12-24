@@ -20,7 +20,7 @@ const Hero = () => {
     <Styles.Wrapper ref={ref} className={classes} data-testid="hero">
       <div className="hero__container">
         <Styles.Logo>
-          <img src="/images/ivdm-logo.svg" width={271} height={300} alt="Isto Vai Dar Merda logo" />
+          <img src="/images/ivdm-logo.svg" width={271} height={300} alt="Isto Vai Dar Merda logo" loading="lazy" />
         </Styles.Logo>
         <Styles.Intro>
           <h1 className="hero__title" aria-label="Isto Vai Dar Merda" data-testid="hero-title">

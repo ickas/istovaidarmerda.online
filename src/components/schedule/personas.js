@@ -1,7 +1,6 @@
 import React from "react";
 import { string } from "prop-types";
 import Link from "next/link";
-import Image from "next/image";
 import * as Styles from "./styles";
 import "./types.d";
 
@@ -34,7 +33,7 @@ const Personas = ({ values, title }) => {
           <Link href={persona.url}>
             <a target="_blank">
               <div className="avatar">
-                <Image src={persona.avatar} alt={persona.name} width={50} height={50} />
+                <img src={persona.avatar} alt={persona.name} width={50} height={50} loading="lazy" />
               </div>
               <div>
                 <span className="name">{persona.name}</span>

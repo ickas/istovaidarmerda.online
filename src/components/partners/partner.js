@@ -12,7 +12,7 @@ const Partner = ({ bg, logo, name, url }) => (
   <Styles.Logo bg={bg}>
     <Link href={url} passHref>
       <a target="_blank">
-        <img src={logo} alt={name} />
+        <img src={logo} alt={name} loading="lazy" />
       </a>
     </Link>
   </Styles.Logo>
