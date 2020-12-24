@@ -1,30 +1,49 @@
 import styled from "styled-components";
 import { rem } from "polished";
+import { device } from "utils/breakpoints";
 
 export const Wrapper = styled.section`
   background-color: var(--yellow);
-  padding: 100px;
+  padding: ${rem("30px")};
   text-align: center;
+
+  h2 {
+    font-size: ${rem("40px")};
+  }
+
+  @media ${device.s} {
+    padding: ${rem("50px")};
+
+    h2 {
+      font-size: ${rem("64px")};
+    }
+  }
 `;
 
 export const Logos = styled.div`
-  --itemWidth: 250px;
-  width: min-content;
-  margin: 50px auto 0 auto;
+  --itemWidth: 125px;
+  --borderRadius: 15px;
+  margin: 35px auto 0 auto;
 
   ul {
     margin: 0;
-    display: grid;
-    grid-template-columns: repeat(4, var(--itemWidth));
-    grid-gap: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     padding: 0;
+  }
+
+  @media ${device.l} {
+    --itemWidth: 250px;
+    --borderRadius: 50px;
   }
 `;
 
 export const Logo = styled.li`
   list-style: none;
   position: relative;
-  border-radius: ${rem("50px")};
+  margin: 10px;
+  border-radius: var(--borderRadius);
   background-color: ${({ bg }) => bg || "var(--light)"};
   width: var(--itemWidth);
   height: var(--itemWidth);
@@ -34,7 +53,7 @@ export const Logo = styled.li`
     top: 0;
     left: 0;
     position: absolute;
-    border-radius: ${rem("50px")};
+    border-radius: var(--borderRadius);
     opacity: 0.5;
     box-shadow: 0 0 ${rem("50px")} rgba(33, 33, 33, 0.5);
     width: 100%;
@@ -54,8 +73,9 @@ export const Logo = styled.li`
     align-items: center;
 
     img {
-      max-width: 180px;
-      max-height: 150px;
+      --maxSize: 70%;
+      max-width: var(--maxSize);
+      max-height: var(--maxSize);
     }
   }
 
@@ -64,5 +84,9 @@ export const Logo = styled.li`
     &:after {
       opacity: 1;
     }
+  }
+
+  @media ${device.l} {
+    margin: 15px;
   }
 `;

@@ -25,7 +25,7 @@ export default function Home() {
 
       <Hero />
       <Schedule events={events} />
-      <Where twitter="https://twitter.com/IstoVai" youtube="https://youtube.com" />
+      <Where twitter="https://twitter.com/IstoVai" youtube="https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg" />
       <Hein />
       <Partners partners={partners} />
       <Footer />
