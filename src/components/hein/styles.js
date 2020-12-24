@@ -31,6 +31,7 @@ export const Wrapper = styled.section`
   grid-gap: 100px;
   padding: 100px;
   overflow: hidden;
+  background: var(--light);
 
   .hein__column {
     opacity: 0;
