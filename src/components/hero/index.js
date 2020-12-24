@@ -1,16 +1,28 @@
 import React from "react";
+import classNames from "classnames";
+import { useInView } from "react-intersection-observer";
 
 import * as Styles from "./styles";
-import ButtonLink from "../ButtonLink";
-import MouseImage from "../MouseImage";
+import ButtonLink from "../button-link";
+import MouseImage from "../mouse-image";
 import { useBreakpoints } from "hooks/useBreakpoints";
 
 const Hero = () => {
   let widthBreakpoint = useBreakpoints("(min-width: 700px)");
   let mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 812px)");
 
+  const { ref, inView } = useInView({
+    threshold: 0,
+    initialInView: true,
+    triggerOnce: true,
+  });
+
+  const classes = classNames("hero", {
+    "is-visible": inView,
+  });
+
   return (
-    <Styles.Wrapper className="hero" data-testid="hero">
+    <Styles.Wrapper ref={ref} className={classes} data-testid="hero">
       <div className="hero__container">
         <Styles.Logo>
           <img src="/images/ivdm-logo.svg" width="100%" height="auto" alt="Isto Vai Dar Merda logo" />
@@ -23,7 +35,7 @@ const Hero = () => {
                   Isto Vai Dar
                 </text>
               </svg>
-              Merda
+              <span className="hero__title__markup">Merda</span>
             </h1>
           ) : (
             <h1 className="hero__title" aria-label="Isto Vai Dar Merda" data-testid="hero-title">
