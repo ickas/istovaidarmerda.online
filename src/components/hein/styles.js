@@ -1,5 +1,6 @@
 import styled, { keyframes } from "styled-components";
-import { timingFunctions } from "polished";
+import { rem, timingFunctions } from "polished";
+import { device } from "utils/breakpoints";
 
 const slideInRight = keyframes`
   from {
@@ -26,12 +27,17 @@ const slideInLeft = keyframes`
 `;
 
 export const Wrapper = styled.section`
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  grid-gap: 100px;
-  padding: 100px;
+  padding: ${rem("30px")};
   overflow: hidden;
   background: var(--light);
+
+  .hein__content {
+    margin: 0 auto;
+    max-width: 1280px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-gap: ${rem("30px")};
+  }
 
   .hein__column {
     opacity: 0;
@@ -50,11 +56,30 @@ export const Wrapper = styled.section`
       animation-name: ${slideInLeft};
       animation-delay: 250ms;
     }
+
+    h2 {
+      margin-bottom: ${rem("15px")};
+      font-size: ${rem("40px")};
+    }
   }
 
   &.is-visible {
     .hein__column {
       animation-play-state: running;
+    }
+  }
+
+  @media ${device.s} {
+    .hein__column h2 {
+      font-size: ${rem("64px")};
+    }
+  }
+
+  @media ${device.s} {
+    padding: ${rem("50px")};
+
+    .hein__content {
+      grid-gap: ${rem("50px")};
     }
   }
 `;
