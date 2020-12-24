@@ -28,8 +28,20 @@ export const Logo = styled.li`
   background-color: ${({ bg }) => bg || "var(--light)"};
   width: var(--itemWidth);
   height: var(--itemWidth);
-  box-shadow: 0 0 ${rem("50px")} rgba(33, 33, 33, 0.25);
-  transition-duration: 0.5s;
+
+  &:after {
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    border-radius: ${rem("50px")};
+    opacity: 0.5;
+    box-shadow: 0 0 ${rem("50px")} rgba(33, 33, 33, 0.5);
+    width: 100%;
+    height: 100%;
+    transition-duration: 500ms;
+    transition-property: opacity;
+  }
 
   a {
     position: absolute;
@@ -47,7 +59,10 @@ export const Logo = styled.li`
     }
   }
 
-  &:hover {
-    box-shadow: 0 0 ${rem("75px")} rgba(33, 33, 33, 0.5);
+  &:hover,
+  &:focus {
+    &:after {
+      opacity: 1;
+    }
   }
 `;
