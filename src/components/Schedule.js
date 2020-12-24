@@ -211,6 +211,19 @@ Schedule.propTypes = {
       ),
     }),
   ).isRequired,
+  rubrics: PropTypes.arrayOf(
+    PropTypes.shape({
+      title: PropTypes.string,
+      speakers: PropTypes.arrayOf(
+        PropTypes.shape({
+          avatar: PropTypes.string,
+          name: PropTypes.string,
+          job: PropTypes.string,
+          url: PropTypes.string,
+        }),
+      ),
+    }),
+  ).isRequired,
 };
 
 export default Schedule;
