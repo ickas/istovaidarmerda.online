@@ -1,25 +1,31 @@
 import React from "react";
 import Link from "next/link";
 import styled from "styled-components";
+import { device } from "utils/breakpoints";
 
 const Wrapper = styled.footer`
   background-color: var(--lightBrown);
-  padding: 100px 100px 50px 100px;
+  padding: 50px 30px 15px 30px;
   color: var(--light);
+
+  @media ${device.s} {
+    padding: 50px 100px 30px 100px;
+  }
 `;
 
 const FooterMenu = styled.div`
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  max-width: 1280px;
+  margin: 0 auto;
   text-align: center;
 
   h4 {
-    margin-bottom: 30px;
+    margin-bottom: 15px;
+    color: var(--darkBrown);
     text-transform: uppercase;
   }
 
   ul {
-    margin: 0;
+    margin: 0 0 50px 0;
     padding: 0;
 
     li {
@@ -40,10 +46,14 @@ const FooterMenu = styled.div`
       }
     }
   }
+
+  @media ${device.s} {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
 `;
 
 const Copyright = styled.div`
-  margin-top: 50px;
   font-size: 0.85rem;
   text-align: center;
   color: var(--darkBrown);
@@ -57,12 +67,16 @@ const Footer = () => (
         <ul>
           <li>
             <Link href="mailto:istovaidarmerda.online@gmail.com" passHref>
-              <a target="_blank">Email</a>
+              <a target="_blank" rel="noopener noreferrer">
+                Email
+              </a>
             </Link>
           </li>
           <li>
             <Link href="https://twitter.com/SoniaTelesF" passHref>
-              <a target="_blank">@SoniaTelesF</a>
+              <a target="_blank" rel="noopener noreferrer">
+                @SoniaTelesF
+              </a>
             </Link>
           </li>
         </ul>
@@ -72,12 +86,16 @@ const Footer = () => (
         <ul>
           <li>
             <Link href="https://twitter.com/IstoVai" passHref>
-              <a target="_blank">Twitter</a>
+              <a target="_blank" rel="noopener noreferrer">
+                Twitter
+              </a>
             </Link>
           </li>
           <li>
             <Link href="https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg" passHref>
-              <a target="_blank">Youtube</a>
+              <a target="_blank" rel="noopener noreferrer">
+                Youtube
+              </a>
             </Link>
           </li>
         </ul>

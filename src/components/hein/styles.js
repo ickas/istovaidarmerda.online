@@ -70,16 +70,14 @@ export const Wrapper = styled.section`
   }
 
   @media ${device.s} {
-    .hein__column h2 {
-      font-size: ${rem("64px")};
-    }
-  }
-
-  @media ${device.s} {
     padding: ${rem("50px")};
 
     .hein__content {
       grid-gap: ${rem("50px")};
+    }
+
+    .hein__column h2 {
+      font-size: ${rem("64px")};
     }
   }
 `;
