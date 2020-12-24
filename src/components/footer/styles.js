@@ -11,9 +11,10 @@ export const FooterMenu = styled.div`
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   text-align: center;
 
-  h4 {
+  h3 {
     margin-bottom: 30px;
     text-transform: uppercase;
+    font-size: 1rem;
   }
 
   ul {
@@ -44,5 +45,5 @@ export const Copyright = styled.div`
   margin-top: 50px;
   font-size: 0.85rem;
   text-align: center;
-  color: var(--darkBrown);
+  color: var(--light);
 `;

@@ -6,7 +6,7 @@ const Footer = () => (
   <Styles.Wrapper>
     <Styles.FooterMenu>
       <div>
-        <h4>Contactos</h4>
+        <h3>Contactos</h3>
         <ul>
           <li>
             <Link href="mailto:istovaidarmerda.online@gmail.com" passHref>
@@ -21,7 +21,7 @@ const Footer = () => (
         </ul>
       </div>
       <div>
-        <h4>Social</h4>
+        <h3>Social</h3>
         <ul>
           <li>
             <Link href="https://twitter.com/IstoVai" passHref>
@@ -36,7 +36,7 @@ const Footer = () => (
         </ul>
       </div>
       <div>
-        <h4>Media</h4>
+        <h3>Media</h3>
         <ul>
           <li>
             <Link href="#0" passHref>
