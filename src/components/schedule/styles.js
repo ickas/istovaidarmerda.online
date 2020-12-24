@@ -25,6 +25,7 @@ const slideInUpEvent = keyframes`
 
 export const Wrapper = styled.section`
   padding: 100px;
+  background: var(--light);
 `;
 
 export const EventsWrapper = styled.div`
