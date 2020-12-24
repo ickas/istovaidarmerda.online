@@ -1,5 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
+import { device } from "utils/breakpoints";
 
 export const slideInCard = keyframes`
   from {
@@ -19,7 +20,7 @@ export const Wrapper = styled.section`
   background-repeat: repeat;
   background-position: center;
   background-size: ${rem("272px")} ${rem("256px")};
-  padding: ${rem("100px")};
+  padding: ${rem("30px")};
   overflow: hidden;
 
   @media (prefers-reduced-motion: no-preference) {
@@ -34,7 +35,7 @@ export const Wrapper = styled.section`
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: ${rem("50px")};
+    padding: ${rem("30px")};
     text-align: center;
     position: relative;
     opacity: 0;
@@ -56,6 +57,11 @@ export const Wrapper = styled.section`
       height: 100%;
     }
 
+    h2 {
+      margin-bottom: ${rem("15px")};
+      font-size: ${rem("40px")};
+    }
+
     p {
       max-width: ${rem("600px")};
     }
@@ -67,13 +73,30 @@ export const Wrapper = styled.section`
       animation-play-state: running;
     }
   }
+
+  @media ${device.s} {
+    .card h2 {
+      font-size: ${rem("64px")};
+    }
+  }
+
+  @media ${device.m} {
+    padding: ${rem("100px")};
+
+    .card {
+      padding: ${rem("50px")};
+    }
+  }
 `;
 
 export const CallToAction = styled.div`
-  margin-top: ${rem("50px")};
+  margin-top: ${rem("45px")};
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
   a {
+    margin: 5px;
     min-width: ${rem("200px")};
 
     &.twitter:hover {
@@ -82,10 +105,6 @@ export const CallToAction = styled.div`
 
     &.youtube:hover {
       background-color: #c62828;
-    }
-
-    &:not(:last-child) {
-      margin-right: ${rem("10px")};
     }
 
     &:hover {
