@@ -2,14 +2,21 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "next/link";
 import styled from "styled-components";
+import { device } from "utils/breakpoints";
 
 const Wrapper = styled.section`
-  padding: 100px;
+  padding: 30px;
+
+  @media ${device.l} {
+    padding: 100px;
+  }
 `;
 
 const Events = styled.div`
+  margin: 0 auto;
+  max-width: 1440px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   grid-gap: 30px;
 `;
 
