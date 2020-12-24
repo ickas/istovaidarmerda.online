@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { rem } from "polished";
-import { device } from "utils/breakpoints";
+import { device } from "../../../utils/breakpoints";
 
 export const Wrapper = styled.section`
   background-color: var(--yellow);
@@ -48,7 +48,7 @@ export const Logo = styled.li`
   width: var(--itemWidth);
   height: var(--itemWidth);
 
-  &:after {
+  &:before {
     content: "";
     top: 0;
     left: 0;

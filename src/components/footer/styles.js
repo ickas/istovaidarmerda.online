@@ -1,24 +1,29 @@
 import styled from "styled-components";
+import { device } from "../../../utils/breakpoints";
 
 export const Wrapper = styled.footer`
   background-color: var(--lightBrown);
-  padding: 100px 100px 50px 100px;
+  padding: 50px 30px 15px 30px;
   color: var(--light);
+
+  @media ${device.s} {
+    padding: 50px 100px 30px 100px;
+  }
 `;
 
 export const FooterMenu = styled.div`
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  max-width: 1280px;
+  margin: 0 auto;
   text-align: center;
 
-  h3 {
-    margin-bottom: 30px;
+  h4 {
+    margin-bottom: 15px;
+    color: var(--darkBrown);
     text-transform: uppercase;
-    font-size: 1rem;
   }
 
   ul {
-    margin: 0;
+    margin: 0 0 50px 0;
     padding: 0;
 
     li {
@@ -39,11 +44,15 @@ export const FooterMenu = styled.div`
       }
     }
   }
+
+  @media ${device.s} {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
 `;
 
 export const Copyright = styled.div`
-  margin-top: 50px;
   font-size: 0.85rem;
   text-align: center;
-  color: var(--light);
+  color: var(--darkBrown);
 `;

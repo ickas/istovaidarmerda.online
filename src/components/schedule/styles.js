@@ -1,5 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
+import { device } from "../../../utils/breakpoints";
 
 const slideInLeftEventBorder = keyframes`
   from {
@@ -24,19 +25,51 @@ const slideInUpEvent = keyframes`
 `;
 
 export const Wrapper = styled.section`
-  padding: 100px;
-  background: var(--light);
+  --title-margin: 50px;
+  padding: 50px 30px 30px 30px;
+
+  .schedule {
+    &__title {
+      margin: var(--title-margin) 0;
+      font-size: ${rem("40px")};
+      text-align: center;
+
+      @media ${device.s} {
+        font-size: ${rem("64px")};
+      }
+    }
+  }
+
+  .schedule__agenda .schedule__title {
+    margin-top: 0;
+  }
+
+  @media ${device.l} {
+    padding: ${rem("100px")};
+  }
+
+  @media ${device.s} {
+    --title-margin: 100px;
+  }
 `;
 
-export const EventsWrapper = styled.div`
+export const EventsWrapper = styled.ul`
   --events-gap: ${rem("30px")};
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: 1fr;
   grid-column-gap: var(--events-gap);
   grid-row-gap: calc(var(--events-gap) * 2);
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1440px;
+  list-style-type: none;
+
+  @media ${device.s} {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
 `;
 
-export const Event = styled.div`
+export const Event = styled.li`
   --ivdm-event-delay: 0;
   --ivdm-event-duration: 500ms;
   --ivdm-event-stagger: 125ms;
@@ -67,7 +100,8 @@ export const Event = styled.div`
   }
 
   .event__topic {
-    height: ${rem("82px")};
+    height: auto;
+    max-height: ${rem("82px")};
     --ivdm-event-stagger: 125ms;
 
     span {
@@ -80,6 +114,7 @@ export const Event = styled.div`
 
       &.title {
         font-weight: var(--fontBlack);
+        margin-bottom: 10px;
       }
     }
   }
@@ -87,6 +122,12 @@ export const Event = styled.div`
   .event__section {
     margin-top: ${rem("30px", "18px")};
     --ivdm-event-stagger: 187.5ms;
+
+    &__title {
+      margin-bottom: 10px;
+      font-size: 0.75rem;
+      color: var(--lightBrown);
+    }
 
     .event__item + .event__item {
       margin-top: ${rem("15px", "18px")};
@@ -103,6 +144,13 @@ export const Event = styled.div`
       margin-bottom: ${rem("10px", "18px")};
       font-size: ${rem("12px", "18px")};
       color: var(--lightBrown);
+    }
+  }
+
+  &[data-type="rubrics"] {
+    .title {
+      margin-top: 10px;
+      font-size: 1.2rem;
     }
   }
 
@@ -140,12 +188,12 @@ export const Persona = styled.div`
   a {
     display: flex;
 
-    div {
+    .persona {
       display: flex;
       flex-direction: column;
       justify-content: center;
 
-      &.avatar {
+      &__avatar {
         margin-right: ${rem("5px", "18px")};
         width: ${rem("50px", "18px")};
         height: ${rem("50px", "18px")};
@@ -154,7 +202,15 @@ export const Persona = styled.div`
           border-radius: ${rem("50px", "18px")};
           object-fit: cover;
           overflow: hidden;
+          background-color: var(--yellow);
         }
+      }
+
+      &__metadata {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
       }
     }
 

@@ -1,8 +1,14 @@
 import React from "react";
 import { string } from "prop-types";
 
+/**
+ * Mouse Image component
+ *
+ * @param {{ className: string | undefined }} props
+ * @returns {JSX.Element}
+ */
 const MouseImage = ({ className }) => (
-  <svg width={30} height={40} viewBox="0 0 30 40" className={className}>
+  <svg width={30} height={40} viewBox="0 0 30 40" className={className} data-testid="mouse-image">
     <g id="mouse" fill="#212121" data-name="mouse" transform="translate(-945 -1010)">
       <path
         id="mouse-alt"

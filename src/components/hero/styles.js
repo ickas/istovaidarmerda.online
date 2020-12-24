@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
-import { device } from "utils/breakpoints";
+import { device } from "../../../utils/breakpoints";
 
 const fadeInElement = keyframes`
   from {

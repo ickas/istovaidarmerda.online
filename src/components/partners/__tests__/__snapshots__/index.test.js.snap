@@ -1,0 +1,303 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/partners <Partner />r should render without errors 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <li
+        class="styles__Logo-sc-12ppjjf-2 dUaszc"
+      >
+        <a
+          href="https://nacional2podcast.pt"
+          rel="noreferrer noopener"
+          target="_blank"
+        >
+          <img
+            alt="Nacional 2 Podcast"
+            loading="lazy"
+            src="/images/partners/n2-podcast.svg"
+          />
+        </a>
+      </li>
+    </div>
+  </body>,
+  "container": <div>
+    <li
+      class="styles__Logo-sc-12ppjjf-2 dUaszc"
+    >
+      <a
+        href="https://nacional2podcast.pt"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <img
+          alt="Nacional 2 Podcast"
+          loading="lazy"
+          src="/images/partners/n2-podcast.svg"
+        />
+      </a>
+    </li>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`components/partners <Partners />r should render without errors 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="styles__Wrapper-sc-12ppjjf-0 dZVNnC"
+      >
+        <h2>
+          Apoios
+        </h2>
+        <div
+          class="styles__Logos-sc-12ppjjf-1 fJPjCO"
+        >
+          <ul>
+            <li
+              class="styles__Logo-sc-12ppjjf-2 djsRzM"
+            >
+              <a
+                href="https://inglesparamarketing.com"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <img
+                  alt="market[ING]"
+                  loading="lazy"
+                  src="/images/partners/marketing-logo.svg"
+                />
+              </a>
+            </li>
+            <li
+              class="styles__Logo-sc-12ppjjf-2 dUaszc"
+            >
+              <a
+                href="https://nacional2podcast.pt"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <img
+                  alt="Nacional 2 Podcast"
+                  loading="lazy"
+                  src="/images/partners/n2-podcast.svg"
+                />
+              </a>
+            </li>
+            <li
+              class="styles__Logo-sc-12ppjjf-2 kqKuXU"
+            >
+              <a
+                href="https://istuff.pt"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <img
+                  alt="iStuff"
+                  loading="lazy"
+                  src="/images/partners/istuff.png"
+                />
+              </a>
+            </li>
+            <li
+              class="styles__Logo-sc-12ppjjf-2 dUaszc"
+            >
+              <a
+                href="https://facebook.com/doccmedia"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <img
+                  alt="Docc Media"
+                  loading="lazy"
+                  src="/images/partners/doccmedia.png"
+                />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="styles__Wrapper-sc-12ppjjf-0 dZVNnC"
+    >
+      <h2>
+        Apoios
+      </h2>
+      <div
+        class="styles__Logos-sc-12ppjjf-1 fJPjCO"
+      >
+        <ul>
+          <li
+            class="styles__Logo-sc-12ppjjf-2 djsRzM"
+          >
+            <a
+              href="https://inglesparamarketing.com"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <img
+                alt="market[ING]"
+                loading="lazy"
+                src="/images/partners/marketing-logo.svg"
+              />
+            </a>
+          </li>
+          <li
+            class="styles__Logo-sc-12ppjjf-2 dUaszc"
+          >
+            <a
+              href="https://nacional2podcast.pt"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <img
+                alt="Nacional 2 Podcast"
+                loading="lazy"
+                src="/images/partners/n2-podcast.svg"
+              />
+            </a>
+          </li>
+          <li
+            class="styles__Logo-sc-12ppjjf-2 kqKuXU"
+          >
+            <a
+              href="https://istuff.pt"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <img
+                alt="iStuff"
+                loading="lazy"
+                src="/images/partners/istuff.png"
+              />
+            </a>
+          </li>
+          <li
+            class="styles__Logo-sc-12ppjjf-2 dUaszc"
+          >
+            <a
+              href="https://facebook.com/doccmedia"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <img
+                alt="Docc Media"
+                loading="lazy"
+                src="/images/partners/doccmedia.png"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

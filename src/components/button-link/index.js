@@ -6,11 +6,11 @@ import "./types.d";
 import Icon from "../icon";
 
 export const defaultProps = {
-  className: null,
-  icon: null,
+  className: "",
   borderColor: "#4d352d",
   bgColor: "#946037",
-  target: null,
+  icon: null,
+  target: "_blank",
   external: false,
 };
 

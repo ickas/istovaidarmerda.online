@@ -23,7 +23,8 @@
 		"paths": {
 			"components/*": ["./src/components/*"],
 			"helpers/*": ["./src/helpers/*"],
-			"pages/*": ["./pages/*"]
+			"pages/*": ["./pages/*"],
+			"hooks/*": ["./hooks/*"]
 		},
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,

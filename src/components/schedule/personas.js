@@ -1,5 +1,5 @@
 import React from "react";
-import { string } from "prop-types";
+import { string, shape, arrayOf } from "prop-types";
 import Link from "next/link";
 import * as Styles from "./styles";
 import "./types.d";
@@ -15,7 +15,7 @@ export const PERSONAS_VALUES = {
  * @param {IPersonasProps} props
  * @returns {JSX.Element | null}
  */
-const Personas = ({ values, title }) => {
+const Personas = ({ values }) => {
   if (!Array.isArray(values)) {
     return null;
   }
@@ -28,15 +28,18 @@ const Personas = ({ values, title }) => {
   function renderList() {
     return values.map((persona, index) => {
       const key = `persona-${index}`;
+      const title = `Ver perfil de ${persona.name}`;
       return (
         <Styles.Persona key={key} className="event">
           <Link href={persona.url}>
-            <a target="_blank">
-              <div className="avatar">
+            <a target="_blank" title={title} className="persona">
+              <div className="persona__avatar">
                 <img src={persona.avatar} alt={persona.name} width={50} height={50} loading="lazy" />
               </div>
-              <div>
-                <span className="name">{persona.name}</span>
+              <div className="persona__metadata">
+                <span className="name" itemProp="performer">
+                  {persona.name}
+                </span>
                 <span className="job">{persona.job}</span>
               </div>
             </a>
@@ -46,12 +49,7 @@ const Personas = ({ values, title }) => {
     });
   }
 
-  return (
-    <div className="event__item">
-      <h4>{title}</h4>
-      {renderList()}
-    </div>
-  );
+  return <div className="event__item">{renderList()}</div>;
 };
 
 Personas.defaultProps = {
@@ -61,11 +59,9 @@ Personas.defaultProps = {
     avatar: "",
     job: "",
   },
-  title: "Moderador",
 };
 Personas.propTypes = {
-  values: PERSONAS_VALUES,
-  title: string,
+  values: arrayOf(shape(PERSONAS_VALUES)),
 };
 
 export default Personas;

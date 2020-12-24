@@ -48,14 +48,13 @@
 
 html {
   font-size: 18px;
-  scroll-behavior: smooth;
 }
 
 body {
   padding: 0;
   margin: 0;
-  font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Open Sans", "Roboto", "Segoe UI", Roboto, Oxygen, Ubuntu,
-    Cantarell, "Helvetica Neue", sans-serif;
+  font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Open Sans", "Roboto", "Segoe UI", Oxygen, Ubuntu, Cantarell,
+    "Helvetica Neue", sans-serif;
   font-size: 1rem;
   font-weight: var(--fontLight, 300);
   color: var(--default, #212121);
@@ -67,6 +66,13 @@ h3,
 h4,
 p {
   margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-rendering: geometricPrecision;
 }
 
 h2 {
@@ -88,6 +94,7 @@ h4 {
 
 p {
   line-height: var(--lineHeight);
+  text-rendering: optimizeSpeed;
 }
 
 p:not(:last-child) {
@@ -95,6 +102,10 @@ p:not(:last-child) {
 }
 
 @media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
   .is-visible,
   .is-visible:after,
   .is-visible:before {

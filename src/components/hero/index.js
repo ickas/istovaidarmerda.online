@@ -1,15 +1,17 @@
 import React from "react";
 import classNames from "classnames";
 import { useInView } from "react-intersection-observer";
-
+import { useBreakpoints } from "../../../hooks/useBreakpoints";
 import * as Styles from "./styles";
 import ButtonLink from "../button-link";
 import MouseImage from "../mouse-image";
-import { useBreakpoints } from "hooks/useBreakpoints";
+
+export const WIDTH_BREAKPOINT = "(min-width: 700px)";
+export const MOUSE_BREAKPOINT = "(min-width: 538px) and (min-height: 812px)";
 
 const Hero = () => {
-  let widthBreakpoint = useBreakpoints("(min-width: 700px)");
-  let mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 812px)");
+  const widthBreakpoint = useBreakpoints("(min-width: 700px)");
+  const mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 812px)");
 
   const { ref, inView } = useInView({
     threshold: 0,

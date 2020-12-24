@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/hein render should render without errors 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="styles__Wrapper-sc-1ahj33d-0 bXprKM hein"
+        id="hein"
+      >
+        <div
+          class="hein__content"
+        >
+          <div
+            class="hein__column"
+          >
+            <h2>
+              O quê?
+            </h2>
+            <p>
+              O 
+              <i>
+                Isto Vai Dar Merda
+              </i>
+               é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
+            </p>
+            <p>
+              O 
+              <i>
+                Isto Vai Dar Merda
+              </i>
+               quer ir directo ao assunto – sem rodeios, sem paninhos quentes, sem merdas.
+            </p>
+            <p>
+              Na sua primeira edição, realizada exclusivamente no Twitter, o tema é 
+              <i>
+                Isto Vai Dar Merda
+              </i>
+               – na Pandemia. São 8 temas em discussão por 8 painéis de convidados – desde profissionais de saúde a economistas, músicos e políticos.
+            </p>
+            <p>
+              A Pandemia vista por dentro e por fora – sem lentes cor-de-rosa.
+            </p>
+          </div>
+          <div
+            class="hein__column"
+          >
+            <h2>
+              Porquê?
+            </h2>
+            <p>
+              Faz falta um espaço em que se possa falar sobre assuntos no que estão a dar de errado, pavimentando o caminho para salvaguardar que dêem, de facto, merda.
+            </p>
+            <p>
+              Faz falta um espaço onde se possa fazer barulho, onde as opiniões não serão suavizadas, onde os conselhos e avisos não serão contritos ou dados com um sorriso para não ofender.
+            </p>
+            <p>
+              Faz falta permitir que a crueza e realidade do que têm para dizer seja não apenas aceite, como celebrada.
+            </p>
+            <p>
+              Faz falta um espaço onde o desconforto é visto como útil, onde a verdade venha directamente da boca de quem a vive – sem rodeios, sem paninhos quentes, sem merdas.
+            </p>
+            <p>
+              O 
+              <i>
+                Isto Vai Dar Merda
+              </i>
+               – na Pandemia pretende amplificar vozes que merecem mais atenção, partilhar perspectivas que têm de ser abordadas, e repor verdades que nunca deviam ter sido sequer questionadas.
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="styles__Wrapper-sc-1ahj33d-0 bXprKM hein"
+      id="hein"
+    >
+      <div
+        class="hein__content"
+      >
+        <div
+          class="hein__column"
+        >
+          <h2>
+            O quê?
+          </h2>
+          <p>
+            O 
+            <i>
+              Isto Vai Dar Merda
+            </i>
+             é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
+          </p>
+          <p>
+            O 
+            <i>
+              Isto Vai Dar Merda
+            </i>
+             quer ir directo ao assunto – sem rodeios, sem paninhos quentes, sem merdas.
+          </p>
+          <p>
+            Na sua primeira edição, realizada exclusivamente no Twitter, o tema é 
+            <i>
+              Isto Vai Dar Merda
+            </i>
+             – na Pandemia. São 8 temas em discussão por 8 painéis de convidados – desde profissionais de saúde a economistas, músicos e políticos.
+          </p>
+          <p>
+            A Pandemia vista por dentro e por fora – sem lentes cor-de-rosa.
+          </p>
+        </div>
+        <div
+          class="hein__column"
+        >
+          <h2>
+            Porquê?
+          </h2>
+          <p>
+            Faz falta um espaço em que se possa falar sobre assuntos no que estão a dar de errado, pavimentando o caminho para salvaguardar que dêem, de facto, merda.
+          </p>
+          <p>
+            Faz falta um espaço onde se possa fazer barulho, onde as opiniões não serão suavizadas, onde os conselhos e avisos não serão contritos ou dados com um sorriso para não ofender.
+          </p>
+          <p>
+            Faz falta permitir que a crueza e realidade do que têm para dizer seja não apenas aceite, como celebrada.
+          </p>
+          <p>
+            Faz falta um espaço onde o desconforto é visto como útil, onde a verdade venha directamente da boca de quem a vive – sem rodeios, sem paninhos quentes, sem merdas.
+          </p>
+          <p>
+            O 
+            <i>
+              Isto Vai Dar Merda
+            </i>
+             – na Pandemia pretende amplificar vozes que merecem mais atenção, partilhar perspectivas que têm de ser abordadas, e repor verdades que nunca deviam ter sido sequer questionadas.
+          </p>
+        </div>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

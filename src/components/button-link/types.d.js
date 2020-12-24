@@ -8,6 +8,6 @@
  * @property {string} [icon]
  * @property {string} value
  * @property {string} label
- * @property {string} target
+ * @property {"_self" | "_blank"} [target]
  * @property {boolean} [external]
  */

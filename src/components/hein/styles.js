@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
-import { device } from "utils/breakpoints";
+import { device } from "../../../utils/breakpoints";
 
 const slideInRight = keyframes`
   from {
@@ -35,8 +35,12 @@ export const Wrapper = styled.section`
     margin: 0 auto;
     max-width: 1280px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: 1fr;
     grid-gap: ${rem("30px")};
+
+    @media ${device.s} {
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    }
   }
 
   .hein__column {
