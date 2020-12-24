@@ -11,7 +11,7 @@ import "./types.d";
 const Partner = ({ bg, logo, name, url }) => (
   <Styles.Logo bg={bg}>
     <Link href={url} passHref>
-      <a target="_blank">
+      <a target="_blank" rel="noreferrer noopener">
         <img src={logo} alt={name} loading="lazy" />
       </a>
     </Link>
