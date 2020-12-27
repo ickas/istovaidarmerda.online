@@ -74,6 +74,8 @@ export const Logo = styled.li`
 
     img {
       --maxSize: 70%;
+      width: 100%;
+      height: auto;
       max-width: var(--maxSize);
       max-height: var(--maxSize);
     }
