@@ -10,7 +10,7 @@ export const defaultProps = {
   borderColor: "#4d352d",
   bgColor: "#946037",
   icon: null,
-  target: "_blank",
+  target: "_self",
   external: false,
 };
 

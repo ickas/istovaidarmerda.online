@@ -10,7 +10,7 @@ Object {
         class="styles__Button-e7r930-0 fthixk"
         data-testid="button-link"
         href="https://twitter.com"
-        target="_blank"
+        target="_self"
       >
         Twitter
       </a>
@@ -22,7 +22,7 @@ Object {
       class="styles__Button-e7r930-0 fthixk"
       data-testid="button-link"
       href="https://twitter.com"
-      target="_blank"
+      target="_self"
     >
       Twitter
     </a>

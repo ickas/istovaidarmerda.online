@@ -3,8 +3,9 @@ module.exports = {
     browser: true,
     es6: true,
     jest: true,
+    "cypress/globals": true,
   },
-  extends: ["plugin:react/recommended", "airbnb", "prettier", "prettier/react"],
+  extends: ["plugin:react/recommended", "plugin:cypress/recommended", "airbnb", "prettier", "prettier/react"],
   globals: {
     Atomics: "readonly",
     SharedArrayBuffer: "readonly",
@@ -16,7 +17,7 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: "module",
   },
-  plugins: ["react", "react-hooks", "prettier"],
+  plugins: ["react", "react-hooks", "cypress", "prettier"],
   rules: {
     "spaced-comment": ["error", "always", { markers: ["/"] }],
     "react/react-in-jsx-scope": "off",

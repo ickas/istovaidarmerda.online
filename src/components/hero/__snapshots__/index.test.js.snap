@@ -52,7 +52,7 @@ Object {
                 class="styles__Button-e7r930-0 fthixk"
                 data-testid="button-link"
                 href="/#schedule"
-                target="_blank"
+                target="_self"
               >
                 Agenda
               </a>
@@ -61,7 +61,7 @@ Object {
                 class="styles__Button-e7r930-0 fthixk"
                 data-testid="button-link"
                 href="/#hein"
-                target="_blank"
+                target="_self"
               >
                 Hein?!
               </a>
@@ -153,7 +153,7 @@ Object {
               class="styles__Button-e7r930-0 fthixk"
               data-testid="button-link"
               href="/#schedule"
-              target="_blank"
+              target="_self"
             >
               Agenda
             </a>
@@ -162,7 +162,7 @@ Object {
               class="styles__Button-e7r930-0 fthixk"
               data-testid="button-link"
               href="/#hein"
-              target="_blank"
+              target="_self"
             >
               Hein?!
             </a>
@@ -325,7 +325,7 @@ Object {
                 class="styles__Button-e7r930-0 fthixk"
                 data-testid="button-link"
                 href="/#schedule"
-                target="_blank"
+                target="_self"
               >
                 Agenda
               </a>
@@ -334,7 +334,7 @@ Object {
                 class="styles__Button-e7r930-0 fthixk"
                 data-testid="button-link"
                 href="/#hein"
-                target="_blank"
+                target="_self"
               >
                 Hein?!
               </a>
@@ -406,7 +406,7 @@ Object {
               class="styles__Button-e7r930-0 fthixk"
               data-testid="button-link"
               href="/#schedule"
-              target="_blank"
+              target="_self"
             >
               Agenda
             </a>
@@ -415,7 +415,7 @@ Object {
               class="styles__Button-e7r930-0 fthixk"
               data-testid="button-link"
               href="/#hein"
-              target="_blank"
+              target="_self"
             >
               Hein?!
             </a>

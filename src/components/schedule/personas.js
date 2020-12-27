@@ -32,7 +32,7 @@ const Personas = ({ values }) => {
       return (
         <Styles.Persona key={key} className="event">
           <Link href={persona.url}>
-            <a target="_blank" title={title} className="persona">
+            <a target="_blank" title={title} className="persona" rel="noopener noreferrer">
               <div className="persona__avatar">
                 <img src={persona.avatar} alt={persona.name} width={50} height={50} loading="lazy" />
               </div>

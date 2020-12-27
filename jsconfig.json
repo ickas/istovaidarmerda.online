@@ -33,6 +33,6 @@
 	"include": ["./src/**/*", "./pages/**/*"],
 	"exclude": ["node_modules", "dist"],
 	"typeAcquisition": {
-		"include": ["jest", "cypress"]
+		"include": ["jest", "cypress", "cypress-axe", "@testing-library/cypress"]
 	}
 }

@@ -55,6 +55,7 @@ export const Wrapper = styled.section`
       box-shadow: 0 0 ${rem("50px")} rgba(33, 33, 33, 0.25);
       width: 100%;
       height: 100%;
+      pointer-events: none;
     }
 
     h2 {
