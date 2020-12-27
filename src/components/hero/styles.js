@@ -68,17 +68,17 @@ export const Logo = styled.figure`
   margin: 0;
   margin: 0 auto ${rem("15px")} auto;
   width: 100%;
-  max-width: 200px;
+  max-width: ${rem("200px")};
   height: auto;
-  opacity: 0;
-  animation-name: ${fadeInElement};
-  animation-duration: 250ms;
-  animation-timing-function: ${timingFunctions("easeOutBack")};
-  animation-fill-mode: forwards;
 
   @media ${device.m} {
     margin: -320px ${rem("50px")} 0 0;
-    max-width: 270px;
+    max-width: ${rem("270px")};
+  }
+
+  img {
+    width: 100%;
+    height: auto;
   }
 `;
 
@@ -93,7 +93,7 @@ export const Intro = styled.div`
     overflow: hidden;
 
     &__markup {
-      animation-delay: 500ms;
+      animation-delay: 250ms;
       opacity: 0;
     }
 

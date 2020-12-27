@@ -27,7 +27,7 @@ const Hero = () => {
     <Styles.Wrapper ref={ref} className={classes} data-testid="hero">
       <div className="hero__container">
         <Styles.Logo>
-          <img src="/images/ivdm-logo.svg" width="100%" height="auto" alt="Isto Vai Dar Merda logo" />
+          <img src="/images/ivdm-logo.svg" width="365" height="400" alt="Isto Vai Dar Merda logo" />
         </Styles.Logo>
         <Styles.Intro>
           {widthBreakpoint ? (
