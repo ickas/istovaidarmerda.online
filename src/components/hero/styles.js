@@ -112,6 +112,10 @@ export const Intro = styled.div`
       color: var(--yellow);
     }
 
+    &__markup {
+      margin: 0 auto;
+    }
+
     &__vector {
       display: block;
       margin-bottom: ${rem("-15px")};
@@ -153,6 +157,12 @@ export const Intro = styled.div`
 
     @media ${device.xs} {
       font-size: ${rem("40px")};
+    }
+
+    @media ${device.m} {
+      &__markup {
+        margin: 0;
+      }
     }
   }
 
