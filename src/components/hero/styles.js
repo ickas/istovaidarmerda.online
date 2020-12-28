@@ -55,10 +55,6 @@ export const Wrapper = styled.section`
     min-height: 100vh;
   }
 
-  @media (min-height: 640px) {
-    min-height: 100vh;
-  }
-
   @media ${device.s} {
     padding: ${rem("50px")};
 
@@ -114,10 +110,6 @@ export const Intro = styled.div`
       -webkit-text-stroke-color: var(--default);
       -webkit-text-stroke-width: ${rem("2px")};
       color: var(--yellow);
-    }
-
-    &__markup {
-      margin: 0 auto;
     }
 
     &__vector {
