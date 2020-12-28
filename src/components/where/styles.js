@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
-import { device } from "utils/breakpoints";
+import { device } from "../../../utils/breakpoints";
 
 export const slideInCard = keyframes`
   from {
@@ -38,13 +38,16 @@ export const Wrapper = styled.section`
     padding: ${rem("30px")};
     text-align: center;
     position: relative;
-    opacity: 0;
-    transform: translateY(100%);
-    animation-name: ${slideInCard};
-    animation-duration: 500ms;
-    animation-timing-function: ${timingFunctions("easeOutBack")};
-    animation-fill-mode: forwards;
-    animation-play-state: paused;
+
+    @media (prefers-reduced-motion: no-preference) {
+      opacity: 0;
+      transform: translateY(100%);
+      animation-name: ${slideInCard};
+      animation-duration: 500ms;
+      animation-timing-function: ${timingFunctions("easeOutBack")};
+      animation-fill-mode: forwards;
+      animation-play-state: paused;
+    }
 
     &::after {
       content: "";
@@ -55,6 +58,7 @@ export const Wrapper = styled.section`
       box-shadow: 0 0 ${rem("50px")} rgba(33, 33, 33, 0.25);
       width: 100%;
       height: 100%;
+      pointer-events: none;
     }
 
     h2 {
@@ -67,10 +71,12 @@ export const Wrapper = styled.section`
     }
   }
 
-  &.is-visible {
-    .card,
-    .title {
-      animation-play-state: running;
+  @media (prefers-reduced-motion: no-preference) {
+    &.is-visible {
+      .card,
+      .title {
+        animation-play-state: running;
+      }
     }
   }
 

@@ -6,40 +6,48 @@ const Footer = () => (
   <Styles.Wrapper>
     <Styles.FooterMenu>
       <div>
-        <h3>Contactos</h3>
+        <h4>Contactos</h4>
         <ul>
           <li>
             <Link href="mailto:istovaidarmerda.online@gmail.com" passHref>
-              <a target="_blank">Email</a>
+              <a target="_blank" rel="noopener noreferrer">
+                Email
+              </a>
             </Link>
           </li>
           <li>
             <Link href="https://twitter.com/SoniaTelesF" passHref>
-              <a target="_blank">@SoniaTelesF</a>
+              <a target="_blank" rel="noopener noreferrer">
+                @SoniaTelesF
+              </a>
             </Link>
           </li>
         </ul>
       </div>
       <div>
-        <h3>Social</h3>
+        <h4>Social</h4>
         <ul>
           <li>
             <Link href="https://twitter.com/IstoVai" passHref>
-              <a target="_blank">Twitter</a>
+              <a target="_blank" rel="noopener noreferrer">
+                Twitter
+              </a>
             </Link>
           </li>
           <li>
-            <Link href="#0" passHref>
-              <a target="_blank">Youtube</a>
+            <Link href="https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg" passHref>
+              <a target="_blank" rel="noopener noreferrer">
+                Youtube
+              </a>
             </Link>
           </li>
         </ul>
       </div>
       <div>
-        <h3>Media</h3>
+        <h4>Media</h4>
         <ul>
           <li>
-            <Link href="#0" passHref>
+            <Link href="https://drive.google.com/drive/folders/1J4i9QUIF_M7-OQ8qXOPmOJdGK3O7HUqR?usp=sharing" passHref>
               <a target="_blank">Press Kit</a>
             </Link>
           </li>

@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
-import { device } from "utils/breakpoints";
+import { device } from "../../../utils/breakpoints";
 
 const fadeInElement = keyframes`
   from {
@@ -27,7 +27,7 @@ export const Wrapper = styled.section`
   background-color: var(--yellow);
   max-width: 100vw;
   width: 100%;
-  min-height: 100vh;
+  min-height: auto;
   display: flex;
   padding: ${rem("30px")};
   overflow: hidden;
@@ -40,12 +40,19 @@ export const Wrapper = styled.section`
     position: absolute;
     bottom: 1rem;
     margin-left: calc(50% - ${rem("30px")});
-    transform: translate3d(50%, 200%, 0);
-    animation-name: ${slideUpMouse};
-    animation-duration: 250ms;
-    animation-timing-function: ${timingFunctions("easeOutBack")};
-    animation-fill-mode: forwards;
-    animation-delay: 250ms;
+
+    @media (prefers-reduced-motion: no-preference) {
+      transform: translate3d(50%, 200%, 0);
+      animation-name: ${slideUpMouse};
+      animation-duration: 250ms;
+      animation-timing-function: ${timingFunctions("easeOutBack")};
+      animation-fill-mode: forwards;
+      animation-delay: 250ms;
+    }
+  }
+
+  @media (min-height: 640px) {
+    min-height: 100vh;
   }
 
   @media ${device.s} {
@@ -68,33 +75,41 @@ export const Logo = styled.figure`
   margin: 0;
   margin: 0 auto ${rem("15px")} auto;
   width: 100%;
-  max-width: 200px;
+  max-width: ${rem("180px")};
   height: auto;
-  opacity: 0;
-  animation-name: ${fadeInElement};
-  animation-duration: 250ms;
-  animation-timing-function: ${timingFunctions("easeOutBack")};
-  animation-fill-mode: forwards;
 
   @media ${device.m} {
     margin: -320px ${rem("50px")} 0 0;
-    max-width: 270px;
+    max-width: ${rem("270px")};
+  }
+
+  img {
+    width: 100%;
+    height: auto;
   }
 `;
 
 export const Intro = styled.div`
   .hero__title {
     margin-bottom: ${rem("15px")};
-    font-size: ${rem("40px")};
+    font-size: ${rem("36px")};
     line-height: 110%;
     text-align: center;
     text-transform: uppercase;
     color: var(--lightBrown);
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 
-    &__markup {
-      animation-delay: 500ms;
-      opacity: 0;
+    &__stroke {
+      font-size: inherit;
+      font-weight: var(--fontBlack);
+      text-transform: uppercase;
+      -webkit-text-stroke-color: var(--default);
+      -webkit-text-stroke-width: ${rem("2px")};
+      color: var(--yellow);
     }
 
     &__vector {
@@ -116,30 +131,51 @@ export const Intro = styled.div`
 
     &__vector,
     &__markup {
-      animation-name: ${fadeInElement};
-      animation-duration: 250ms;
-      animation-delay: 125ms;
-      animation-timing-function: ${timingFunctions("easeOutQuad")};
-      animation-fill-mode: forwards;
-      opacity: 0;
       overflow: hidden;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      &__vector,
+      &__markup {
+        animation-name: ${fadeInElement};
+        animation-duration: 250ms;
+        animation-delay: 125ms;
+        animation-timing-function: ${timingFunctions("easeOutQuad")};
+        animation-fill-mode: forwards;
+        opacity: 0;
+      }
+
+      &__markup {
+        animation-delay: 250ms;
+        opacity: 0;
+      }
+    }
+
+    @media ${device.xs} {
+      font-size: ${rem("40px")};
     }
   }
 
   .hero__description {
     max-width: ${rem("600px")};
     text-align: center;
-    opacity: 0;
-    animation-name: ${fadeInElement};
-    animation-duration: 250ms;
-    animation-timing-function: ${timingFunctions("easeOutQuad")};
-    animation-fill-mode: forwards;
-    animation-delay: 250ms;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .hero__description {
+      opacity: 0;
+      animation-name: ${fadeInElement};
+      animation-duration: 250ms;
+      animation-timing-function: ${timingFunctions("easeOutQuad")};
+      animation-fill-mode: forwards;
+      animation-delay: 250ms;
+    }
   }
 
   @media ${device.s} {
     .hero__title {
       font-size: ${rem("64px")};
+      align-items: flex-start;
     }
 
     svg {
