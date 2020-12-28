@@ -8,7 +8,7 @@ export const partners = [
   {
     bg: "#ffffff",
     name: "Nacional 2 Podcast",
-    logo: "/images/partners/n2-podcast.svg",
+    logo: "/images/partners/n2-podcast.jpg",
     url: "https://nacional2podcast.pt",
   },
   {

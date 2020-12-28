@@ -10,6 +10,7 @@
 // Cypress Plugins
 import "@cypress/code-coverage/support";
 import "cypress-plugin-tab";
+import "cypress-axe";
 
 // Custom Commands
 import "./commands";

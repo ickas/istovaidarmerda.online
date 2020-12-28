@@ -10,25 +10,32 @@
 /**
  * @typedef {object} IPersonasProps
  * @property {IPersonasValues[]} values
- * @property {string} title
+ */
+
+/**
+ * @typedef {"agenda" | "rubrics"} EventType
  */
 
 /**
  * @typedef {object} ISchedule
- * @property {string} date
- * @property {string} area
+ * @property {string} [date]
+ * @property {string} [area]
  * @property {string} title
- * @property {IPersonasValues[]} moderator
+ * @property {IPersonasValues[]} [moderator]
  * @property {IPersonasValues[]} speakers
+ * @property {[]} speakers
  * @property {number} index
+ * @property {EventType} type
  */
 
 /**
  * @typedef {object} IScheduleProps
- * @property {ISchedule[]} events
+ * @property {ISchedule[]} agenda
+ * @property {ISchedule[]} rubrics
  */
 
 /**
  * @typedef {object} IEventsProps
  * @property {ISchedule[]} events
+ * @property {EventType} type
  */

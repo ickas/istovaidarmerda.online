@@ -9,10 +9,10 @@ import "./types.d";
  * @returns {JSX.Element}
  */
 const Partner = ({ bg, logo, name, url }) => (
-  <Styles.Logo bg={bg}>
+  <Styles.Logo bg={bg} className="partner">
     <Link href={url} passHref>
       <a target="_blank" rel="noreferrer noopener">
-        <img src={logo} alt={name} loading="lazy" />
+        <img src={logo} alt={name} width="175" height="175" loading="lazy" />
       </a>
     </Link>
   </Styles.Logo>

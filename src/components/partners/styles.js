@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { rem } from "polished";
-import { device } from "utils/breakpoints";
+import { device } from "../../../utils/breakpoints";
 
 export const Wrapper = styled.section`
   background-color: var(--yellow);
@@ -21,9 +21,9 @@ export const Wrapper = styled.section`
 `;
 
 export const Logos = styled.div`
-  --itemWidth: 125px;
-  --borderRadius: 15px;
-  margin: 35px auto 0 auto;
+  --itemWidth: ${rem("125px")};
+  --borderRadius: ${rem("15px")};
+  margin: ${rem("35px")} auto 0 auto;
 
   ul {
     margin: 0;
@@ -34,8 +34,8 @@ export const Logos = styled.div`
   }
 
   @media ${device.l} {
-    --itemWidth: 250px;
-    --borderRadius: 50px;
+    --itemWidth: ${rem("250px")};
+    --borderRadius: ${rem("50px")};
   }
 `;
 
@@ -48,7 +48,7 @@ export const Logo = styled.li`
   width: var(--itemWidth);
   height: var(--itemWidth);
 
-  &:after {
+  &:before {
     content: "";
     top: 0;
     left: 0;
@@ -74,6 +74,8 @@ export const Logo = styled.li`
 
     img {
       --maxSize: 70%;
+      width: 100%;
+      height: auto;
       max-width: var(--maxSize);
       max-height: var(--maxSize);
     }
@@ -87,6 +89,6 @@ export const Logo = styled.li`
   }
 
   @media ${device.l} {
-    margin: 15px;
+    margin: ${rem("15px")};
   }
 `;

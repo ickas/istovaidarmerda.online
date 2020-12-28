@@ -9,16 +9,17 @@
  * @since 0.0.1
  */
 
-
 const webpackPreprocessor = require("@cypress/webpack-preprocessor");
 
-module.exports = (on) => {
-    on("task", require("@cypress/code-coverage/task"));
+module.exports = (on, config) => {
+  require("@cypress/code-coverage/task")(on, config);
 
-    const options = {
-        webpackOptions: require("../webpack.config"),
-        watchOptions: {},
-    };
+  const options = {
+    webpackOptions: require("../webpack.config"),
+    watchOptions: {},
+  };
 
-    on("file:preprocessor", webpackPreprocessor(options));
+  on("file:preprocessor", webpackPreprocessor(options));
+
+  return config;
 };

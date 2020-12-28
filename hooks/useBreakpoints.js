@@ -1,5 +1,12 @@
 import { useState, useEffect } from "react";
 
+/**
+ * Custom Hook for use with media queries.
+ *
+ * @export
+ * @param {string} query
+ * @returns {boolean}
+ */
 export function useBreakpoints(query) {
   const [matches, setMatches] = useState(false);
 
@@ -17,3 +24,5 @@ export function useBreakpoints(query) {
 
   return matches;
 }
+
+export default useBreakpoints;

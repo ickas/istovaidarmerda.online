@@ -1,37 +1,69 @@
 import React from "react";
-import PropTypes from "prop-types";
+import { arrayOf, shape, string } from "prop-types";
 import Events from "./events";
 import * as Styles from "./styles";
 import "./types.d";
+
+const SPEAKER_TYPE = arrayOf(
+  shape({
+    avatar: string,
+    name: string,
+    job: string,
+    url: string,
+  }),
+);
 
 /**
  *
  * @param {IScheduleProps} props
  */
-const Schedule = ({ events }) => {
+const Schedule = ({ agenda, rubrics }) => {
   /**
    * Renders the list of events
    *
    * @returns {JSX.Element}
    */
-  function renderEvents() {
-    return <Events events={events} />;
+  function renderAgenda() {
+    return <Events events={agenda} type="agenda" />;
   }
+
+  /**
+   * Renders the list of rubrics
+   *
+   * @returns {JSX.Element}
+   */
+  function renderRubrics() {
+    return <Events events={rubrics} type="rubrics" />;
+  }
+
   return (
     <Styles.Wrapper id="schedule">
-      <h2 className="sr-only">Agenda</h2>
-      {Array.isArray(events) ? renderEvents() : null}
+      <div className="schedule__agenda">
+        <h2 className="schedule__title">Agenda</h2>
+        {Array.isArray(agenda) ? renderAgenda() : null}
+      </div>
+
+      <div className="schedule__rubrics">
+        <h2 className="schedule__title">Rubricas</h2>
+        {Array.isArray(rubrics) ? renderRubrics() : null}
+      </div>
     </Styles.Wrapper>
   );
 };
 
 Schedule.propTypes = {
-  events: PropTypes.arrayOf(
-    PropTypes.shape({
-      area: PropTypes.string,
-      title: PropTypes.string,
-      moderator: PropTypes.string,
-      speakers: PropTypes.string,
+  agenda: arrayOf(
+    shape({
+      area: string,
+      title: string,
+      moderator: SPEAKER_TYPE,
+      speakers: SPEAKER_TYPE,
+    }),
+  ).isRequired,
+  rubrics: arrayOf(
+    shape({
+      title: string,
+      speakers: SPEAKER_TYPE,
     }),
   ).isRequired,
 };
