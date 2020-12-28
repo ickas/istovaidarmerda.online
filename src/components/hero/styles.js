@@ -40,12 +40,15 @@ export const Wrapper = styled.section`
     position: absolute;
     bottom: 1rem;
     margin-left: calc(50% - ${rem("30px")});
-    transform: translate3d(50%, 200%, 0);
-    animation-name: ${slideUpMouse};
-    animation-duration: 250ms;
-    animation-timing-function: ${timingFunctions("easeOutBack")};
-    animation-fill-mode: forwards;
-    animation-delay: 250ms;
+
+    @media (prefers-reduced-motion: no-preference) {
+      transform: translate3d(50%, 200%, 0);
+      animation-name: ${slideUpMouse};
+      animation-duration: 250ms;
+      animation-timing-function: ${timingFunctions("easeOutBack")};
+      animation-fill-mode: forwards;
+      animation-delay: 250ms;
+    }
   }
 
   @media (min-height: 640px) {
@@ -109,11 +112,6 @@ export const Intro = styled.div`
       color: var(--yellow);
     }
 
-    &__markup {
-      animation-delay: 250ms;
-      opacity: 0;
-    }
-
     &__vector {
       display: block;
       margin-bottom: ${rem("-15px")};
@@ -133,13 +131,24 @@ export const Intro = styled.div`
 
     &__vector,
     &__markup {
-      animation-name: ${fadeInElement};
-      animation-duration: 250ms;
-      animation-delay: 125ms;
-      animation-timing-function: ${timingFunctions("easeOutQuad")};
-      animation-fill-mode: forwards;
-      opacity: 0;
       overflow: hidden;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      &__vector,
+      &__markup {
+        animation-name: ${fadeInElement};
+        animation-duration: 250ms;
+        animation-delay: 125ms;
+        animation-timing-function: ${timingFunctions("easeOutQuad")};
+        animation-fill-mode: forwards;
+        opacity: 0;
+      }
+
+      &__markup {
+        animation-delay: 250ms;
+        opacity: 0;
+      }
     }
 
     @media ${device.xs} {
@@ -150,12 +159,17 @@ export const Intro = styled.div`
   .hero__description {
     max-width: ${rem("600px")};
     text-align: center;
-    opacity: 0;
-    animation-name: ${fadeInElement};
-    animation-duration: 250ms;
-    animation-timing-function: ${timingFunctions("easeOutQuad")};
-    animation-fill-mode: forwards;
-    animation-delay: 250ms;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .hero__description {
+      opacity: 0;
+      animation-name: ${fadeInElement};
+      animation-duration: 250ms;
+      animation-timing-function: ${timingFunctions("easeOutQuad")};
+      animation-fill-mode: forwards;
+      animation-delay: 250ms;
+    }
   }
 
   @media ${device.s} {

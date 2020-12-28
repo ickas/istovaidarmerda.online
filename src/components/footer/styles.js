@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { timingFunctions } from "polished";
 import { device } from "../../../utils/breakpoints";
 
 export const Wrapper = styled.footer`
@@ -28,6 +29,10 @@ export const FooterMenu = styled.div`
 
     li {
       list-style: none;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
 
       &:not(:last-child) {
         margin-bottom: 10px;
@@ -36,10 +41,36 @@ export const FooterMenu = styled.div`
       a {
         color: var(--light);
         text-decoration: none;
-        transition-duration: 0.3s;
+        position: relative;
+        overflow: hidden;
+        display: flex;
 
-        &:hover {
-          color: var(--darkBrown);
+        &:after {
+          content: "";
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 1px;
+          background-color: currentColor;
+          transform: translate3d(-100%, 0, 0);
+
+          @media (prefers-reduced-motion: no-preference) {
+            transition-property: transform;
+            transition-duration: 1000ms;
+            transition-timing-function: ${timingFunctions("easeInOutExpo")};
+          }
+        }
+
+        @media (prefers-reduced-motion: no-preference) {
+          transition-duration: 0.3s;
+        }
+
+        &:hover,
+        &:focus {
+          &:after {
+            transform: translate3d(0, 0, 0);
+          }
         }
       }
     }

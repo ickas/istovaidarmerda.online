@@ -38,13 +38,16 @@ export const Wrapper = styled.section`
     padding: ${rem("30px")};
     text-align: center;
     position: relative;
-    opacity: 0;
-    transform: translateY(100%);
-    animation-name: ${slideInCard};
-    animation-duration: 500ms;
-    animation-timing-function: ${timingFunctions("easeOutBack")};
-    animation-fill-mode: forwards;
-    animation-play-state: paused;
+
+    @media (prefers-reduced-motion: no-preference) {
+      opacity: 0;
+      transform: translateY(100%);
+      animation-name: ${slideInCard};
+      animation-duration: 500ms;
+      animation-timing-function: ${timingFunctions("easeOutBack")};
+      animation-fill-mode: forwards;
+      animation-play-state: paused;
+    }
 
     &::after {
       content: "";
@@ -68,10 +71,12 @@ export const Wrapper = styled.section`
     }
   }
 
-  &.is-visible {
-    .card,
-    .title {
-      animation-play-state: running;
+  @media (prefers-reduced-motion: no-preference) {
+    &.is-visible {
+      .card,
+      .title {
+        animation-play-state: running;
+      }
     }
   }
 
