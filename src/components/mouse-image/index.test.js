@@ -18,7 +18,25 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
+import MatchMediaMock from "jest-matchmedia-mock";
 import MouseImage from "./index";
+
+/**
+ * Builds the Media Query Stub
+ *
+ * @param {MatchMediaMock} matchMedia
+ */
+function setupMediaQuery(matchMedia) {
+  const mediaQuery = "(prefers-reduced-motion: no-preference)";
+  const firstListener = jest.fn();
+  const secondListener = jest.fn();
+  const mediaQueryList = window.matchMedia(mediaQuery);
+
+  mediaQueryList.addListener((ev) => ev.matches && firstListener());
+  mediaQueryList.addListener((ev) => ev.matches && secondListener());
+
+  matchMedia.useMediaQuery(mediaQuery);
+}
 
 describe("src/components/mouse-image", () => {
   /**
@@ -26,10 +44,25 @@ describe("src/components/mouse-image", () => {
    */
   let props;
 
+  /**
+   * @type {MatchMediaMock}
+   */
+  let matchMedia;
+
+  beforeAll(() => {
+    matchMedia = new MatchMediaMock();
+  });
+
+  afterEach(() => {
+    matchMedia.clear();
+  });
+
   beforeEach(() => {
     props = {
       className: "mouse",
     };
+
+    setupMediaQuery(matchMedia);
   });
 
   describe("render", () => {

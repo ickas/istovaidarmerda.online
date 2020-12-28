@@ -6,33 +6,40 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-1b4b6pk-0 ieLlth hero is-visible"
+        class="styles__Wrapper-sc-1b4b6pk-0 uXLgh hero is-visible"
         data-testid="hero"
       >
         <div
           class="hero__container"
         >
           <figure
-            class="styles__Logo-sc-1b4b6pk-1 ewygJF"
+            class="styles__Logo-sc-1b4b6pk-1 haOSoa"
           >
             <img
               alt="Isto Vai Dar Merda logo"
-              height="auto"
+              height="400"
               src="/images/ivdm-logo.svg"
-              width="100%"
+              width="365"
             />
           </figure>
           <div
-            class="styles__Intro-sc-1b4b6pk-2 cSBBCP"
+            class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
           >
             <h1
               aria-label="Isto Vai Dar Merda"
               class="hero__title"
               data-testid="hero-title"
             >
-              Isto Vai Dar
-              <br />
-               Merda
+              <span
+                class="hero__title__stroke"
+              >
+                Isto Vai Dar
+              </span>
+              <span
+                class="hero__title__markup"
+              >
+                Merda
+              </span>
             </h1>
             <p
               class="hero__description"
@@ -49,7 +56,7 @@ Object {
             >
               <a
                 aria-label="Consulta a Agenda"
-                class="styles__Button-e7r930-0 fthixk"
+                class="styles__Button-e7r930-0 kVEMBO"
                 data-testid="button-link"
                 href="/#schedule"
                 target="_self"
@@ -58,7 +65,7 @@ Object {
               </a>
               <a
                 aria-label="Sabe mais sobre o evento"
-                class="styles__Button-e7r930-0 fthixk"
+                class="styles__Button-e7r930-0 kVEMBO"
                 data-testid="button-link"
                 href="/#hein"
                 target="_self"
@@ -68,72 +75,45 @@ Object {
             </div>
           </div>
         </div>
-        <svg
-          class="mouse"
-          data-testid="mouse-image"
-          height="40"
-          viewBox="0 0 30 40"
-          width="30"
-        >
-          <g
-            data-name="mouse"
-            fill="#212121"
-            id="mouse"
-            transform="translate(-945 -1010)"
-          >
-            <path
-              d="M17.5 0h-5A12.5 12.5 0 000 12.5v15A12.5 12.5 0 0012.5 40h5A12.5 12.5 0 0030 27.5v-15A12.5 12.5 0 0017.5 0zm8.75 27.5a8.759 8.759 0 01-8.75 8.75h-5a8.759 8.759 0 01-8.75-8.75v-15a8.759 8.759 0 018.75-8.75h5a8.759 8.759 0 018.75 8.75z"
-              id="mouse-alt"
-              opacity="0.15"
-              transform="translate(945 1010)"
-            />
-            <path
-              d="M15 7.5a2.5 2.5 0 00-2.5 2.5v2.5a2.5 2.5 0 005 0V10A2.5 2.5 0 0015 7.5z"
-              data-name="wheel"
-              id="wheel"
-              opacity="0.15"
-              transform="translate(945 1010)"
-            >
-              <animatemotion
-                dur="2s"
-                path="M 0 8 V 0 Z"
-                repeatCount="indefinite"
-              />
-            </path>
-          </g>
-        </svg>
       </section>
     </div>
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-1b4b6pk-0 ieLlth hero is-visible"
+      class="styles__Wrapper-sc-1b4b6pk-0 uXLgh hero is-visible"
       data-testid="hero"
     >
       <div
         class="hero__container"
       >
         <figure
-          class="styles__Logo-sc-1b4b6pk-1 ewygJF"
+          class="styles__Logo-sc-1b4b6pk-1 haOSoa"
         >
           <img
             alt="Isto Vai Dar Merda logo"
-            height="auto"
+            height="400"
             src="/images/ivdm-logo.svg"
-            width="100%"
+            width="365"
           />
         </figure>
         <div
-          class="styles__Intro-sc-1b4b6pk-2 cSBBCP"
+          class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
         >
           <h1
             aria-label="Isto Vai Dar Merda"
             class="hero__title"
             data-testid="hero-title"
           >
-            Isto Vai Dar
-            <br />
-             Merda
+            <span
+              class="hero__title__stroke"
+            >
+              Isto Vai Dar
+            </span>
+            <span
+              class="hero__title__markup"
+            >
+              Merda
+            </span>
           </h1>
           <p
             class="hero__description"
@@ -150,7 +130,7 @@ Object {
           >
             <a
               aria-label="Consulta a Agenda"
-              class="styles__Button-e7r930-0 fthixk"
+              class="styles__Button-e7r930-0 kVEMBO"
               data-testid="button-link"
               href="/#schedule"
               target="_self"
@@ -159,7 +139,7 @@ Object {
             </a>
             <a
               aria-label="Sabe mais sobre o evento"
-              class="styles__Button-e7r930-0 fthixk"
+              class="styles__Button-e7r930-0 kVEMBO"
               data-testid="button-link"
               href="/#hein"
               target="_self"
@@ -169,40 +149,6 @@ Object {
           </div>
         </div>
       </div>
-      <svg
-        class="mouse"
-        data-testid="mouse-image"
-        height="40"
-        viewBox="0 0 30 40"
-        width="30"
-      >
-        <g
-          data-name="mouse"
-          fill="#212121"
-          id="mouse"
-          transform="translate(-945 -1010)"
-        >
-          <path
-            d="M17.5 0h-5A12.5 12.5 0 000 12.5v15A12.5 12.5 0 0012.5 40h5A12.5 12.5 0 0030 27.5v-15A12.5 12.5 0 0017.5 0zm8.75 27.5a8.759 8.759 0 01-8.75 8.75h-5a8.759 8.759 0 01-8.75-8.75v-15a8.759 8.759 0 018.75-8.75h5a8.759 8.759 0 018.75 8.75z"
-            id="mouse-alt"
-            opacity="0.15"
-            transform="translate(945 1010)"
-          />
-          <path
-            d="M15 7.5a2.5 2.5 0 00-2.5 2.5v2.5a2.5 2.5 0 005 0V10A2.5 2.5 0 0015 7.5z"
-            data-name="wheel"
-            id="wheel"
-            opacity="0.15"
-            transform="translate(945 1010)"
-          >
-            <animatemotion
-              dur="2s"
-              path="M 0 8 V 0 Z"
-              repeatCount="indefinite"
-            />
-          </path>
-        </g>
-      </svg>
     </section>
   </div>,
   "debug": [Function],
@@ -265,24 +211,24 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-1b4b6pk-0 ieLlth hero is-visible"
+        class="styles__Wrapper-sc-1b4b6pk-0 uXLgh hero is-visible"
         data-testid="hero"
       >
         <div
           class="hero__container"
         >
           <figure
-            class="styles__Logo-sc-1b4b6pk-1 ewygJF"
+            class="styles__Logo-sc-1b4b6pk-1 haOSoa"
           >
             <img
               alt="Isto Vai Dar Merda logo"
-              height="auto"
+              height="400"
               src="/images/ivdm-logo.svg"
-              width="100%"
+              width="365"
             />
           </figure>
           <div
-            class="styles__Intro-sc-1b4b6pk-2 cSBBCP"
+            class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
           >
             <h1
               aria-label="Isto Vai Dar Merda"
@@ -322,7 +268,7 @@ Object {
             >
               <a
                 aria-label="Consulta a Agenda"
-                class="styles__Button-e7r930-0 fthixk"
+                class="styles__Button-e7r930-0 kVEMBO"
                 data-testid="button-link"
                 href="/#schedule"
                 target="_self"
@@ -331,7 +277,7 @@ Object {
               </a>
               <a
                 aria-label="Sabe mais sobre o evento"
-                class="styles__Button-e7r930-0 fthixk"
+                class="styles__Button-e7r930-0 kVEMBO"
                 data-testid="button-link"
                 href="/#hein"
                 target="_self"
@@ -346,24 +292,24 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-1b4b6pk-0 ieLlth hero is-visible"
+      class="styles__Wrapper-sc-1b4b6pk-0 uXLgh hero is-visible"
       data-testid="hero"
     >
       <div
         class="hero__container"
       >
         <figure
-          class="styles__Logo-sc-1b4b6pk-1 ewygJF"
+          class="styles__Logo-sc-1b4b6pk-1 haOSoa"
         >
           <img
             alt="Isto Vai Dar Merda logo"
-            height="auto"
+            height="400"
             src="/images/ivdm-logo.svg"
-            width="100%"
+            width="365"
           />
         </figure>
         <div
-          class="styles__Intro-sc-1b4b6pk-2 cSBBCP"
+          class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
         >
           <h1
             aria-label="Isto Vai Dar Merda"
@@ -403,7 +349,7 @@ Object {
           >
             <a
               aria-label="Consulta a Agenda"
-              class="styles__Button-e7r930-0 fthixk"
+              class="styles__Button-e7r930-0 kVEMBO"
               data-testid="button-link"
               href="/#schedule"
               target="_self"
@@ -412,7 +358,7 @@ Object {
             </a>
             <a
               aria-label="Sabe mais sobre o evento"
-              class="styles__Button-e7r930-0 fthixk"
+              class="styles__Button-e7r930-0 kVEMBO"
               data-testid="button-link"
               href="/#hein"
               target="_self"

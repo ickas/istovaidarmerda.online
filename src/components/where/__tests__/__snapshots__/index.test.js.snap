@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-3qjvju-0 gKelLw where"
+        class="styles__Wrapper-sc-3qjvju-0 lmPONE where"
         id="where"
       >
         <div
@@ -40,7 +40,7 @@ Object {
           >
             <a
               aria-label="A nossa página no Twitter"
-              class="styles__Button-e7r930-0 lnzAzB twitter"
+              class="styles__Button-e7r930-0 kgTtYf twitter"
               data-testid="button-link"
               href="https://twitter.com/IstoVai"
               rel="noopener noreferrer"
@@ -59,7 +59,7 @@ Object {
             </a>
             <a
               aria-label="O nosso canal no Youtube"
-              class="styles__Button-e7r930-0 kWOITM youtube"
+              class="styles__Button-e7r930-0 hfOtDe youtube"
               data-testid="button-link"
               href="https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg"
               rel="noopener noreferrer"
@@ -83,7 +83,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-3qjvju-0 gKelLw where"
+      class="styles__Wrapper-sc-3qjvju-0 lmPONE where"
       id="where"
     >
       <div
@@ -117,7 +117,7 @@ Object {
         >
           <a
             aria-label="A nossa página no Twitter"
-            class="styles__Button-e7r930-0 lnzAzB twitter"
+            class="styles__Button-e7r930-0 kgTtYf twitter"
             data-testid="button-link"
             href="https://twitter.com/IstoVai"
             rel="noopener noreferrer"
@@ -136,7 +136,7 @@ Object {
           </a>
           <a
             aria-label="O nosso canal no Youtube"
-            class="styles__Button-e7r930-0 kWOITM youtube"
+            class="styles__Button-e7r930-0 hfOtDe youtube"
             data-testid="button-link"
             href="https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg"
             rel="noopener noreferrer"

@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <li
-        class="styles__Logo-sc-12ppjjf-2 dUaszc partner"
+        class="styles__Logo-sc-12ppjjf-2 WNIod partner"
       >
         <a
           href="https://nacional2podcast.pt"
@@ -15,8 +15,10 @@ Object {
         >
           <img
             alt="Nacional 2 Podcast"
+            height="175"
             loading="lazy"
             src="/images/partners/n2-podcast.svg"
+            width="175"
           />
         </a>
       </li>
@@ -24,7 +26,7 @@ Object {
   </body>,
   "container": <div>
     <li
-      class="styles__Logo-sc-12ppjjf-2 dUaszc partner"
+      class="styles__Logo-sc-12ppjjf-2 WNIod partner"
     >
       <a
         href="https://nacional2podcast.pt"
@@ -33,8 +35,10 @@ Object {
       >
         <img
           alt="Nacional 2 Podcast"
+          height="175"
           loading="lazy"
           src="/images/partners/n2-podcast.svg"
+          width="175"
         />
       </a>
     </li>
@@ -105,11 +109,11 @@ Object {
           Apoios
         </h2>
         <div
-          class="styles__Logos-sc-12ppjjf-1 fJPjCO"
+          class="styles__Logos-sc-12ppjjf-1 frbQMY"
         >
           <ul>
             <li
-              class="styles__Logo-sc-12ppjjf-2 djsRzM partner"
+              class="styles__Logo-sc-12ppjjf-2 gQPSUp partner"
             >
               <a
                 href="https://inglesparamarketing.com"
@@ -118,13 +122,15 @@ Object {
               >
                 <img
                   alt="market[ING]"
+                  height="175"
                   loading="lazy"
                   src="/images/partners/marketing-logo.svg"
+                  width="175"
                 />
               </a>
             </li>
             <li
-              class="styles__Logo-sc-12ppjjf-2 dUaszc partner"
+              class="styles__Logo-sc-12ppjjf-2 WNIod partner"
             >
               <a
                 href="https://nacional2podcast.pt"
@@ -133,13 +139,15 @@ Object {
               >
                 <img
                   alt="Nacional 2 Podcast"
+                  height="175"
                   loading="lazy"
                   src="/images/partners/n2-podcast.svg"
+                  width="175"
                 />
               </a>
             </li>
             <li
-              class="styles__Logo-sc-12ppjjf-2 kqKuXU partner"
+              class="styles__Logo-sc-12ppjjf-2 btDIZZ partner"
             >
               <a
                 href="https://istuff.pt"
@@ -148,13 +156,15 @@ Object {
               >
                 <img
                   alt="iStuff"
+                  height="175"
                   loading="lazy"
                   src="/images/partners/istuff.png"
+                  width="175"
                 />
               </a>
             </li>
             <li
-              class="styles__Logo-sc-12ppjjf-2 dUaszc partner"
+              class="styles__Logo-sc-12ppjjf-2 WNIod partner"
             >
               <a
                 href="https://facebook.com/doccmedia"
@@ -163,8 +173,10 @@ Object {
               >
                 <img
                   alt="Docc Media"
+                  height="175"
                   loading="lazy"
                   src="/images/partners/doccmedia.png"
+                  width="175"
                 />
               </a>
             </li>
@@ -181,11 +193,11 @@ Object {
         Apoios
       </h2>
       <div
-        class="styles__Logos-sc-12ppjjf-1 fJPjCO"
+        class="styles__Logos-sc-12ppjjf-1 frbQMY"
       >
         <ul>
           <li
-            class="styles__Logo-sc-12ppjjf-2 djsRzM partner"
+            class="styles__Logo-sc-12ppjjf-2 gQPSUp partner"
           >
             <a
               href="https://inglesparamarketing.com"
@@ -194,13 +206,15 @@ Object {
             >
               <img
                 alt="market[ING]"
+                height="175"
                 loading="lazy"
                 src="/images/partners/marketing-logo.svg"
+                width="175"
               />
             </a>
           </li>
           <li
-            class="styles__Logo-sc-12ppjjf-2 dUaszc partner"
+            class="styles__Logo-sc-12ppjjf-2 WNIod partner"
           >
             <a
               href="https://nacional2podcast.pt"
@@ -209,13 +223,15 @@ Object {
             >
               <img
                 alt="Nacional 2 Podcast"
+                height="175"
                 loading="lazy"
                 src="/images/partners/n2-podcast.svg"
+                width="175"
               />
             </a>
           </li>
           <li
-            class="styles__Logo-sc-12ppjjf-2 kqKuXU partner"
+            class="styles__Logo-sc-12ppjjf-2 btDIZZ partner"
           >
             <a
               href="https://istuff.pt"
@@ -224,13 +240,15 @@ Object {
             >
               <img
                 alt="iStuff"
+                height="175"
                 loading="lazy"
                 src="/images/partners/istuff.png"
+                width="175"
               />
             </a>
           </li>
           <li
-            class="styles__Logo-sc-12ppjjf-2 dUaszc partner"
+            class="styles__Logo-sc-12ppjjf-2 WNIod partner"
           >
             <a
               href="https://facebook.com/doccmedia"
@@ -239,8 +257,10 @@ Object {
             >
               <img
                 alt="Docc Media"
+                height="175"
                 loading="lazy"
                 src="/images/partners/doccmedia.png"
+                width="175"
               />
             </a>
           </li>

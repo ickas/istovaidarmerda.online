@@ -131,7 +131,7 @@ Object {
         class="styles__EventsWrapper-wac1w6-1 gtNqdc"
       >
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 0;"
         >
@@ -168,7 +168,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -219,7 +219,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -257,7 +257,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -295,7 +295,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -336,7 +336,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 1;"
         >
@@ -373,7 +373,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -424,7 +424,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -462,7 +462,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -500,7 +500,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -538,7 +538,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -579,7 +579,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 2;"
         >
@@ -616,7 +616,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -667,7 +667,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -705,7 +705,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -743,7 +743,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -781,7 +781,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -822,7 +822,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 3;"
         >
@@ -859,7 +859,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -910,7 +910,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -948,7 +948,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -986,7 +986,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1024,7 +1024,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1065,7 +1065,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 4;"
         >
@@ -1102,7 +1102,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1153,7 +1153,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1191,7 +1191,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1229,7 +1229,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1270,7 +1270,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 5;"
         >
@@ -1307,7 +1307,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1358,7 +1358,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1396,7 +1396,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1434,7 +1434,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1475,7 +1475,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 6;"
         >
@@ -1512,7 +1512,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1563,7 +1563,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1601,7 +1601,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1639,7 +1639,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1677,7 +1677,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1718,7 +1718,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 jCKdDV schedule"
+          class="styles__Event-wac1w6-2 tDsWT schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 7;"
         >
@@ -1755,7 +1755,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1806,7 +1806,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1844,7 +1844,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1882,7 +1882,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1920,7 +1920,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 fzaRWE event"
+                class="styles__Persona-wac1w6-3 bEkFAw event"
               >
                 <a
                   class="persona"
@@ -1968,7 +1968,7 @@ Object {
       class="styles__EventsWrapper-wac1w6-1 gtNqdc"
     >
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 0;"
       >
@@ -2005,7 +2005,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2056,7 +2056,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2094,7 +2094,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2132,7 +2132,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2173,7 +2173,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 1;"
       >
@@ -2210,7 +2210,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2261,7 +2261,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2299,7 +2299,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2337,7 +2337,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2375,7 +2375,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2416,7 +2416,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 2;"
       >
@@ -2453,7 +2453,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2504,7 +2504,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2542,7 +2542,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2580,7 +2580,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2618,7 +2618,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2659,7 +2659,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 3;"
       >
@@ -2696,7 +2696,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2747,7 +2747,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2785,7 +2785,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2823,7 +2823,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2861,7 +2861,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2902,7 +2902,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 4;"
       >
@@ -2939,7 +2939,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -2990,7 +2990,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3028,7 +3028,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3066,7 +3066,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3107,7 +3107,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 5;"
       >
@@ -3144,7 +3144,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3195,7 +3195,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3233,7 +3233,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3271,7 +3271,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3312,7 +3312,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 6;"
       >
@@ -3349,7 +3349,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3400,7 +3400,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3438,7 +3438,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3476,7 +3476,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3514,7 +3514,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3555,7 +3555,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 jCKdDV schedule"
+        class="styles__Event-wac1w6-2 tDsWT schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 7;"
       >
@@ -3592,7 +3592,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3643,7 +3643,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3681,7 +3681,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3719,7 +3719,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3757,7 +3757,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 fzaRWE event"
+              class="styles__Persona-wac1w6-3 bEkFAw event"
             >
               <a
                 class="persona"
@@ -3923,7 +3923,7 @@ Object {
         class="event__item"
       >
         <div
-          class="styles__Persona-wac1w6-3 fzaRWE event"
+          class="styles__Persona-wac1w6-3 bEkFAw event"
         >
           <a
             class="persona"
@@ -3968,7 +3968,7 @@ Object {
       class="event__item"
     >
       <div
-        class="styles__Persona-wac1w6-3 fzaRWE event"
+        class="styles__Persona-wac1w6-3 bEkFAw event"
       >
         <a
           class="persona"
@@ -4067,7 +4067,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-wac1w6-0 frmAtQ"
+        class="styles__Wrapper-wac1w6-0 gDeDDV"
         id="schedule"
       >
         <div
@@ -4091,7 +4091,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 gtNqdc"
           >
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 0;"
             >
@@ -4112,7 +4112,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4153,7 +4153,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 1;"
             >
@@ -4174,7 +4174,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4212,7 +4212,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4253,7 +4253,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 2;"
             >
@@ -4274,7 +4274,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4315,7 +4315,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 3;"
             >
@@ -4336,7 +4336,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4383,7 +4383,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-wac1w6-0 frmAtQ"
+      class="styles__Wrapper-wac1w6-0 gDeDDV"
       id="schedule"
     >
       <div
@@ -4407,7 +4407,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 gtNqdc"
         >
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 0;"
           >
@@ -4428,7 +4428,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -4469,7 +4469,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 1;"
           >
@@ -4490,7 +4490,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -4528,7 +4528,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -4569,7 +4569,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 2;"
           >
@@ -4590,7 +4590,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -4631,7 +4631,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 3;"
           >
@@ -4652,7 +4652,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -4756,7 +4756,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-wac1w6-0 frmAtQ"
+        class="styles__Wrapper-wac1w6-0 gDeDDV"
         id="schedule"
       >
         <div
@@ -4771,7 +4771,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 gtNqdc"
           >
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 0;"
             >
@@ -4808,7 +4808,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4859,7 +4859,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4897,7 +4897,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4935,7 +4935,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -4976,7 +4976,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 1;"
             >
@@ -5013,7 +5013,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5064,7 +5064,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5102,7 +5102,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5140,7 +5140,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5178,7 +5178,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5219,7 +5219,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 2;"
             >
@@ -5256,7 +5256,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5307,7 +5307,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5345,7 +5345,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5383,7 +5383,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5421,7 +5421,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5462,7 +5462,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 3;"
             >
@@ -5499,7 +5499,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5550,7 +5550,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5588,7 +5588,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5626,7 +5626,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5664,7 +5664,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5705,7 +5705,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 4;"
             >
@@ -5742,7 +5742,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5793,7 +5793,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5831,7 +5831,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5869,7 +5869,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5910,7 +5910,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 5;"
             >
@@ -5947,7 +5947,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -5998,7 +5998,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6036,7 +6036,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6074,7 +6074,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6115,7 +6115,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 6;"
             >
@@ -6152,7 +6152,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6203,7 +6203,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6241,7 +6241,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6279,7 +6279,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6317,7 +6317,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6358,7 +6358,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 7;"
             >
@@ -6395,7 +6395,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6446,7 +6446,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6484,7 +6484,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6522,7 +6522,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6560,7 +6560,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -6616,7 +6616,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-wac1w6-0 frmAtQ"
+      class="styles__Wrapper-wac1w6-0 gDeDDV"
       id="schedule"
     >
       <div
@@ -6631,7 +6631,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 gtNqdc"
         >
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 0;"
           >
@@ -6668,7 +6668,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -6719,7 +6719,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -6757,7 +6757,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -6795,7 +6795,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -6836,7 +6836,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 1;"
           >
@@ -6873,7 +6873,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -6924,7 +6924,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -6962,7 +6962,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7000,7 +7000,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7038,7 +7038,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7079,7 +7079,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 2;"
           >
@@ -7116,7 +7116,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7167,7 +7167,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7205,7 +7205,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7243,7 +7243,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7281,7 +7281,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7322,7 +7322,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 3;"
           >
@@ -7359,7 +7359,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7410,7 +7410,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7448,7 +7448,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7486,7 +7486,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7524,7 +7524,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7565,7 +7565,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 4;"
           >
@@ -7602,7 +7602,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7653,7 +7653,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7691,7 +7691,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7729,7 +7729,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7770,7 +7770,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 5;"
           >
@@ -7807,7 +7807,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7858,7 +7858,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7896,7 +7896,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7934,7 +7934,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -7975,7 +7975,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 6;"
           >
@@ -8012,7 +8012,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8063,7 +8063,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8101,7 +8101,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8139,7 +8139,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8177,7 +8177,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8218,7 +8218,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 7;"
           >
@@ -8255,7 +8255,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8306,7 +8306,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8344,7 +8344,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8382,7 +8382,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8420,7 +8420,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -8533,7 +8533,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-wac1w6-0 frmAtQ"
+        class="styles__Wrapper-wac1w6-0 gDeDDV"
         id="schedule"
       >
         <div
@@ -8548,7 +8548,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 gtNqdc"
           >
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 0;"
             >
@@ -8585,7 +8585,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8636,7 +8636,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8674,7 +8674,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8712,7 +8712,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8753,7 +8753,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 1;"
             >
@@ -8790,7 +8790,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8841,7 +8841,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8879,7 +8879,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8917,7 +8917,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8955,7 +8955,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -8996,7 +8996,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 2;"
             >
@@ -9033,7 +9033,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9084,7 +9084,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9122,7 +9122,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9160,7 +9160,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9198,7 +9198,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9239,7 +9239,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 3;"
             >
@@ -9276,7 +9276,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9327,7 +9327,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9365,7 +9365,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9403,7 +9403,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9441,7 +9441,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9482,7 +9482,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 4;"
             >
@@ -9519,7 +9519,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9570,7 +9570,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9608,7 +9608,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9646,7 +9646,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9687,7 +9687,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 5;"
             >
@@ -9724,7 +9724,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9775,7 +9775,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9813,7 +9813,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9851,7 +9851,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9892,7 +9892,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 6;"
             >
@@ -9929,7 +9929,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -9980,7 +9980,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10018,7 +10018,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10056,7 +10056,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10094,7 +10094,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10135,7 +10135,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 7;"
             >
@@ -10172,7 +10172,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10223,7 +10223,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10261,7 +10261,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10299,7 +10299,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10337,7 +10337,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10391,7 +10391,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 gtNqdc"
           >
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 0;"
             >
@@ -10412,7 +10412,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10453,7 +10453,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 1;"
             >
@@ -10474,7 +10474,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10512,7 +10512,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10553,7 +10553,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 2;"
             >
@@ -10574,7 +10574,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10615,7 +10615,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 jCKdDV schedule"
+              class="styles__Event-wac1w6-2 tDsWT schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 3;"
             >
@@ -10636,7 +10636,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 fzaRWE event"
+                    class="styles__Persona-wac1w6-3 bEkFAw event"
                   >
                     <a
                       class="persona"
@@ -10683,7 +10683,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-wac1w6-0 frmAtQ"
+      class="styles__Wrapper-wac1w6-0 gDeDDV"
       id="schedule"
     >
       <div
@@ -10698,7 +10698,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 gtNqdc"
         >
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 0;"
           >
@@ -10735,7 +10735,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -10786,7 +10786,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -10824,7 +10824,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -10862,7 +10862,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -10903,7 +10903,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 1;"
           >
@@ -10940,7 +10940,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -10991,7 +10991,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11029,7 +11029,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11067,7 +11067,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11105,7 +11105,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11146,7 +11146,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 2;"
           >
@@ -11183,7 +11183,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11234,7 +11234,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11272,7 +11272,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11310,7 +11310,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11348,7 +11348,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11389,7 +11389,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 3;"
           >
@@ -11426,7 +11426,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11477,7 +11477,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11515,7 +11515,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11553,7 +11553,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11591,7 +11591,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11632,7 +11632,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 4;"
           >
@@ -11669,7 +11669,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11720,7 +11720,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11758,7 +11758,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11796,7 +11796,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11837,7 +11837,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 5;"
           >
@@ -11874,7 +11874,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11925,7 +11925,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -11963,7 +11963,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12001,7 +12001,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12042,7 +12042,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 6;"
           >
@@ -12079,7 +12079,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12130,7 +12130,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12168,7 +12168,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12206,7 +12206,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12244,7 +12244,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12285,7 +12285,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 7;"
           >
@@ -12322,7 +12322,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12373,7 +12373,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12411,7 +12411,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12449,7 +12449,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12487,7 +12487,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12541,7 +12541,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 gtNqdc"
         >
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 0;"
           >
@@ -12562,7 +12562,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12603,7 +12603,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 1;"
           >
@@ -12624,7 +12624,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12662,7 +12662,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12703,7 +12703,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 2;"
           >
@@ -12724,7 +12724,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
@@ -12765,7 +12765,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 jCKdDV schedule"
+            class="styles__Event-wac1w6-2 tDsWT schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 3;"
           >
@@ -12786,7 +12786,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 fzaRWE event"
+                  class="styles__Persona-wac1w6-3 bEkFAw event"
                 >
                   <a
                     class="persona"
