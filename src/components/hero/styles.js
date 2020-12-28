@@ -55,6 +55,10 @@ export const Wrapper = styled.section`
     min-height: 100vh;
   }
 
+  @media (min-height: 640px) {
+    min-height: 100vh;
+  }
+
   @media ${device.s} {
     padding: ${rem("50px")};
 
