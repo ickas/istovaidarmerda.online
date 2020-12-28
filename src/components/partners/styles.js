@@ -21,9 +21,9 @@ export const Wrapper = styled.section`
 `;
 
 export const Logos = styled.div`
-  --itemWidth: 125px;
-  --borderRadius: 15px;
-  margin: 35px auto 0 auto;
+  --itemWidth: ${rem("125px")};
+  --borderRadius: ${rem("15px")};
+  margin: ${rem("35px")} auto 0 auto;
 
   ul {
     margin: 0;
@@ -34,8 +34,8 @@ export const Logos = styled.div`
   }
 
   @media ${device.l} {
-    --itemWidth: 250px;
-    --borderRadius: 50px;
+    --itemWidth: ${rem("250px")};
+    --borderRadius: ${rem("50px")};
   }
 `;
 
@@ -89,6 +89,6 @@ export const Logo = styled.li`
   }
 
   @media ${device.l} {
-    margin: 15px;
+    margin: ${rem("15px")};
   }
 `;

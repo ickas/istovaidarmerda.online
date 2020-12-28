@@ -47,7 +47,13 @@
 }
 
 html {
-  font-size: 18px;
+  font-size: 16px;
+}
+
+@media (min-width: 700px) {
+  html {
+    font-size: 18px;
+  }
 }
 
 body {
@@ -58,6 +64,7 @@ body {
   font-size: 1rem;
   font-weight: var(--fontLight, 300);
   color: var(--default, #212121);
+  background-color: var(--yellow, #f5e7ad);
 }
 
 h1,

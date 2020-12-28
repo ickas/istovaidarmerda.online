@@ -27,6 +27,7 @@ const slideInUpEvent = keyframes`
 export const Wrapper = styled.section`
   --title-margin: 50px;
   padding: 50px 30px 30px 30px;
+  background-color: var(--light);
 
   .schedule {
     &__title {
@@ -71,7 +72,7 @@ export const EventsWrapper = styled.ul`
 
 export const Event = styled.li`
   --ivdm-event-delay: 0;
-  --ivdm-event-duration: 500ms;
+  --ivdm-event-duration: 375ms;
   --ivdm-event-stagger: 125ms;
 
   position: relative;
@@ -87,7 +88,7 @@ export const Event = styled.li`
     transform: ${`translate3d(0, ${rem("-15px")}, 0) scale3d(0, 1, 1)`};
     transform-origin: left center;
     animation-name: ${slideInLeftEventBorder};
-    animation-duration: 500ms;
+    animation-duration: var(--ivdm-event-duration);
     animation-delay: calc(calc(var(--ivdm-event-delay) * var(--ivdm-event-stagger)) + var(--ivdm-event-duration));
     animation-timing-function: ${timingFunctions("easeInOutCirc")};
     animation-fill-mode: forwards;
@@ -120,7 +121,7 @@ export const Event = styled.li`
   }
 
   .event__section {
-    margin-top: ${rem("30px", "18px")};
+    margin-top: ${rem("30px")};
     --ivdm-event-stagger: 187.5ms;
 
     &__title {
@@ -130,7 +131,7 @@ export const Event = styled.li`
     }
 
     .event__item + .event__item {
-      margin-top: ${rem("15px", "18px")};
+      margin-top: ${rem("15px")};
     }
 
     a {
@@ -141,8 +142,8 @@ export const Event = styled.li`
 
   .event__item {
     h4 {
-      margin-bottom: ${rem("10px", "18px")};
-      font-size: ${rem("12px", "18px")};
+      margin-bottom: ${rem("10px")};
+      font-size: ${rem("12px")};
       color: var(--lightBrown);
     }
   }
@@ -171,7 +172,7 @@ export const Event = styled.li`
   .event__topic,
   .event__section {
     animation-name: ${slideInUpEvent};
-    animation-duration: 500ms;
+    animation-duration: var(--ivdm-event-duration);
     animation-timing-function: ${timingFunctions("easeOutExpo")};
     animation-fill-mode: forwards;
     animation-play-state: paused;
@@ -182,24 +183,23 @@ export const Event = styled.li`
 
 export const Persona = styled.div`
   &:not(:last-child) {
-    margin-bottom: ${rem("10px", "18px")};
+    margin-bottom: ${rem("10px")};
   }
 
   a {
     display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
 
     .persona {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-
       &__avatar {
-        margin-right: ${rem("5px", "18px")};
-        width: ${rem("50px", "18px")};
-        height: ${rem("50px", "18px")};
+        margin-right: ${rem("5px")};
+        width: ${rem("50px")};
+        height: ${rem("50px")};
 
         img {
-          border-radius: ${rem("50px", "18px")};
+          border-radius: ${rem("50px")};
           object-fit: cover;
           overflow: hidden;
           background-color: var(--yellow);
@@ -220,7 +220,7 @@ export const Persona = styled.div`
       }
 
       &.job {
-        font-size: ${rem("12px", "18px")};
+        font-size: ${rem("12px")};
         font-style: italic;
         color: var(--lightBrown);
       }

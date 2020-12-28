@@ -27,7 +27,7 @@ export const Wrapper = styled.section`
   background-color: var(--yellow);
   max-width: 100vw;
   width: 100%;
-  min-height: 100vh;
+  min-height: auto;
   display: flex;
   padding: ${rem("30px")};
   overflow: hidden;
@@ -46,6 +46,10 @@ export const Wrapper = styled.section`
     animation-timing-function: ${timingFunctions("easeOutBack")};
     animation-fill-mode: forwards;
     animation-delay: 250ms;
+  }
+
+  @media (min-height: 640px) {
+    min-height: 100vh;
   }
 
   @media ${device.s} {
@@ -68,7 +72,7 @@ export const Logo = styled.figure`
   margin: 0;
   margin: 0 auto ${rem("15px")} auto;
   width: 100%;
-  max-width: ${rem("200px")};
+  max-width: ${rem("180px")};
   height: auto;
 
   @media ${device.m} {
@@ -85,12 +89,25 @@ export const Logo = styled.figure`
 export const Intro = styled.div`
   .hero__title {
     margin-bottom: ${rem("15px")};
-    font-size: ${rem("40px")};
+    font-size: ${rem("36px")};
     line-height: 110%;
     text-align: center;
     text-transform: uppercase;
     color: var(--lightBrown);
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    &__stroke {
+      font-size: inherit;
+      font-weight: var(--fontBlack);
+      text-transform: uppercase;
+      -webkit-text-stroke-color: var(--default);
+      -webkit-text-stroke-width: ${rem("2px")};
+      color: var(--yellow);
+    }
 
     &__markup {
       animation-delay: 250ms;
@@ -124,6 +141,10 @@ export const Intro = styled.div`
       opacity: 0;
       overflow: hidden;
     }
+
+    @media ${device.xs} {
+      font-size: ${rem("40px")};
+    }
   }
 
   .hero__description {
@@ -140,6 +161,7 @@ export const Intro = styled.div`
   @media ${device.s} {
     .hero__title {
       font-size: ${rem("64px")};
+      align-items: flex-start;
     }
 
     svg {

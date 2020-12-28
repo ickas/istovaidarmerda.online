@@ -11,7 +11,7 @@ export const MOUSE_BREAKPOINT = "(min-width: 538px) and (min-height: 812px)";
 
 const Hero = () => {
   const widthBreakpoint = useBreakpoints("(min-width: 700px)");
-  const mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 812px)");
+  const mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 720px)");
 
   const { ref, inView } = useInView({
     threshold: 0,
@@ -41,8 +41,8 @@ const Hero = () => {
             </h1>
           ) : (
             <h1 className="hero__title" aria-label="Isto Vai Dar Merda" data-testid="hero-title">
-              Isto Vai Dar
-              <br /> Merda
+              <span className="hero__title__stroke">Isto Vai Dar</span>
+              <span className="hero__title__markup">Merda</span>
             </h1>
           )}
 
