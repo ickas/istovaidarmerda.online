@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero is-visible"
+        class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero"
         data-testid="hero"
       >
         <div
@@ -95,7 +95,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero is-visible"
+      class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero"
       data-testid="hero"
     >
       <div
@@ -241,7 +241,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero is-visible"
+        class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero"
         data-testid="hero"
       >
         <div
@@ -330,7 +330,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero is-visible"
+      class="styles__Wrapper-sc-1b4b6pk-0 iqwDbL hero"
       data-testid="hero"
     >
       <div

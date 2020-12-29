@@ -1,6 +1,6 @@
 import React, { useContext, useCallback } from "react";
-import KonamiContext from "components/konami-code/context";
 import useSound from "use-sound";
+import KonamiContext from "../konami-code/context";
 import { useBreakpoints } from "../../../hooks/useBreakpoints";
 import * as Styles from "./styles";
 import ButtonLink from "../button-link";
