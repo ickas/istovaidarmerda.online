@@ -6,7 +6,7 @@ export const Button = styled.a`
   border: 3px solid ${({ borderColor }) => borderColor || "var(--darkBrown)"};
   border-radius: ${rem("999px")};
   background-color: ${({ bgColor }) => bgColor || "var(--lightBrown)"};
-  width: min-content;
+  width: max-content;
   height: ${rem("64px")};
   padding: 0 ${rem("32px")};
   display: flex;
