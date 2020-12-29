@@ -29,7 +29,7 @@ export const Wrapper = styled.section`
   .mouse {
     position: absolute;
     bottom: 1rem;
-    margin-left: calc(50% - ${rem("30px")});
+    margin-left: calc(50% - ${rem("30px")} * 2);
 
     @media (prefers-reduced-motion: no-preference) {
       transform: translate3d(50%, 200%, 0);
@@ -49,7 +49,7 @@ export const Wrapper = styled.section`
     padding: ${rem("50px")};
 
     .mouse {
-      margin-left: calc(50% - ${rem("50px")});
+      margin-left: calc(50% - (${rem("50px")} * 2 - 30px));
     }
   }
 
