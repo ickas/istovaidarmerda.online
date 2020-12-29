@@ -23,6 +23,9 @@ const Hero = () => {
     }
   }, [hasEasterEgg]);
 
+  const src = "/images/ivdm-logo/ivdm-logo.png";
+  const srcSet = `${src} 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x`;
+
   return (
     <Styles.Wrapper className="hero" data-testid="hero">
       <div className="hero__container">
