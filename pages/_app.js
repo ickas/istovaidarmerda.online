@@ -2,6 +2,8 @@
 /* eslint-disable react/prop-types */
 // eslint-disable-next-line import/no-unresolved
 import SkipLinks from "components/skip-link";
+import KonamiProvider from "components/konami-code";
+import KonamiTrigger from "components/konami-code/trigger";
 import "../styles/global.css";
 
 const items = [
@@ -21,12 +23,15 @@ const items = [
 
 function IstoVaiDarMerdApp({ Component, pageProps }) {
   return (
-    <>
-      <SkipLinks items={items} />
-      <main>
-        <Component {...pageProps} />
-      </main>
-    </>
+    <KonamiProvider>
+      <>
+        <SkipLinks items={items} />
+        <KonamiTrigger />
+        <main>
+          <Component {...pageProps} />
+        </main>
+      </>
+    </KonamiProvider>
   );
 }
 
