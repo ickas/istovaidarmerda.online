@@ -94,7 +94,8 @@ h3 {
   font-weight: var(--fontBlack);
 }
 
-h4 {
+h4,
+.as-h4 {
   font-size: 1rem;
   font-weight: var(--fontBlack);
 }

@@ -17,7 +17,7 @@ export const FooterMenu = styled.div`
   margin: 0 auto;
   text-align: center;
 
-  h4 {
+  .title {
     margin-bottom: 15px;
     color: var(--darkBrown);
     text-transform: uppercase;
