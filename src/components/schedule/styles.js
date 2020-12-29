@@ -31,7 +31,6 @@ export const Wrapper = styled.section`
 
   .schedule {
     &__title {
-      margin: var(--title-margin) 0;
       font-size: ${rem("40px")};
       text-align: center;
 
@@ -39,33 +38,44 @@ export const Wrapper = styled.section`
         font-size: ${rem("64px")};
       }
     }
+
+    &__subtitle {
+      color: var(--lightBrown);
+      text-align: center;
+    }
   }
 
   .schedule__agenda .schedule__title {
     margin-top: 0;
   }
 
-  @media ${device.l} {
-    padding: ${rem("100px")};
+  .schedule__rubrics {
+    margin-top: var(--title-margin);
   }
 
   @media ${device.s} {
     --title-margin: 100px;
   }
+
+  @media ${device.l} {
+    padding: ${rem("100px")};
+  }
 `;
 
 export const EventsWrapper = styled.ul`
+  --title-margin: 50px;
   --events-gap: ${rem("30px")};
   display: grid;
   grid-template-columns: 1fr;
   grid-column-gap: var(--events-gap);
   grid-row-gap: calc(var(--events-gap) * 2);
-  margin: 0 auto;
+  margin: var(--title-margin) auto 0 auto;
   padding: 0;
   max-width: 1440px;
   list-style-type: none;
 
   @media ${device.s} {
+    --title-margin: 100px;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   }
 `;
