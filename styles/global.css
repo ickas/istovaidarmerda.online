@@ -79,7 +79,7 @@ h1,
 h2,
 h3,
 h4 {
-  text-rendering: geometricPrecision;
+  text-rendering: optimizeSpeed;
 }
 
 h2 {

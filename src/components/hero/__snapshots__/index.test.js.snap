@@ -25,13 +25,26 @@ Object {
             />
           </figure>
           <div
-            class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
+            class="styles__Intro-sc-1b4b6pk-2 cAJNLP"
           >
             <h1
               aria-label="Isto Vai Dar Merda"
               class="hero__title"
               data-testid="hero-title"
             >
+              <svg
+                class="hero__title__vector"
+                height="85"
+                width="498"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <text
+                  x="0"
+                  y="65"
+                >
+                  Isto Vai Dar
+                </text>
+              </svg>
               <span
                 class="hero__title__stroke"
               >
@@ -54,7 +67,7 @@ Object {
                é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
             </p>
             <div
-              class="styles__CallToAction-sc-1b4b6pk-3 cA-dOeZ hero__call-to-action"
+              class="styles__CallToAction-sc-1b4b6pk-3 ikUTPe hero__call-to-action"
             >
               <a
                 aria-label="Consulta a Agenda"
@@ -101,13 +114,26 @@ Object {
           />
         </figure>
         <div
-          class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
+          class="styles__Intro-sc-1b4b6pk-2 cAJNLP"
         >
           <h1
             aria-label="Isto Vai Dar Merda"
             class="hero__title"
             data-testid="hero-title"
           >
+            <svg
+              class="hero__title__vector"
+              height="85"
+              width="498"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <text
+                x="0"
+                y="65"
+              >
+                Isto Vai Dar
+              </text>
+            </svg>
             <span
               class="hero__title__stroke"
             >
@@ -130,7 +156,7 @@ Object {
              é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
           </p>
           <div
-            class="styles__CallToAction-sc-1b4b6pk-3 cA-dOeZ hero__call-to-action"
+            class="styles__CallToAction-sc-1b4b6pk-3 ikUTPe hero__call-to-action"
           >
             <a
               aria-label="Consulta a Agenda"
@@ -234,7 +260,7 @@ Object {
             />
           </figure>
           <div
-            class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
+            class="styles__Intro-sc-1b4b6pk-2 cAJNLP"
           >
             <h1
               aria-label="Isto Vai Dar Merda"
@@ -242,6 +268,7 @@ Object {
               data-testid="hero-title"
             >
               <svg
+                class="hero__title__vector"
                 height="85"
                 width="498"
                 xmlns="http://www.w3.org/2000/svg"
@@ -253,6 +280,11 @@ Object {
                   Isto Vai Dar
                 </text>
               </svg>
+              <span
+                class="hero__title__stroke"
+              >
+                Isto Vai Dar
+              </span>
               <span
                 class="hero__title__markup"
               >
@@ -270,7 +302,7 @@ Object {
                é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
             </p>
             <div
-              class="styles__CallToAction-sc-1b4b6pk-3 cA-dOeZ hero__call-to-action"
+              class="styles__CallToAction-sc-1b4b6pk-3 ikUTPe hero__call-to-action"
             >
               <a
                 aria-label="Consulta a Agenda"
@@ -317,7 +349,7 @@ Object {
           />
         </figure>
         <div
-          class="styles__Intro-sc-1b4b6pk-2 iIVdqo"
+          class="styles__Intro-sc-1b4b6pk-2 cAJNLP"
         >
           <h1
             aria-label="Isto Vai Dar Merda"
@@ -325,6 +357,7 @@ Object {
             data-testid="hero-title"
           >
             <svg
+              class="hero__title__vector"
               height="85"
               width="498"
               xmlns="http://www.w3.org/2000/svg"
@@ -336,6 +369,11 @@ Object {
                 Isto Vai Dar
               </text>
             </svg>
+            <span
+              class="hero__title__stroke"
+            >
+              Isto Vai Dar
+            </span>
             <span
               class="hero__title__markup"
             >
@@ -353,7 +391,7 @@ Object {
              é um evento que materializa a máxima “quem avisa, amigo é”, pensado para abordar temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
           </p>
           <div
-            class="styles__CallToAction-sc-1b4b6pk-3 cA-dOeZ hero__call-to-action"
+            class="styles__CallToAction-sc-1b4b6pk-3 ikUTPe hero__call-to-action"
           >
             <a
               aria-label="Consulta a Agenda"

@@ -2,16 +2,6 @@ import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
 import { device } from "../../../utils/breakpoints";
 
-const fadeInElement = keyframes`
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-`;
-
 const slideUpMouse = keyframes`
   from {
     transform: translate3d(50%, 200%, 0);
@@ -113,7 +103,7 @@ export const Intro = styled.div`
     }
 
     &__vector {
-      display: block;
+      display: none;
       margin-bottom: ${rem("-15px")};
       width: ${rem("500px")};
       height: auto;
@@ -126,6 +116,7 @@ export const Intro = styled.div`
         stroke: var(--default);
         stroke-width: ${rem("2px")};
         fill: transparent;
+        font-family: inherit;
       }
     }
 
@@ -134,42 +125,24 @@ export const Intro = styled.div`
       overflow: hidden;
     }
 
-    @media (prefers-reduced-motion: no-preference) {
-      &__vector,
-      &__markup {
-        animation-name: ${fadeInElement};
-        animation-duration: 250ms;
-        animation-delay: 125ms;
-        animation-timing-function: ${timingFunctions("easeOutQuad")};
-        animation-fill-mode: forwards;
-        opacity: 0;
-      }
-
-      &__markup {
-        animation-delay: 250ms;
-        opacity: 0;
-      }
-    }
-
     @media ${device.xs} {
       font-size: ${rem("40px")};
+    }
+
+    @media ${device.s} {
+      &__stroke {
+        display: none;
+      }
+
+      &__vector {
+        display: block;
+      }
     }
   }
 
   .hero__description {
     max-width: ${rem("600px")};
     text-align: center;
-  }
-
-  @media (prefers-reduced-motion: no-preference) {
-    .hero__description {
-      opacity: 0;
-      animation-name: ${fadeInElement};
-      animation-duration: 250ms;
-      animation-timing-function: ${timingFunctions("easeOutQuad")};
-      animation-fill-mode: forwards;
-      animation-delay: 250ms;
-    }
   }
 
   @media ${device.s} {
@@ -211,12 +184,6 @@ export const CallToAction = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  opacity: 0;
-  animation-name: ${fadeInElement};
-  animation-duration: 250ms;
-  animation-timing-function: ${timingFunctions("easeOutQuad")};
-  animation-fill-mode: forwards;
-  animation-delay: 250ms;
 
   a {
     margin: 5px;
