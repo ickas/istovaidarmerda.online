@@ -9,12 +9,14 @@ Object {
         class="styles__Wrapper-sc-2nn9gf-0 cTxcED"
       >
         <div
-          class="styles__FooterMenu-sc-2nn9gf-1 eWqYYe"
+          class="styles__FooterMenu-sc-2nn9gf-1 ldYsCU"
         >
           <div>
-            <h4>
+            <h3
+              class="title as-h4"
+            >
               Contactos
-            </h4>
+            </h3>
             <ul>
               <li>
                 <a
@@ -37,9 +39,11 @@ Object {
             </ul>
           </div>
           <div>
-            <h4>
+            <h3
+              class="title as-h4"
+            >
               Social
-            </h4>
+            </h3>
             <ul>
               <li>
                 <a
@@ -62,13 +66,16 @@ Object {
             </ul>
           </div>
           <div>
-            <h4>
+            <h3
+              class="title as-h4"
+            >
               Media
-            </h4>
+            </h3>
             <ul>
               <li>
                 <a
                   href="https://drive.google.com/drive/folders/1J4i9QUIF_M7-OQ8qXOPmOJdGK3O7HUqR?usp=sharing"
+                  rel="noopener noreferrer"
                   target="_blank"
                 >
                   Press Kit
@@ -92,12 +99,14 @@ Object {
       class="styles__Wrapper-sc-2nn9gf-0 cTxcED"
     >
       <div
-        class="styles__FooterMenu-sc-2nn9gf-1 eWqYYe"
+        class="styles__FooterMenu-sc-2nn9gf-1 ldYsCU"
       >
         <div>
-          <h4>
+          <h3
+            class="title as-h4"
+          >
             Contactos
-          </h4>
+          </h3>
           <ul>
             <li>
               <a
@@ -120,9 +129,11 @@ Object {
           </ul>
         </div>
         <div>
-          <h4>
+          <h3
+            class="title as-h4"
+          >
             Social
-          </h4>
+          </h3>
           <ul>
             <li>
               <a
@@ -145,13 +156,16 @@ Object {
           </ul>
         </div>
         <div>
-          <h4>
+          <h3
+            class="title as-h4"
+          >
             Media
-          </h4>
+          </h3>
           <ul>
             <li>
               <a
                 href="https://drive.google.com/drive/folders/1J4i9QUIF_M7-OQ8qXOPmOJdGK3O7HUqR?usp=sharing"
+                rel="noopener noreferrer"
                 target="_blank"
               >
                 Press Kit

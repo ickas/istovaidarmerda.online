@@ -2,16 +2,6 @@ import styled, { keyframes } from "styled-components";
 import { rem, timingFunctions } from "polished";
 import { device } from "../../../utils/breakpoints";
 
-const fadeInElement = keyframes`
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-`;
-
 const slideUpMouse = keyframes`
   from {
     transform: translate3d(50%, 200%, 0);
@@ -66,6 +56,25 @@ export const Wrapper = styled.section`
   @media ${device.m} {
     .hero__container {
       display: flex;
+
+      @supports (display: grid) {
+        display: grid;
+        grid-template-columns: 24vw 1fr;
+        grid-gap: 50px;
+      }
+      align-items: center;
+    }
+  }
+
+  @media ${device.l} {
+    .hero__container {
+      display: flex;
+
+      @supports (display: grid) {
+        display: grid;
+        grid-template-columns: min(max(${rem("180px")}, 24vw, ${rem("270px")})) 1fr;
+        grid-gap: 50px;
+      }
       align-items: center;
     }
   }
@@ -79,7 +88,7 @@ export const Logo = styled.figure`
   height: auto;
 
   @media ${device.m} {
-    margin: -320px ${rem("50px")} 0 0;
+    transform: translate3d(0, -160px, 0);
     max-width: ${rem("270px")};
   }
 
@@ -112,12 +121,8 @@ export const Intro = styled.div`
       color: var(--yellow);
     }
 
-    &__markup {
-      margin: 0 auto;
-    }
-
     &__vector {
-      display: block;
+      display: none;
       margin-bottom: ${rem("-15px")};
       width: ${rem("500px")};
       height: auto;
@@ -130,6 +135,7 @@ export const Intro = styled.div`
         stroke: var(--default);
         stroke-width: ${rem("2px")};
         fill: transparent;
+        font-family: inherit;
       }
     }
 
@@ -138,25 +144,18 @@ export const Intro = styled.div`
       overflow: hidden;
     }
 
-    @media (prefers-reduced-motion: no-preference) {
-      &__vector,
-      &__markup {
-        animation-name: ${fadeInElement};
-        animation-duration: 250ms;
-        animation-delay: 125ms;
-        animation-timing-function: ${timingFunctions("easeOutQuad")};
-        animation-fill-mode: forwards;
-        opacity: 0;
-      }
-
-      &__markup {
-        animation-delay: 250ms;
-        opacity: 0;
-      }
-    }
-
     @media ${device.xs} {
       font-size: ${rem("40px")};
+    }
+
+    @media ${device.m} {
+      &__stroke {
+        display: none;
+      }
+
+      &__vector {
+        display: block;
+      }
     }
 
     @media ${device.m} {
@@ -171,46 +170,23 @@ export const Intro = styled.div`
     text-align: center;
   }
 
-  @media (prefers-reduced-motion: no-preference) {
-    .hero__description {
-      opacity: 0;
-      animation-name: ${fadeInElement};
-      animation-duration: 250ms;
-      animation-timing-function: ${timingFunctions("easeOutQuad")};
-      animation-fill-mode: forwards;
-      animation-delay: 250ms;
-    }
-  }
-
   @media ${device.s} {
     .hero__title {
       font-size: ${rem("64px")};
-      align-items: flex-start;
-    }
-
-    svg {
-      display: block;
-      margin: 0 auto ${rem("-15px")} auto;
-
-      text {
-        font-size: ${rem("64px")};
-        font-weight: var(--fontBlack);
-        text-transform: uppercase;
-        line-height: ${rem("64px")};
-        stroke: var(--default);
-        stroke-width: ${rem("2px")};
-        fill: transparent;
-      }
     }
   }
 
   @media ${device.m} {
+    .hero__title {
+      align-items: flex-start;
+    }
+
     .hero__title,
     .hero__description {
       text-align: left;
     }
 
-    svg {
+    .hero__title__vector {
       margin: 0 0 ${rem("-15px")} 0;
     }
   }
@@ -221,12 +197,6 @@ export const CallToAction = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  opacity: 0;
-  animation-name: ${fadeInElement};
-  animation-duration: 250ms;
-  animation-timing-function: ${timingFunctions("easeOutQuad")};
-  animation-fill-mode: forwards;
-  animation-delay: 250ms;
 
   a {
     margin: 5px;

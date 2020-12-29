@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <title>Isto Vai Dar Merda – na Pandemia</title>
         <meta
           key="description"
