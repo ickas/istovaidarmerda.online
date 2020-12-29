@@ -14,9 +14,6 @@ const Hero = () => {
   const mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 720px)");
   const { hasEasterEgg } = useContext(KonamiContext);
 
-  const src = "/images/ivdm-logo/ivdm-logo.png";
-  const srcSet = `${src} 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x`;
-
   const handleOnClick = useCallback(() => {
     if (hasEasterEgg) {
       play();
