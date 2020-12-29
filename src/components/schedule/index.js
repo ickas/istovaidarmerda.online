@@ -1,17 +1,11 @@
 import React from "react";
 import { arrayOf, shape, string } from "prop-types";
 import Events from "./events";
+import { PERSONAS_VALUES } from "./personas";
 import * as Styles from "./styles";
 import "./types.d";
 
-const SPEAKER_TYPE = arrayOf(
-  shape({
-    avatar: string,
-    name: string,
-    job: string,
-    url: string,
-  }),
-);
+const SPEAKER_TYPE = arrayOf(shape(PERSONAS_VALUES));
 
 /**
  *
