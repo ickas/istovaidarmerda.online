@@ -1,9 +1,18 @@
 /**
+ * @typedef {object} IPersonasAvatar
+ *
+ * @property {string} oneX
+ * @property {string} twoX
+ * @property {string} threeX
+ */
+
+/**
  * @typedef {object} IPersonasValues
  *
  * @property {string} url
  * @property {string} name
- * @property {string} avatar
+ * @property {IPersonasAvatar} avatar
+ * @property {"twitter" | "facebook"} type
  * @property {string} job
  */
 

@@ -16,10 +16,12 @@ Object {
             class="styles__Logo-sc-1b4b6pk-1 haOSoa"
           >
             <img
-              alt="Isto Vai Dar Merda logo"
-              height="400"
-              src="/images/ivdm-logo.svg"
-              width="365"
+              alt="Logótipo do Isto Vai Dar Merda"
+              height="333"
+              loading="lazy"
+              src="/images/ivdm-logo/ivdm-logo.png"
+              srcset="/images/ivdm-logo/ivdm-logo.png 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x"
+              width="302"
             />
           </figure>
           <div
@@ -90,10 +92,12 @@ Object {
           class="styles__Logo-sc-1b4b6pk-1 haOSoa"
         >
           <img
-            alt="Isto Vai Dar Merda logo"
-            height="400"
-            src="/images/ivdm-logo.svg"
-            width="365"
+            alt="Logótipo do Isto Vai Dar Merda"
+            height="333"
+            loading="lazy"
+            src="/images/ivdm-logo/ivdm-logo.png"
+            srcset="/images/ivdm-logo/ivdm-logo.png 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x"
+            width="302"
           />
         </figure>
         <div
@@ -221,10 +225,12 @@ Object {
             class="styles__Logo-sc-1b4b6pk-1 haOSoa"
           >
             <img
-              alt="Isto Vai Dar Merda logo"
-              height="400"
-              src="/images/ivdm-logo.svg"
-              width="365"
+              alt="Logótipo do Isto Vai Dar Merda"
+              height="333"
+              loading="lazy"
+              src="/images/ivdm-logo/ivdm-logo.png"
+              srcset="/images/ivdm-logo/ivdm-logo.png 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x"
+              width="302"
             />
           </figure>
           <div
@@ -302,10 +308,12 @@ Object {
           class="styles__Logo-sc-1b4b6pk-1 haOSoa"
         >
           <img
-            alt="Isto Vai Dar Merda logo"
-            height="400"
-            src="/images/ivdm-logo.svg"
-            width="365"
+            alt="Logótipo do Isto Vai Dar Merda"
+            height="333"
+            loading="lazy"
+            src="/images/ivdm-logo/ivdm-logo.png"
+            srcset="/images/ivdm-logo/ivdm-logo.png 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x"
+            width="302"
           />
         </figure>
         <div
