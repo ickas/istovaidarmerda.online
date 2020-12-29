@@ -1,21 +1,38 @@
 /* eslint-disable react/jsx-props-no-spreading */
 /* eslint-disable react/prop-types */
-import React from "react";
-import Head from "next/head";
-import "../styles/styles.scss";
+// eslint-disable-next-line import/no-unresolved
+import SkipLinks from "components/skip-link";
+import KonamiProvider from "../src/components/konami-code";
+import KonamiTrigger from "../src/components/konami-code/trigger";
+import "../styles/global.css";
+
+const items = [
+  {
+    target: "#schedule",
+    text: "Ir para a secção Agenda",
+  },
+  {
+    target: "#where",
+    text: "Ir para a secção Onde",
+  },
+  {
+    target: "#hein",
+    text: "Ir para a secção Sobre",
+  },
+];
 
 function IstoVaiDarMerdApp({ Component, pageProps }) {
-	return (
-		<div className="layout__page">
-			<Head>
-				<title>Isto vai dar merda 💩</title>
-				<meta name="robots" content="noindex, nofollow" />
-				<meta key="description" name="description" content="" />
-				<meta key="keywords" name="keywords" content="" />
-			</Head>
-			<Component {...pageProps} />
-		</div>
-	);
+  return (
+    <KonamiProvider>
+      <>
+        <SkipLinks items={items} />
+        <KonamiTrigger />
+        <main>
+          <Component {...pageProps} />
+        </main>
+      </>
+    </KonamiProvider>
+  );
 }
 
 export default IstoVaiDarMerdApp;

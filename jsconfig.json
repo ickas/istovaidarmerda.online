@@ -23,12 +23,16 @@
 		"paths": {
 			"components/*": ["./src/components/*"],
 			"helpers/*": ["./src/helpers/*"],
-			"pages/*": ["./pages/*"]
+			"pages/*": ["./pages/*"],
+			"hooks/*": ["./hooks/*"]
 		},
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true
 	},
 	"include": ["./src/**/*", "./pages/**/*"],
-	"exclude": ["node_modules", "dist"]
+	"exclude": ["node_modules", "dist"],
+	"typeAcquisition": {
+		"include": ["jest", "cypress", "cypress-axe", "@testing-library/cypress"]
+	}
 }

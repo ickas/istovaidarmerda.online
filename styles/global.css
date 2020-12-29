@@ -1,0 +1,186 @@
+@font-face {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Rubik Light"), url("../public/fonts/Rubik/static/Rubik-Light.woff2") format("woff2"),
+    url("../public/fonts/Rubik/static/Rubik-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Rubik Regular"), local("Rubik-Regular"),
+    url("../public/fonts/Rubik/static/Rubik-Regular.woff2") format("woff2"),
+    url("../public/fonts/Rubik/static/Rubik-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local("Rubik Black"), local("Rubik-Black"), url("../public/fonts/Rubik/static/Rubik-Black.woff2") format("woff2"),
+    url("../public/fonts/Rubik/static/Rubik-Black.woff") format("woff");
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+:root {
+  --default: #212121;
+  --light: #ffffff;
+  --yellow: #f5e7ad;
+  --lightBrown: #946037;
+  --darkBrown: #4d352d;
+  --fontLight: 300;
+  --fontRegular: 400;
+  --fontBlack: 900;
+  --lineHeight: 150%;
+}
+
+html {
+  font-size: 16px;
+}
+
+@media (min-width: 700px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Open Sans", "Roboto", "Segoe UI", Oxygen, Ubuntu, Cantarell,
+    "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+  font-weight: var(--fontLight, 300);
+  color: var(--default, #212121);
+  background-color: var(--yellow, #f5e7ad);
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-rendering: optimizeSpeed;
+}
+
+h2 {
+  font-size: 4rem;
+  font-weight: var(--fontBlack);
+  text-transform: uppercase;
+  color: var(--lightBrown);
+}
+
+h3 {
+  font-size: 3rem;
+  font-weight: var(--fontBlack);
+}
+
+h4,
+.as-h4 {
+  font-size: 1rem;
+  font-weight: var(--fontBlack);
+}
+
+p {
+  line-height: var(--lineHeight);
+  text-rendering: optimizeSpeed;
+}
+
+p:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .is-visible,
+  .is-visible:after,
+  .is-visible:before {
+    animation-play-state: running;
+  }
+}
+
+.js-focus-visible :focus:not(.focus-visible) {
+  outline: none;
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  white-space: nowrap;
+}
+
+.skip-link {
+  background-color: var(--lightBrown);
+  border-radius: 2.25rem;
+  bottom: 4rem;
+  display: flex;
+  font-size: 0.75rem;
+  font-weight: 700;
+  height: 2.25rem;
+  justify-content: center;
+  letter-spacing: 1px;
+  line-height: 2.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 1;
+  outline-color: var(--default, #ecedf0);
+  padding: 0 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 64ms ease-in;
+  width: 18rem;
+  z-index: 3;
+  position: absolute;
+  top: 0.5rem;
+  left: 4rem;
+  right: auto;
+}
+
+.skip-link:not(:focus) {
+  border: 0;
+  bottom: 0;
+  clip-path: inset(50%);
+  clip: rect(0 0 0 0);
+  height: 1px;
+  left: -624.9375rem;
+  margin: -1px;
+  opacity: 0;
+  overflow: hidden;
+  padding: 0;
+  white-space: nowrap;
+  width: 1px;
+}
+.skip-link,
+.skip-link:focus,
+.skip-link:hover {
+  color: var(--light);
+}

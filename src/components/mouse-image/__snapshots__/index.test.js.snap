@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`src/components/mouse-image render should render without errors 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <svg
+        class="mouse"
+        data-testid="mouse-image"
+        height="40"
+        viewBox="0 0 30 40"
+        width="30"
+      >
+        <g
+          data-name="mouse"
+          fill="#212121"
+          id="mouse"
+          transform="translate(-945 -1010)"
+        >
+          <path
+            d="M17.5 0h-5A12.5 12.5 0 000 12.5v15A12.5 12.5 0 0012.5 40h5A12.5 12.5 0 0030 27.5v-15A12.5 12.5 0 0017.5 0zm8.75 27.5a8.759 8.759 0 01-8.75 8.75h-5a8.759 8.759 0 01-8.75-8.75v-15a8.759 8.759 0 018.75-8.75h5a8.759 8.759 0 018.75 8.75z"
+            id="mouse-alt"
+            opacity="0.15"
+            transform="translate(945 1010)"
+          />
+          <path
+            d="M15 7.5a2.5 2.5 0 00-2.5 2.5v2.5a2.5 2.5 0 005 0V10A2.5 2.5 0 0015 7.5z"
+            data-name="wheel"
+            id="wheel"
+            opacity="0.15"
+            transform="translate(945 1010)"
+          >
+            <animatemotion
+              dur="2s"
+              path="M 0 8 V 0 Z"
+              repeatCount="indefinite"
+            />
+          </path>
+        </g>
+      </svg>
+    </div>
+  </body>,
+  "container": <div>
+    <svg
+      class="mouse"
+      data-testid="mouse-image"
+      height="40"
+      viewBox="0 0 30 40"
+      width="30"
+    >
+      <g
+        data-name="mouse"
+        fill="#212121"
+        id="mouse"
+        transform="translate(-945 -1010)"
+      >
+        <path
+          d="M17.5 0h-5A12.5 12.5 0 000 12.5v15A12.5 12.5 0 0012.5 40h5A12.5 12.5 0 0030 27.5v-15A12.5 12.5 0 0017.5 0zm8.75 27.5a8.759 8.759 0 01-8.75 8.75h-5a8.759 8.759 0 01-8.75-8.75v-15a8.759 8.759 0 018.75-8.75h5a8.759 8.759 0 018.75 8.75z"
+          id="mouse-alt"
+          opacity="0.15"
+          transform="translate(945 1010)"
+        />
+        <path
+          d="M15 7.5a2.5 2.5 0 00-2.5 2.5v2.5a2.5 2.5 0 005 0V10A2.5 2.5 0 0015 7.5z"
+          data-name="wheel"
+          id="wheel"
+          opacity="0.15"
+          transform="translate(945 1010)"
+        >
+          <animatemotion
+            dur="2s"
+            path="M 0 8 V 0 Z"
+            repeatCount="indefinite"
+          />
+        </path>
+      </g>
+    </svg>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
