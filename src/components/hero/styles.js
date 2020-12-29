@@ -56,6 +56,25 @@ export const Wrapper = styled.section`
   @media ${device.m} {
     .hero__container {
       display: flex;
+
+      @supports (display: grid) {
+        display: grid;
+        grid-template-columns: 24vw 1fr;
+        grid-gap: 50px;
+      }
+      align-items: center;
+    }
+  }
+
+  @media ${device.l} {
+    .hero__container {
+      display: flex;
+
+      @supports (display: grid) {
+        display: grid;
+        grid-template-columns: min(max(${rem("180px")}, 24vw, ${rem("270px")})) 1fr;
+        grid-gap: 50px;
+      }
       align-items: center;
     }
   }
@@ -69,7 +88,7 @@ export const Logo = styled.figure`
   height: auto;
 
   @media ${device.m} {
-    margin: -320px ${rem("50px")} 0 0;
+    transform: translate3d(0, -160px, 0);
     max-width: ${rem("270px")};
   }
 
@@ -129,7 +148,7 @@ export const Intro = styled.div`
       font-size: ${rem("40px")};
     }
 
-    @media ${device.s} {
+    @media ${device.m} {
       &__stroke {
         display: none;
       }
@@ -154,32 +173,20 @@ export const Intro = styled.div`
   @media ${device.s} {
     .hero__title {
       font-size: ${rem("64px")};
-      align-items: flex-start;
-    }
-
-    svg {
-      display: block;
-      margin: 0 auto ${rem("-15px")} auto;
-
-      text {
-        font-size: ${rem("64px")};
-        font-weight: var(--fontBlack);
-        text-transform: uppercase;
-        line-height: ${rem("64px")};
-        stroke: var(--default);
-        stroke-width: ${rem("2px")};
-        fill: transparent;
-      }
     }
   }
 
   @media ${device.m} {
+    .hero__title {
+      align-items: flex-start;
+    }
+
     .hero__title,
     .hero__description {
       text-align: left;
     }
 
-    svg {
+    .hero__title__vector {
       margin: 0 0 ${rem("-15px")} 0;
     }
   }
