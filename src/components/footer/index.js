@@ -48,7 +48,9 @@ const Footer = () => (
         <ul>
           <li>
             <Link href="https://drive.google.com/drive/folders/1J4i9QUIF_M7-OQ8qXOPmOJdGK3O7HUqR?usp=sharing" passHref>
-              <a target="_blank">Press Kit</a>
+              <a target="_blank" rel="noopener noreferrer">
+                Press Kit
+              </a>
             </Link>
           </li>
         </ul>
