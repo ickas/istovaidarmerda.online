@@ -12,6 +12,7 @@ export const defaultProps = {
   icon: null,
   target: "_self",
   external: false,
+  onClick: () => {},
 };
 
 /**
@@ -20,7 +21,7 @@ export const defaultProps = {
  * @param {IButtonLinkProps} props
  * @returns {JSX.Element}
  */
-const ButtonLink = ({ className, borderColor, bgColor, url, icon, value, label, target, external }) => (
+const ButtonLink = ({ className, borderColor, bgColor, url, icon, value, label, target, external, onClick }) => (
   <Link href={url} passHref>
     <Styles.Button
       className={className}
@@ -30,6 +31,7 @@ const ButtonLink = ({ className, borderColor, bgColor, url, icon, value, label, 
       data-testid="button-link"
       target={target}
       rel={external ? "noopener noreferrer" : undefined}
+      onClick={onClick}
     >
       {icon && <Icon icon={icon} />}
       {value}
@@ -49,6 +51,7 @@ ButtonLink.propTypes = {
   label: PropTypes.string.isRequired,
   target: PropTypes.string,
   external: PropTypes.bool,
+  onClick: PropTypes.func,
 };
 
 export default ButtonLink;

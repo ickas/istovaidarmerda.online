@@ -1,6 +1,6 @@
-import React from "react";
-import classNames from "classnames";
-import { useInView } from "react-intersection-observer";
+import React, { useContext, useCallback } from "react";
+import useSound from "use-sound";
+import KonamiContext from "../konami-code/context";
 import { useBreakpoints } from "../../../hooks/useBreakpoints";
 import * as Styles from "./styles";
 import ButtonLink from "../button-link";
@@ -10,23 +10,24 @@ export const WIDTH_BREAKPOINT = "(min-width: 700px)";
 export const MOUSE_BREAKPOINT = "(min-width: 538px) and (min-height: 812px)";
 
 const Hero = () => {
+  const [play] = useSound("/sounds/hero.mp3");
   const mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 720px)");
+  const { hasEasterEgg } = useContext(KonamiContext);
 
-  const { ref, inView } = useInView({
-    threshold: 0,
-    initialInView: true,
-    triggerOnce: true,
-  });
+  const src = "/images/ivdm-logo/ivdm-logo.png";
+  const srcSet = `${src} 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x`;
 
-  const classes = classNames("hero", {
-    "is-visible": inView,
-  });
+  const handleOnClick = useCallback(() => {
+    if (hasEasterEgg) {
+      play();
+    }
+  }, [hasEasterEgg]);
 
   const src = "/images/ivdm-logo/ivdm-logo.png";
   const srcSet = `${src} 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x`;
 
   return (
-    <Styles.Wrapper ref={ref} className={classes} data-testid="hero">
+    <Styles.Wrapper className="hero" data-testid="hero">
       <div className="hero__container">
         <Styles.Logo>
           <img src={src} srcSet={srcSet} width="302" height="333" alt="Logótipo do Isto Vai Dar Merda" loading="lazy" />
@@ -47,8 +48,8 @@ const Hero = () => {
             temas que estão no “tipping point” de dar merda mas que ainda podem ser salvos de tão triste fado.
           </p>
           <Styles.CallToAction className="hero__call-to-action">
-            <ButtonLink url="/#schedule" value="Agenda" label="Consulta a Agenda" />
-            <ButtonLink url="/#hein" value="Hein?!" label="Sabe mais sobre o evento" />
+            <ButtonLink url="/#schedule" value="Agenda" label="Consulta a Agenda" onClick={handleOnClick} />
+            <ButtonLink url="/#hein" value="Hein?!" label="Sabe mais sobre o evento" onClick={handleOnClick} />
           </Styles.CallToAction>
         </Styles.Intro>
       </div>

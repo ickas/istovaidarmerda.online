@@ -10,4 +10,5 @@
  * @property {string} label
  * @property {"_self" | "_blank"} [target]
  * @property {boolean} [external]
+ * @property {() => void} [onClick]
  */
