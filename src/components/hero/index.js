@@ -23,11 +23,14 @@ const Hero = () => {
     "is-visible": inView,
   });
 
+  const src = "/images/ivdm-logo/ivdm-logo.png";
+  const srcSet = `${src} 1x, /images/ivdm-logo/ivdm-logo@2x.png 2x, /images/ivdm-logo/ivdm-logo@3x.png 3x`;
+
   return (
     <Styles.Wrapper ref={ref} className={classes} data-testid="hero">
       <div className="hero__container">
         <Styles.Logo>
-          <img src="/images/ivdm-logo.svg" width="365" height="400" alt="Isto Vai Dar Merda logo" />
+          <img src={src} srcSet={srcSet} width="302" height="333" alt="Logótipo do Isto Vai Dar Merda" loading="lazy" />
         </Styles.Logo>
         <Styles.Intro>
           {widthBreakpoint ? (
