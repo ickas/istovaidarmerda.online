@@ -32,6 +32,8 @@ const Event = ({ signLanguage, date, area, title, moderator, speakers, index, ty
     "is-visible": inView,
   });
 
+  const tooltipId = `event-${index}-tooltip`;
+
   return (
     <Styles.Event
       ref={ref}
@@ -44,8 +46,17 @@ const Event = ({ signLanguage, date, area, title, moderator, speakers, index, ty
       }}
     >
       {signLanguage && (
-        <Styles.SignLanguage data-tooltip={"Língua Gestual"}>
+        <Styles.SignLanguage
+          className="sign-language"
+          data-tooltip="Língua Gestual"
+          data-testid="sign-language"
+          aria-describedby={tooltipId}
+          tabIndex={0}
+        >
           <Icon icon="sign-language" fill="#212121" />
+          <figcaption id={tooltipId} className="sr-only">
+            Esta sessão terá intérprete de Língua Gestual Portuguesa
+          </figcaption>
         </Styles.SignLanguage>
       )}
 
