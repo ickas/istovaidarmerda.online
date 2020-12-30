@@ -7,7 +7,7 @@ import icons from "../../../utils/icons";
  * @typedef {object} IIconProps
  *
  * @property {string} [fill]
- * @property {"twitter" | "youtube"} icon
+ * @property {"twitter" | "youtube" | "sign-language"} icon
  */
 
 /**
