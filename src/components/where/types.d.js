@@ -3,4 +3,5 @@
  *
  * @property {string} twitter
  * @property {string} youtube
+ * @property {() => {}} [onPlaySound]
  */

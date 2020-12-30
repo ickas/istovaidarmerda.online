@@ -27,6 +27,7 @@ export const Wrapper = styled.section`
   }
 
   .mouse {
+    display: none;
     position: absolute;
     bottom: 1rem;
     margin-left: calc(50% - ${rem("30px")} * 2);
@@ -38,6 +39,10 @@ export const Wrapper = styled.section`
       animation-timing-function: ${timingFunctions("easeOutBack")};
       animation-fill-mode: forwards;
       animation-delay: 250ms;
+    }
+
+    @media ${device.mouse} {
+      display: flex;
     }
   }
 

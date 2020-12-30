@@ -15,6 +15,7 @@ export function useBreakpoints(query) {
     if (media.matches !== matches) {
       setMatches(media.matches);
     }
+    /* istanbul ignore next  */
     const listener = () => {
       setMatches(media.matches);
     };

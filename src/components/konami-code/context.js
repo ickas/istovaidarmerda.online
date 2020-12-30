@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import { createContext } from "react";
 
 export const DEFAULT_EASTER_EGG = {
