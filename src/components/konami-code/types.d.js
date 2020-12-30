@@ -1,5 +1,5 @@
 /**
  * @typedef {object} IKonamiProviderProps
  *
- * @property {React.ReactChildren} children
+ * @property {React.ReactNode} children
  */

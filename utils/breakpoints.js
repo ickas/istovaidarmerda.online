@@ -13,4 +13,5 @@ export const device = {
   l: `(min-width: ${size.l})`,
   xl: `(min-width: ${size.xl})`,
   touch: `(hover: none) and (pointer: coarse)`,
+  mouse: "(min-width: 538px) and (min-height: 720px)",
 };

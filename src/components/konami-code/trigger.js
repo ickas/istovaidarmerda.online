@@ -23,6 +23,7 @@ const KonamiTrigger = () => {
   const { hasEasterEgg, setEasterEgg } = useContext(KonamiContext);
 
   useEffect(() => {
+    /* istanbul ignore else  */
     if (!keysPressed && !hasEasterEgg) {
       console.log(
         "%cAndamos a cuscar o site, não é? Escreve o Konami Code no ecrã! 😉",

@@ -1,7 +1,7 @@
 import React, { useContext, useCallback } from "react";
+import { func } from "prop-types";
 import useSound from "use-sound";
 import KonamiContext from "../konami-code/context";
-import { useBreakpoints } from "../../../hooks/useBreakpoints";
 import * as Styles from "./styles";
 import ButtonLink from "../button-link";
 import MouseImage from "../mouse-image";
@@ -9,14 +9,22 @@ import MouseImage from "../mouse-image";
 export const WIDTH_BREAKPOINT = "(min-width: 700px)";
 export const MOUSE_BREAKPOINT = "(min-width: 538px) and (min-height: 812px)";
 
-const Hero = () => {
+/**
+ *
+ * @param {{ onPlaySound?: () => void }} props
+ * @returns {JSX.Element}
+ */
+const Hero = ({ onPlaySound }) => {
   const [play] = useSound("/sounds/hero.mp3");
-  const mouseBreakpoint = useBreakpoints("(min-width: 538px) and (min-height: 720px)");
   const { hasEasterEgg } = useContext(KonamiContext);
 
   const handleOnClick = useCallback(() => {
     if (hasEasterEgg) {
       play();
+
+      if (onPlaySound) {
+        onPlaySound();
+      }
     }
   }, [hasEasterEgg]);
 
@@ -51,9 +59,17 @@ const Hero = () => {
         </Styles.Intro>
       </div>
 
-      {mouseBreakpoint && <MouseImage className="mouse" />}
+      <MouseImage className="mouse" />
     </Styles.Wrapper>
   );
+};
+
+Hero.defaultProps = {
+  onPlaySound: undefined,
+};
+
+Hero.propTypes = {
+  onPlaySound: func,
 };
 
 export default Hero;

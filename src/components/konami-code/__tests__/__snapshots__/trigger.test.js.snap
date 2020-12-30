@@ -1,31 +1,23 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`src/components/button-link render should render without errors 1`] = `
+exports[`src/components/konami-code/__tests__/trigger should log a message on start 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <a
-        aria-label="Follow on Twitter"
-        class="styles__Button-e7r930-0 kwPxEs"
-        data-testid="button-link"
-        href="https://twitter.com"
-        target="_self"
-      >
-        Twitter
-      </a>
+      <div
+        class="sr-only"
+        data-testid="konami-code-trigger"
+        data-unlocked="false"
+      />
     </div>
   </body>,
   "container": <div>
-    <a
-      aria-label="Follow on Twitter"
-      class="styles__Button-e7r930-0 kwPxEs"
-      data-testid="button-link"
-      href="https://twitter.com"
-      target="_self"
-    >
-      Twitter
-    </a>
+    <div
+      class="sr-only"
+      data-testid="konami-code-trigger"
+      data-unlocked="false"
+    />
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

@@ -1,8 +1,10 @@
-import React from "react";
+import React, { useContext, useEffect } from "react";
 import classNames from "classnames";
+import useSound from "use-sound";
 import { useInView } from "react-intersection-observer";
 import PropTypes from "prop-types";
 import ButtonLink from "../button-link";
+import KonamiContext from "../konami-code/context";
 import * as Styles from "./styles";
 import "./types.d";
 
@@ -10,7 +12,10 @@ import "./types.d";
  * @param {IWhereProps} props
  * @returns {JSX.Element}
  */
-const Where = ({ twitter, youtube }) => {
+const Where = ({ twitter, youtube, onPlaySound }) => {
+  const [play] = useSound("/sounds/is-visible.mp3");
+  const { hasEasterEgg } = useContext(KonamiContext);
+
   const { ref, inView } = useInView({
     threshold: 0.25,
     triggerOnce: true,
@@ -20,8 +25,19 @@ const Where = ({ twitter, youtube }) => {
     "is-visible": inView,
   });
 
+  useEffect(() => {
+    /* istanbul ignore next  */
+    if (inView && hasEasterEgg) {
+      play();
+
+      if (onPlaySound) {
+        onPlaySound();
+      }
+    }
+  }, [inView, hasEasterEgg]);
+
   return (
-    <Styles.Wrapper id="where" ref={ref} className={classes}>
+    <Styles.Wrapper id="where" ref={ref} className={classes} data-testid="where">
       <div className="card">
         <h2 className="title">Onde?</h2>
         <p>
@@ -58,9 +74,14 @@ const Where = ({ twitter, youtube }) => {
   );
 };
 
+Where.defaultProps = {
+  onPlaySound: undefined,
+};
+
 Where.propTypes = {
   twitter: PropTypes.string.isRequired,
   youtube: PropTypes.string.isRequired,
+  onPlaySound: PropTypes.func,
 };
 
 export default Where;

@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-import { useMemo, useEffect } from "react";
+import { useMemo, useEffect, useState } from "react";
 
 /**
  * Takes in a sequence of hotKeys and creates a closure by returning
@@ -9,7 +9,7 @@ import { useMemo, useEffect } from "react";
  *
  * @param {string[]} hotkeys
  */
-const createKeyChecker = (hotkeys = []) => {
+export const createKeyChecker = (hotkeys = []) => {
   let index = 0;
   const TAIL = hotkeys.length - 1;
 
@@ -20,10 +20,6 @@ const createKeyChecker = (hotkeys = []) => {
   const cb = (key) => {
     if (key !== hotkeys[index]) {
       index = 0;
-      console.log(
-        "%cAh raios! Voltámos ao início!😉",
-        "color: white; background: #4d352d; font-family:monospace; font-size: 20px",
-      );
       return false;
     }
 
@@ -47,6 +43,7 @@ const createKeyChecker = (hotkeys = []) => {
  * @param {() => void} onMatch
  */
 function useHotKey(hotKeys, onMatch) {
+  const [hasMatch, setHasMatch] = useState(false);
   const keyCrawler = useMemo(() => createKeyChecker([].concat(hotKeys)), [hotKeys]);
 
   /**
@@ -54,6 +51,7 @@ function useHotKey(hotKeys, onMatch) {
    */
   const listen = ({ key }) => {
     if (keyCrawler(key)) {
+      setHasMatch(true);
       onMatch();
     }
   };
@@ -62,6 +60,8 @@ function useHotKey(hotKeys, onMatch) {
     window.addEventListener("keydown", listen);
     return () => window.removeEventListener("keydown", listen);
   });
+
+  return hasMatch;
 }
 
 export default useHotKey;

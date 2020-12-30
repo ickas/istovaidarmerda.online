@@ -109,4 +109,22 @@ describe("Home Page", () => {
         });
     });
   });
+
+  describe("Easter Eggs", () => {
+    it("should unlock the easter egg by typing the konami code", () => {
+      cy.findByTestId("konami-code-trigger").should("have.attr", "data-unlocked", "false");
+      cy.get("body")
+        .focus()
+        .type("{upArrow}{upArrow}{downArrow}{downArrow}{leftArrow}{rightArrow}{leftArrow}{rightArrow}ba");
+      cy.findByTestId("konami-code-trigger").should("have.attr", "data-unlocked", "true");
+    });
+
+    it("should NOT unlock the easter egg if there's no correct konami code", () => {
+      cy.findByTestId("konami-code-trigger").should("have.attr", "data-unlocked", "false");
+      cy.get("body")
+        .focus()
+        .type("{upArrow}{upArrow}{downArrow}{downArrow}{leftArrow}{rightArrow}{leftArrow}{rightArrow}cb");
+      cy.findByTestId("konami-code-trigger").should("have.attr", "data-unlocked", "false");
+    });
+  });
 });
