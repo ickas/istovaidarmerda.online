@@ -128,7 +128,7 @@ Object {
   "baseElement": <body>
     <div>
       <ul
-        class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+        class="styles__EventsWrapper-wac1w6-1 hQOvCs"
       >
         <li
           class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -2002,7 +2002,7 @@ Object {
   </body>,
   "container": <div>
     <ul
-      class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+      class="styles__EventsWrapper-wac1w6-1 hQOvCs"
     >
       <li
         class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -4143,7 +4143,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-wac1w6-0 gDeDDV"
+        class="styles__Wrapper-wac1w6-0 gYzuaf"
         id="schedule"
       >
         <div
@@ -4154,6 +4154,26 @@ Object {
           >
             Agenda
           </h2>
+          <p
+            class="schedule__subtitle as-h4"
+            property="schema:openingHoursSpecification"
+            title="Cada sessão inicia às 21:30 e termina às 22:30"
+            typeof="schema:OpeningHoursSpecification"
+          >
+            <time
+              datetime="21:30"
+              property="schema:opens"
+            >
+              21:30
+            </time>
+             - 
+            <time
+              datetime="22:30"
+              property="schema:closes"
+            >
+              22:30
+            </time>
+          </p>
         </div>
         <div
           class="schedule__rubrics"
@@ -4164,7 +4184,7 @@ Object {
             Rubricas
           </h2>
           <ul
-            class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+            class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
               class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -4464,7 +4484,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-wac1w6-0 gDeDDV"
+      class="styles__Wrapper-wac1w6-0 gYzuaf"
       id="schedule"
     >
       <div
@@ -4475,6 +4495,26 @@ Object {
         >
           Agenda
         </h2>
+        <p
+          class="schedule__subtitle as-h4"
+          property="schema:openingHoursSpecification"
+          title="Cada sessão inicia às 21:30 e termina às 22:30"
+          typeof="schema:OpeningHoursSpecification"
+        >
+          <time
+            datetime="21:30"
+            property="schema:opens"
+          >
+            21:30
+          </time>
+           - 
+          <time
+            datetime="22:30"
+            property="schema:closes"
+          >
+            22:30
+          </time>
+        </p>
       </div>
       <div
         class="schedule__rubrics"
@@ -4485,7 +4525,7 @@ Object {
           Rubricas
         </h2>
         <ul
-          class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+          class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
             class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -4842,7 +4882,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-wac1w6-0 gDeDDV"
+        class="styles__Wrapper-wac1w6-0 gYzuaf"
         id="schedule"
       >
         <div
@@ -4853,8 +4893,28 @@ Object {
           >
             Agenda
           </h2>
+          <p
+            class="schedule__subtitle as-h4"
+            property="schema:openingHoursSpecification"
+            title="Cada sessão inicia às 21:30 e termina às 22:30"
+            typeof="schema:OpeningHoursSpecification"
+          >
+            <time
+              datetime="21:30"
+              property="schema:opens"
+            >
+              21:30
+            </time>
+             - 
+            <time
+              datetime="22:30"
+              property="schema:closes"
+            >
+              22:30
+            </time>
+          </p>
           <ul
-            class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+            class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
               class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -6739,7 +6799,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-wac1w6-0 gDeDDV"
+      class="styles__Wrapper-wac1w6-0 gYzuaf"
       id="schedule"
     >
       <div
@@ -6750,8 +6810,28 @@ Object {
         >
           Agenda
         </h2>
+        <p
+          class="schedule__subtitle as-h4"
+          property="schema:openingHoursSpecification"
+          title="Cada sessão inicia às 21:30 e termina às 22:30"
+          typeof="schema:OpeningHoursSpecification"
+        >
+          <time
+            datetime="21:30"
+            property="schema:opens"
+          >
+            21:30
+          </time>
+           - 
+          <time
+            datetime="22:30"
+            property="schema:closes"
+          >
+            22:30
+          </time>
+        </p>
         <ul
-          class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+          class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
             class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -8693,7 +8773,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-wac1w6-0 gDeDDV"
+        class="styles__Wrapper-wac1w6-0 gYzuaf"
         id="schedule"
       >
         <div
@@ -8704,8 +8784,28 @@ Object {
           >
             Agenda
           </h2>
+          <p
+            class="schedule__subtitle as-h4"
+            property="schema:openingHoursSpecification"
+            title="Cada sessão inicia às 21:30 e termina às 22:30"
+            typeof="schema:OpeningHoursSpecification"
+          >
+            <time
+              datetime="21:30"
+              property="schema:opens"
+            >
+              21:30
+            </time>
+             - 
+            <time
+              datetime="22:30"
+              property="schema:closes"
+            >
+              22:30
+            </time>
+          </p>
           <ul
-            class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+            class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
               class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -10585,7 +10685,7 @@ Object {
             Rubricas
           </h2>
           <ul
-            class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+            class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
               class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -10885,7 +10985,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-wac1w6-0 gDeDDV"
+      class="styles__Wrapper-wac1w6-0 gYzuaf"
       id="schedule"
     >
       <div
@@ -10896,8 +10996,28 @@ Object {
         >
           Agenda
         </h2>
+        <p
+          class="schedule__subtitle as-h4"
+          property="schema:openingHoursSpecification"
+          title="Cada sessão inicia às 21:30 e termina às 22:30"
+          typeof="schema:OpeningHoursSpecification"
+        >
+          <time
+            datetime="21:30"
+            property="schema:opens"
+          >
+            21:30
+          </time>
+           - 
+          <time
+            datetime="22:30"
+            property="schema:closes"
+          >
+            22:30
+          </time>
+        </p>
         <ul
-          class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+          class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
             class="styles__Event-wac1w6-2 tDsWT schedule"
@@ -12777,7 +12897,7 @@ Object {
           Rubricas
         </h2>
         <ul
-          class="styles__EventsWrapper-wac1w6-1 gtNqdc"
+          class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
             class="styles__Event-wac1w6-2 tDsWT schedule"

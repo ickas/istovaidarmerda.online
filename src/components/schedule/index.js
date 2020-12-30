@@ -34,7 +34,20 @@ const Schedule = ({ agenda, rubrics }) => {
     <Styles.Wrapper id="schedule">
       <div className="schedule__agenda">
         <h2 className="schedule__title">Agenda</h2>
-        <h4 className="schedule__subtitle">21:30 — 22:30</h4>
+        <p
+          title="Cada sessão inicia às 21:30 e termina às 22:30"
+          className="schedule__subtitle as-h4"
+          property="schema:openingHoursSpecification"
+          typeof="schema:OpeningHoursSpecification"
+        >
+          <time dateTime="21:30" property="schema:opens">
+            21:30
+          </time>{" "}
+          -{" "}
+          <time dateTime="22:30" property="schema:closes">
+            22:30
+          </time>
+        </p>
         {Array.isArray(agenda) ? renderAgenda() : null}
       </div>
 

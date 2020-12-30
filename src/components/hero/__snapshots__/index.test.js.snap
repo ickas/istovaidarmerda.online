@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-1b4b6pk-0 bJntXe hero"
+        class="styles__Wrapper-sc-1b4b6pk-0 bOkxzl hero"
         data-testid="hero"
       >
         <div
@@ -71,7 +71,7 @@ Object {
             >
               <a
                 aria-label="Consulta a Agenda"
-                class="styles__Button-e7r930-0 kVEMBO"
+                class="styles__Button-e7r930-0 kwPxEs"
                 data-testid="button-link"
                 href="/#schedule"
                 target="_self"
@@ -80,7 +80,7 @@ Object {
               </a>
               <a
                 aria-label="Sabe mais sobre o evento"
-                class="styles__Button-e7r930-0 kVEMBO"
+                class="styles__Button-e7r930-0 kwPxEs"
                 data-testid="button-link"
                 href="/#hein"
                 target="_self"
@@ -129,7 +129,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-1b4b6pk-0 bJntXe hero"
+      class="styles__Wrapper-sc-1b4b6pk-0 bOkxzl hero"
       data-testid="hero"
     >
       <div
@@ -194,7 +194,7 @@ Object {
           >
             <a
               aria-label="Consulta a Agenda"
-              class="styles__Button-e7r930-0 kVEMBO"
+              class="styles__Button-e7r930-0 kwPxEs"
               data-testid="button-link"
               href="/#schedule"
               target="_self"
@@ -203,7 +203,7 @@ Object {
             </a>
             <a
               aria-label="Sabe mais sobre o evento"
-              class="styles__Button-e7r930-0 kVEMBO"
+              class="styles__Button-e7r930-0 kwPxEs"
               data-testid="button-link"
               href="/#hein"
               target="_self"
@@ -309,7 +309,7 @@ Object {
   "baseElement": <body>
     <div>
       <section
-        class="styles__Wrapper-sc-1b4b6pk-0 bJntXe hero"
+        class="styles__Wrapper-sc-1b4b6pk-0 bOkxzl hero"
         data-testid="hero"
       >
         <div
@@ -374,7 +374,7 @@ Object {
             >
               <a
                 aria-label="Consulta a Agenda"
-                class="styles__Button-e7r930-0 kVEMBO"
+                class="styles__Button-e7r930-0 kwPxEs"
                 data-testid="button-link"
                 href="/#schedule"
                 target="_self"
@@ -383,7 +383,7 @@ Object {
               </a>
               <a
                 aria-label="Sabe mais sobre o evento"
-                class="styles__Button-e7r930-0 kVEMBO"
+                class="styles__Button-e7r930-0 kwPxEs"
                 data-testid="button-link"
                 href="/#hein"
                 target="_self"
@@ -432,7 +432,7 @@ Object {
   </body>,
   "container": <div>
     <section
-      class="styles__Wrapper-sc-1b4b6pk-0 bJntXe hero"
+      class="styles__Wrapper-sc-1b4b6pk-0 bOkxzl hero"
       data-testid="hero"
     >
       <div
@@ -497,7 +497,7 @@ Object {
           >
             <a
               aria-label="Consulta a Agenda"
-              class="styles__Button-e7r930-0 kVEMBO"
+              class="styles__Button-e7r930-0 kwPxEs"
               data-testid="button-link"
               href="/#schedule"
               target="_self"
@@ -506,7 +506,7 @@ Object {
             </a>
             <a
               aria-label="Sabe mais sobre o evento"
-              class="styles__Button-e7r930-0 kVEMBO"
+              class="styles__Button-e7r930-0 kwPxEs"
               data-testid="button-link"
               href="/#hein"
               target="_self"

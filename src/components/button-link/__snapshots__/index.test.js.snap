@@ -7,7 +7,7 @@ Object {
     <div>
       <a
         aria-label="Follow on Twitter"
-        class="styles__Button-e7r930-0 kVEMBO"
+        class="styles__Button-e7r930-0 kwPxEs"
         data-testid="button-link"
         href="https://twitter.com"
         target="_self"
@@ -19,7 +19,7 @@ Object {
   "container": <div>
     <a
       aria-label="Follow on Twitter"
-      class="styles__Button-e7r930-0 kVEMBO"
+      class="styles__Button-e7r930-0 kwPxEs"
       data-testid="button-link"
       href="https://twitter.com"
       target="_self"
