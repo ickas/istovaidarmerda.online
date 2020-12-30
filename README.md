@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Intro
+
+**[Isto Vai Dar Merda](https://istovaidarmerda.online)** can be loosely translated to _Shit is Going to Hit the Fan_.
+It’s an online event that will happen at the beginning of 2021, from January 11th to February 5th, with the supreme goal of avoiding that shit does hit the fan. For its first edition, the event will cover 8 topics relating to the Coronavirus Pandemic – from public health issues to the economy and politics. With more than 3 dozen guest-speakers, the event will have 2 live online sessions per week for 4 weeks. In each of the 8 sessions, renowned experts from each field will express their thoughts and opinions, hopefully helping to avoid worst-case scenarios for the situation the whole world is living.
+This event is a ‘_friendly reminder_’ type of event that speaks to hope and information in opposition to clear-cut criticism of what has been done to fight the pandemic.
+Everyone is welcome to watch the sessions and follow the event on [Twitter](https://twitter.com/IstoVai) and [YouTube](https://www.youtube.com/channel/UC-M0MHRa0CNewKhjCz4c2Qg).
 
 ## Getting Started
 
@@ -22,9 +27,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

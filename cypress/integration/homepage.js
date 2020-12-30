@@ -105,7 +105,7 @@ describe("Home Page", () => {
         .scrollIntoView()
         .parent("section")
         .within(() => {
-          cy.get(".partner").its("length").should("eq", 4);
+          cy.get(".partner").its("length").should("eq", 5);
         });
     });
   });

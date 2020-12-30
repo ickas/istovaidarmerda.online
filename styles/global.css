@@ -109,6 +109,64 @@ p:not(:last-child) {
   margin-bottom: 10px;
 }
 
+strong {
+  font-weight: var(--fontBlack);
+}
+
+[data-tooltip] {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
+
+[data-tooltip]:before,
+[data-tooltip]:after {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+[data-tooltip]:before {
+  position: absolute;
+  bottom: 110%;
+  left: 50%;
+  margin-bottom: 5px;
+  margin-left: -55px;
+  padding: 6px;
+  width: 110px;
+  border-radius: 4px;
+  background-color: var(--default);
+  color: var(--light);
+  content: attr(data-tooltip);
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: var(--fontRegular);
+  transition-duration: 0.3s;
+}
+
+[data-tooltip]:after {
+  position: absolute;
+  bottom: 110%;
+  left: 50%;
+  margin-left: -5px;
+  width: 0;
+  border-top: 5px solid var(--default);
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: " ";
+  font-size: 0;
+  line-height: 0;
+  transition-duration: 0.3s;
+}
+
+[data-tooltip]:hover:before,
+[data-tooltip]:hover:after,
+[data-tooltip]:focus:before,
+[data-tooltip]:focus:after {
+  visibility: visible;
+  opacity: 1;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   html {
     scroll-behavior: smooth;

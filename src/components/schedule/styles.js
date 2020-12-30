@@ -24,6 +24,18 @@ const slideInUpEvent = keyframes`
   }
 `;
 
+const scaleUpSign = keyframes`
+  from {
+    opacity: 0;
+    transform: scale(0);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+`;
+
 export const Wrapper = styled.section`
   --title-margin: 50px;
   padding: 50px 30px 30px 30px;
@@ -176,7 +188,8 @@ export const Event = styled.li`
 
       .event__heading,
       .event__topic,
-      .event__section {
+      .event__section,
+      .sign-language {
         animation-play-state: running;
         animation-delay: calc(calc(var(--ivdm-event-delay) * var(--ivdm-event-stagger)) + var(--ivdm-event-duration));
       }
@@ -194,6 +207,32 @@ export const Event = styled.li`
       animation-play-state: paused;
       animation-duration: var(--ivdm-event-duration);
     }
+  }
+`;
+
+export const SignLanguage = styled.figure`
+  position: absolute;
+  top: ${rem("25px")};
+  right: 5px;
+  width: ${rem("30px")};
+  height: ${rem("30px")};
+  margin: 0;
+  padding: 0;
+
+  svg {
+    width: 100%;
+    height: auto;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    opacity: 0;
+    transform: scale(0);
+    animation-name: ${scaleUpSign};
+    animation-duration: 0.01ms;
+    animation-timing-function: ${timingFunctions("easeOutBack")};
+    animation-fill-mode: forwards;
+    animation-play-state: paused;
+    animation-duration: var(--ivdm-event-duration);
   }
 `;
 

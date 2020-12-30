@@ -27,6 +27,7 @@
 
 /**
  * @typedef {object} ISchedule
+ * @property {boolean} [signLanguage]
  * @property {string} [date]
  * @property {string} [area]
  * @property {string} title

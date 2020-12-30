@@ -20,6 +20,7 @@ const Events = ({ events, type }) => {
       return (
         <Event
           key={key}
+          signLanguage={event.signLanguage}
           date={event.date}
           title={event.title}
           area={event.area}

@@ -131,7 +131,7 @@ Object {
         class="styles__EventsWrapper-wac1w6-1 hQOvCs"
       >
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 0;"
         >
@@ -168,7 +168,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -220,7 +220,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -259,7 +259,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -298,7 +298,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -340,7 +340,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 1;"
         >
@@ -377,7 +377,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -429,7 +429,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -468,7 +468,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -507,7 +507,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -546,7 +546,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -588,7 +588,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 2;"
         >
@@ -625,7 +625,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -677,7 +677,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -716,7 +716,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -755,7 +755,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -794,7 +794,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -836,7 +836,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 3;"
         >
@@ -873,7 +873,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -925,7 +925,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -964,7 +964,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1003,7 +1003,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1042,7 +1042,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1084,7 +1084,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 4;"
         >
@@ -1121,7 +1121,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1173,7 +1173,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1212,7 +1212,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1251,7 +1251,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1293,7 +1293,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 5;"
         >
@@ -1330,7 +1330,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1382,7 +1382,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1421,7 +1421,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1460,7 +1460,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1502,7 +1502,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 6;"
         >
@@ -1539,7 +1539,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1591,7 +1591,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1630,7 +1630,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1669,7 +1669,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1708,7 +1708,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1750,7 +1750,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 tDsWT schedule"
+          class="styles__Event-wac1w6-2 hVxGKZ schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 7;"
         >
@@ -1787,7 +1787,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1839,7 +1839,7 @@ Object {
               class="event__item"
             >
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1878,7 +1878,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1917,7 +1917,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -1956,7 +1956,7 @@ Object {
                 </a>
               </div>
               <div
-                class="styles__Persona-wac1w6-3 bEkFAw event"
+                class="styles__Persona-wac1w6-4 jzOIEX event"
               >
                 <a
                   class="persona"
@@ -2005,7 +2005,7 @@ Object {
       class="styles__EventsWrapper-wac1w6-1 hQOvCs"
     >
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 0;"
       >
@@ -2042,7 +2042,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2094,7 +2094,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2133,7 +2133,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2172,7 +2172,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2214,7 +2214,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 1;"
       >
@@ -2251,7 +2251,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2303,7 +2303,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2342,7 +2342,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2381,7 +2381,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2420,7 +2420,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2462,7 +2462,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 2;"
       >
@@ -2499,7 +2499,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2551,7 +2551,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2590,7 +2590,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2629,7 +2629,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2668,7 +2668,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2710,7 +2710,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 3;"
       >
@@ -2747,7 +2747,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2799,7 +2799,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2838,7 +2838,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2877,7 +2877,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2916,7 +2916,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -2958,7 +2958,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 4;"
       >
@@ -2995,7 +2995,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3047,7 +3047,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3086,7 +3086,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3125,7 +3125,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3167,7 +3167,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 5;"
       >
@@ -3204,7 +3204,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3256,7 +3256,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3295,7 +3295,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3334,7 +3334,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3376,7 +3376,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 6;"
       >
@@ -3413,7 +3413,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3465,7 +3465,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3504,7 +3504,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3543,7 +3543,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3582,7 +3582,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3624,7 +3624,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 tDsWT schedule"
+        class="styles__Event-wac1w6-2 hVxGKZ schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 7;"
       >
@@ -3661,7 +3661,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3713,7 +3713,7 @@ Object {
             class="event__item"
           >
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3752,7 +3752,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3791,7 +3791,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3830,7 +3830,7 @@ Object {
               </a>
             </div>
             <div
-              class="styles__Persona-wac1w6-3 bEkFAw event"
+              class="styles__Persona-wac1w6-4 jzOIEX event"
             >
               <a
                 class="persona"
@@ -3997,7 +3997,7 @@ Object {
         class="event__item"
       >
         <div
-          class="styles__Persona-wac1w6-3 bEkFAw event"
+          class="styles__Persona-wac1w6-4 jzOIEX event"
         >
           <a
             class="persona"
@@ -4043,7 +4043,7 @@ Object {
       class="event__item"
     >
       <div
-        class="styles__Persona-wac1w6-3 bEkFAw event"
+        class="styles__Persona-wac1w6-4 jzOIEX event"
       >
         <a
           class="persona"
@@ -4166,7 +4166,9 @@ Object {
             >
               21:30
             </time>
-             - 
+             
+            -
+             
             <time
               datetime="22:30"
               property="schema:closes"
@@ -4187,7 +4189,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 0;"
             >
@@ -4208,7 +4210,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -4250,7 +4252,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 1;"
             >
@@ -4271,7 +4273,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -4310,7 +4312,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -4352,7 +4354,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 2;"
             >
@@ -4373,7 +4375,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -4415,7 +4417,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 3;"
             >
@@ -4436,7 +4438,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -4507,7 +4509,9 @@ Object {
           >
             21:30
           </time>
-           - 
+           
+          -
+           
           <time
             datetime="22:30"
             property="schema:closes"
@@ -4528,7 +4532,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 0;"
           >
@@ -4549,7 +4553,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -4591,7 +4595,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 1;"
           >
@@ -4612,7 +4616,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -4651,7 +4655,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -4693,7 +4697,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 2;"
           >
@@ -4714,7 +4718,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -4756,7 +4760,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 3;"
           >
@@ -4777,7 +4781,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -4905,7 +4909,9 @@ Object {
             >
               21:30
             </time>
-             - 
+             
+            -
+             
             <time
               datetime="22:30"
               property="schema:closes"
@@ -4917,10 +4923,33 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 0;"
             >
+              <figure
+                aria-describedby="event-0-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-0-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -4954,7 +4983,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5006,7 +5035,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5045,7 +5074,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5084,7 +5113,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5126,10 +5155,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 1;"
             >
+              <figure
+                aria-describedby="event-1-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-1-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -5163,7 +5215,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5215,7 +5267,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5254,7 +5306,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5293,7 +5345,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5332,7 +5384,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5374,10 +5426,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 2;"
             >
+              <figure
+                aria-describedby="event-2-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-2-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -5411,7 +5486,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5463,7 +5538,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5502,7 +5577,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5541,7 +5616,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5580,7 +5655,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5622,10 +5697,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 3;"
             >
+              <figure
+                aria-describedby="event-3-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-3-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -5659,7 +5757,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5711,7 +5809,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5750,7 +5848,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5789,7 +5887,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5828,7 +5926,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5870,10 +5968,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 4;"
             >
+              <figure
+                aria-describedby="event-4-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-4-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -5907,7 +6028,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5959,7 +6080,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -5998,7 +6119,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6037,7 +6158,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6079,10 +6200,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 5;"
             >
+              <figure
+                aria-describedby="event-5-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-5-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -6116,7 +6260,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6168,7 +6312,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6207,7 +6351,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6246,7 +6390,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6288,10 +6432,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 6;"
             >
+              <figure
+                aria-describedby="event-6-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-6-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -6325,7 +6492,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6377,7 +6544,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6416,7 +6583,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6455,7 +6622,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6494,7 +6661,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6536,10 +6703,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 7;"
             >
+              <figure
+                aria-describedby="event-7-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-7-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -6573,7 +6763,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6625,7 +6815,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6664,7 +6854,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6703,7 +6893,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6742,7 +6932,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -6822,7 +7012,9 @@ Object {
           >
             21:30
           </time>
-           - 
+           
+          -
+           
           <time
             datetime="22:30"
             property="schema:closes"
@@ -6834,10 +7026,33 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 0;"
           >
+            <figure
+              aria-describedby="event-0-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-0-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -6871,7 +7086,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -6923,7 +7138,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -6962,7 +7177,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7001,7 +7216,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7043,10 +7258,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 1;"
           >
+            <figure
+              aria-describedby="event-1-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-1-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -7080,7 +7318,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7132,7 +7370,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7171,7 +7409,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7210,7 +7448,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7249,7 +7487,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7291,10 +7529,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 2;"
           >
+            <figure
+              aria-describedby="event-2-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-2-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -7328,7 +7589,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7380,7 +7641,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7419,7 +7680,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7458,7 +7719,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7497,7 +7758,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7539,10 +7800,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 3;"
           >
+            <figure
+              aria-describedby="event-3-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-3-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -7576,7 +7860,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7628,7 +7912,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7667,7 +7951,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7706,7 +7990,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7745,7 +8029,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7787,10 +8071,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 4;"
           >
+            <figure
+              aria-describedby="event-4-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-4-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -7824,7 +8131,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7876,7 +8183,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7915,7 +8222,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7954,7 +8261,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -7996,10 +8303,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 5;"
           >
+            <figure
+              aria-describedby="event-5-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-5-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -8033,7 +8363,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8085,7 +8415,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8124,7 +8454,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8163,7 +8493,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8205,10 +8535,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 6;"
           >
+            <figure
+              aria-describedby="event-6-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-6-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -8242,7 +8595,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8294,7 +8647,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8333,7 +8686,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8372,7 +8725,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8411,7 +8764,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8453,10 +8806,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 7;"
           >
+            <figure
+              aria-describedby="event-7-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-7-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -8490,7 +8866,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8542,7 +8918,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8581,7 +8957,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8620,7 +8996,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8659,7 +9035,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -8796,7 +9172,9 @@ Object {
             >
               21:30
             </time>
-             - 
+             
+            -
+             
             <time
               datetime="22:30"
               property="schema:closes"
@@ -8808,10 +9186,33 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 0;"
             >
+              <figure
+                aria-describedby="event-0-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-0-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -8845,7 +9246,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -8897,7 +9298,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -8936,7 +9337,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -8975,7 +9376,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9017,10 +9418,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 1;"
             >
+              <figure
+                aria-describedby="event-1-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-1-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -9054,7 +9478,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9106,7 +9530,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9145,7 +9569,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9184,7 +9608,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9223,7 +9647,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9265,10 +9689,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 2;"
             >
+              <figure
+                aria-describedby="event-2-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-2-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -9302,7 +9749,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9354,7 +9801,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9393,7 +9840,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9432,7 +9879,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9471,7 +9918,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9513,10 +9960,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 3;"
             >
+              <figure
+                aria-describedby="event-3-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-3-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -9550,7 +10020,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9602,7 +10072,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9641,7 +10111,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9680,7 +10150,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9719,7 +10189,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9761,10 +10231,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 4;"
             >
+              <figure
+                aria-describedby="event-4-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-4-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -9798,7 +10291,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9850,7 +10343,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9889,7 +10382,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9928,7 +10421,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -9970,10 +10463,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 5;"
             >
+              <figure
+                aria-describedby="event-5-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-5-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -10007,7 +10523,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10059,7 +10575,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10098,7 +10614,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10137,7 +10653,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10179,10 +10695,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 6;"
             >
+              <figure
+                aria-describedby="event-6-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-6-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -10216,7 +10755,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10268,7 +10807,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10307,7 +10846,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10346,7 +10885,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10385,7 +10924,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10427,10 +10966,33 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 7;"
             >
+              <figure
+                aria-describedby="event-7-tooltip"
+                class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+                data-testid="sign-language"
+                data-tooltip="Língua Gestual"
+                tabindex="0"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                    fill="#212121"
+                  />
+                </svg>
+                <figcaption
+                  class="sr-only"
+                  id="event-7-tooltip"
+                >
+                  Esta sessão terá intérprete de Língua Gestual Portuguesa
+                </figcaption>
+              </figure>
               <h3
                 class="event__heading"
                 itemprop="startDate"
@@ -10464,7 +11026,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10516,7 +11078,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10555,7 +11117,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10594,7 +11156,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10633,7 +11195,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10688,7 +11250,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 0;"
             >
@@ -10709,7 +11271,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10751,7 +11313,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 1;"
             >
@@ -10772,7 +11334,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10811,7 +11373,7 @@ Object {
                     </a>
                   </div>
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10853,7 +11415,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 2;"
             >
@@ -10874,7 +11436,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -10916,7 +11478,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 tDsWT schedule"
+              class="styles__Event-wac1w6-2 hVxGKZ schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 3;"
             >
@@ -10937,7 +11499,7 @@ Object {
                   class="event__item"
                 >
                   <div
-                    class="styles__Persona-wac1w6-3 bEkFAw event"
+                    class="styles__Persona-wac1w6-4 jzOIEX event"
                   >
                     <a
                       class="persona"
@@ -11008,7 +11570,9 @@ Object {
           >
             21:30
           </time>
-           - 
+           
+          -
+           
           <time
             datetime="22:30"
             property="schema:closes"
@@ -11020,10 +11584,33 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 0;"
           >
+            <figure
+              aria-describedby="event-0-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-0-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -11057,7 +11644,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11109,7 +11696,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11148,7 +11735,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11187,7 +11774,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11229,10 +11816,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 1;"
           >
+            <figure
+              aria-describedby="event-1-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-1-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -11266,7 +11876,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11318,7 +11928,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11357,7 +11967,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11396,7 +12006,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11435,7 +12045,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11477,10 +12087,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 2;"
           >
+            <figure
+              aria-describedby="event-2-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-2-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -11514,7 +12147,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11566,7 +12199,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11605,7 +12238,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11644,7 +12277,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11683,7 +12316,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11725,10 +12358,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 3;"
           >
+            <figure
+              aria-describedby="event-3-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-3-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -11762,7 +12418,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11814,7 +12470,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11853,7 +12509,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11892,7 +12548,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11931,7 +12587,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -11973,10 +12629,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 4;"
           >
+            <figure
+              aria-describedby="event-4-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-4-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -12010,7 +12689,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12062,7 +12741,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12101,7 +12780,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12140,7 +12819,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12182,10 +12861,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 5;"
           >
+            <figure
+              aria-describedby="event-5-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-5-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -12219,7 +12921,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12271,7 +12973,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12310,7 +13012,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12349,7 +13051,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12391,10 +13093,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 6;"
           >
+            <figure
+              aria-describedby="event-6-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-6-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -12428,7 +13153,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12480,7 +13205,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12519,7 +13244,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12558,7 +13283,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12597,7 +13322,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12639,10 +13364,33 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 7;"
           >
+            <figure
+              aria-describedby="event-7-tooltip"
+              class="styles__SignLanguage-wac1w6-3 gZUZCZ sign-language"
+              data-testid="sign-language"
+              data-tooltip="Língua Gestual"
+              tabindex="0"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M9.082 27.874c-0.016-0.834 0.683-1.517 1.517-1.517h3.244v-0.298h-6.555c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h6.585v-0.298h-8.006c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.036v-0.298h-6.519c-0.834 0-1.533-0.683-1.517-1.517 0.016-0.809 0.676-1.459 1.488-1.459 0 0 0 0 0 0h8.779l-1.619-1.178c-0.373-0.274-0.613-0.711-0.613-1.204 0-0.822 0.666-1.488 1.488-1.488 0.329 0 0.633 0.107 0.879 0.288l-0.004-0.003 6.425 4.673c0.448 0.328 0.735 0.853 0.735 1.444v0 7.351c0 0 0 0 0 0 0 0.841-0.582 1.546-1.364 1.736l-0.012 0.003-4.191 0.986c-0.491 0.121-1.056 0.19-1.636 0.19h-5.594c-0 0-0 0-0 0-0.812 0-1.471-0.65-1.488-1.458l-0-0.002zM12.897 16.119h1.897l-0.583-0.424c-0.477-0.35-0.784-0.909-0.784-1.54 0-0.555 0.238-1.055 0.617-1.403l0.001-0.001-0.677-0.87c-0.513-0.658-1.481-0.79-2.129-0.265-0.337 0.275-0.551 0.691-0.551 1.156 0 0.346 0.118 0.665 0.316 0.918l-0.002-0.003 1.894 2.433zM27.652 16.009l-0.261-7.94c-0.027-0.801-0.683-1.439-1.487-1.439-0.822 0-1.488 0.666-1.488 1.488 0 0.017 0 0.034 0.001 0.051l-0-0.002 0.066 2.001-5.394-6.927c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.005 5.143-0.235 0.183-4.937-6.34c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l4.919 6.317-0.235 0.183-4.046-5.196c-0.275-0.351-0.698-0.574-1.174-0.574-0.336 0-0.646 0.111-0.895 0.299l0.004-0.003c-0.668 0.5-0.778 1.471-0.265 2.129l2.711 3.482c0.296-0.199 0.66-0.317 1.052-0.317 0.421 0 0.81 0.137 1.125 0.368l-0.005-0.004 6.425 4.673c0.552 0.406 0.906 1.052 0.907 1.781v0.886l3.18-2.477c0.421-0.33 0.689-0.838 0.689-1.409 0-0.021-0-0.041-0.001-0.062l0 0.003z"
+                  fill="#212121"
+                />
+              </svg>
+              <figcaption
+                class="sr-only"
+                id="event-7-tooltip"
+              >
+                Esta sessão terá intérprete de Língua Gestual Portuguesa
+              </figcaption>
+            </figure>
             <h3
               class="event__heading"
               itemprop="startDate"
@@ -12676,7 +13424,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12728,7 +13476,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12767,7 +13515,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12806,7 +13554,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12845,7 +13593,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12900,7 +13648,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 0;"
           >
@@ -12921,7 +13669,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -12963,7 +13711,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 1;"
           >
@@ -12984,7 +13732,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -13023,7 +13771,7 @@ Object {
                   </a>
                 </div>
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -13065,7 +13813,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 2;"
           >
@@ -13086,7 +13834,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"
@@ -13128,7 +13876,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 tDsWT schedule"
+            class="styles__Event-wac1w6-2 hVxGKZ schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 3;"
           >
@@ -13149,7 +13897,7 @@ Object {
                 class="event__item"
               >
                 <div
-                  class="styles__Persona-wac1w6-3 bEkFAw event"
+                  class="styles__Persona-wac1w6-4 jzOIEX event"
                 >
                   <a
                     class="persona"

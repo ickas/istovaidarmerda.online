@@ -23,4 +23,10 @@ export const partners = [
     logo: "/images/partners/doccmedia.png",
     url: "https://facebook.com/doccmedia",
   },
+  {
+    bg: "#ffffff",
+    name: "ESEC",
+    logo: "/images/partners/esec.svg",
+    url: "https://esec.pt",
+  },
 ];

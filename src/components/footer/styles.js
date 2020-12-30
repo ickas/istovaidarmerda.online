@@ -16,10 +16,10 @@ export const FooterMenu = styled.div`
   max-width: 1280px;
   margin: 0 auto;
   text-align: center;
+  color: var(--light);
 
   .title {
     margin-bottom: 15px;
-    color: var(--darkBrown);
     text-transform: uppercase;
   }
 
@@ -85,5 +85,4 @@ export const FooterMenu = styled.div`
 export const Copyright = styled.div`
   font-size: 0.85rem;
   text-align: center;
-  color: var(--darkBrown);
 `;
