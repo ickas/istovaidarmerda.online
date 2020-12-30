@@ -44,6 +44,11 @@ const Where = ({ twitter, youtube, onPlaySound }) => {
           O <i>Isto Vai Dar Merda</i> decorrerá exclusivamente na rede social <strong>Twitter</strong>, com excepção da
           transmissão das sessões online que serão também disponibilizadas no canal <strong>YouTube</strong> do evento.
         </p>
+        <p>
+          <strong>As sessões terão intérprete de língua gestual portuguesa</strong> para abrir o evento à comunidade
+          surda através de uma equipa de alunos do curso de Língua Gestual Portuguesa da Escola Superior de Educação de
+          Coimbra.
+        </p>
         <p>#istovaidarmerda #ivdm #istovaidarfoto #istovaidardicatech #istovaidarvinho #istovaidarrabisco</p>
         <Styles.CallToAction>
           <ButtonLink

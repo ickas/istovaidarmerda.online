@@ -1,12 +1,14 @@
 import React from "react";
-import { string, number, arrayOf, shape, oneOf } from "prop-types";
+import { string, number, arrayOf, shape, oneOf, bool } from "prop-types";
 import classNames from "classnames";
 import { useInView } from "react-intersection-observer";
 import Personas, { PERSONAS_VALUES } from "./personas";
+import Icon from "../icon";
 import * as Styles from "./styles";
 import "./types.d";
 
 export const EVENT = {
+  signLanguage: bool,
   date: string,
   area: string,
   title: string.isRequired,
@@ -20,7 +22,7 @@ export const EVENT = {
  * @param {ISchedule} props
  * @returns {JSX.Element | null}
  */
-const Event = ({ date, area, title, moderator, speakers, index, type }) => {
+const Event = ({ signLanguage, date, area, title, moderator, speakers, index, type }) => {
   const { ref, inView } = useInView({
     threshold: 0.125,
     triggerOnce: true,
@@ -41,6 +43,12 @@ const Event = ({ date, area, title, moderator, speakers, index, type }) => {
         "--ivdm-event-delay": `${index}`,
       }}
     >
+      {signLanguage && (
+        <Styles.SignLanguage data-tooltip={"Língua Gestual"}>
+          <Icon icon="sign-language" fill="#212121" />
+        </Styles.SignLanguage>
+      )}
+
       {date && (
         <h3 className="event__heading" itemProp="startDate">
           {date}
@@ -69,6 +77,7 @@ const Event = ({ date, area, title, moderator, speakers, index, type }) => {
 };
 
 Event.defaultProps = {
+  signLanguage: false,
   date: undefined,
   area: undefined,
   moderator: undefined,

@@ -197,6 +197,19 @@ export const Event = styled.li`
   }
 `;
 
+export const SignLanguage = styled.div`
+  position: absolute;
+  top: ${rem("25px")};
+  right: 5px;
+  width: ${rem("30px")};
+  height: ${rem("30px")};
+
+  svg {
+    width: 100%;
+    height: auto;
+  }
+`;
+
 export const Persona = styled.div`
   --avatar-width: ${rem("50px")};
 

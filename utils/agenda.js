@@ -1,5 +1,6 @@
 export const agenda = [
   {
+    signLanguage: true,
     date: "12 Jan",
     area: "Profissionais da Saúde e da Ciência",
     title: "Os Heróis da Pandemia",
@@ -53,6 +54,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "14 Jan",
     area: "Primeira e Terceira Idades",
     title: "A Pandemia do 8 ao 80",
@@ -116,6 +118,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "19 Jan",
     area: "Cultura e Artes",
     title: "Dos aplausos ao silêncio",
@@ -180,6 +183,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "21 Jan",
     area: "Economia",
     title: "O ROI de uma Pandemia",
@@ -244,6 +248,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "26 Jan",
     area: "Saúde Pública",
     title: "Quando a Saúde fica doente",
@@ -296,6 +301,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "28 Jan",
     area: "Media",
     title: "Somos capazes de lidar com a verdade?",
@@ -349,6 +355,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "2 Fev",
     area: "Comunicação de Crise",
     title: "A (boa) comunicação pode acabar com uma Pandemia?",
@@ -413,6 +420,7 @@ export const agenda = [
     ],
   },
   {
+    signLanguage: true,
     date: "4 Fev",
     area: "Política",
     title: "A Política e Politiquices de uma Pandemia",
