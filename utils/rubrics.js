@@ -16,7 +16,7 @@ export const rubrics = [
     ],
   },
   {
-    title: "#istovaidardicatech",
+    title: "#istovaidartech",
     speakers: [
       {
         avatar: {
