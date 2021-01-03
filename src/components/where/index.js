@@ -49,7 +49,7 @@ const Where = ({ twitter, youtube, onPlaySound }) => {
           surda através de uma equipa de alunos do curso de Língua Gestual Portuguesa da Escola Superior de Educação de
           Coimbra.
         </p>
-        <p>#istovaidarmerda #ivdm #istovaidarfoto #istovaidardicatech #istovaidarvinho #istovaidarrabisco</p>
+        <p>#istovaidarmerda #ivdm #istovaidarfoto #istovaidartech #istovaidarvinho #istovaidarrabisco</p>
         <Styles.CallToAction>
           <ButtonLink
             className="twitter"
