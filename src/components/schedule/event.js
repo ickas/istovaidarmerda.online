@@ -75,7 +75,7 @@ const Event = ({ signLanguage, date, area, title, youtubeUrl, moderator, speaker
       </div>
       {youtubeUrl && (
         <ButtonLink
-          className="youtube__button"
+          className="youtube__button event__link"
           borderColor="#C62828"
           bgColor="#ED0007"
           url={youtubeUrl}
