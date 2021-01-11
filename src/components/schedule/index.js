@@ -64,6 +64,7 @@ Schedule.propTypes = {
     shape({
       area: string,
       title: string,
+      youtubeUrl: string,
       moderator: SPEAKER_TYPE,
       speakers: SPEAKER_TYPE,
     }),

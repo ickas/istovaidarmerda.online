@@ -23,6 +23,7 @@ const Events = ({ events, type }) => {
           signLanguage={event.signLanguage}
           date={event.date}
           title={event.title}
+          youtubeUrl={event.youtubeUrl}
           area={event.area}
           moderator={event.moderator}
           speakers={event.speakers}

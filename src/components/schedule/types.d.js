@@ -31,6 +31,7 @@
  * @property {string} [date]
  * @property {string} [area]
  * @property {string} title
+ * @property {string} [youtubeUrl]
  * @property {IPersonasValues[]} [moderator]
  * @property {IPersonasValues[]} speakers
  * @property {[]} speakers

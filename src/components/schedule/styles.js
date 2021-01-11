@@ -145,6 +145,12 @@ export const Event = styled.li`
     }
   }
 
+  .youtube__button {
+    height: ${rem("40px")};
+    padding: 1.25rem 1rem;
+    text-transform: initial;
+  }
+
   .event__section {
     margin-top: ${rem("30px")};
     --ivdm-event-stagger: 187.5ms;
@@ -189,6 +195,7 @@ export const Event = styled.li`
       .event__heading,
       .event__topic,
       .event__section,
+      .event__link,
       .sign-language {
         animation-play-state: running;
         animation-delay: calc(calc(var(--ivdm-event-delay) * var(--ivdm-event-stagger)) + var(--ivdm-event-duration));
@@ -197,6 +204,7 @@ export const Event = styled.li`
 
     .event__heading,
     .event__topic,
+    .event__link,
     .event__section {
       opacity: 0;
       transform: translate3d(0, 100%, 0);

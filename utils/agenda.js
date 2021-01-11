@@ -4,6 +4,7 @@ export const agenda = [
     date: "12 Jan",
     area: "Profissionais da Saúde e da Ciência",
     title: "Os Heróis da Pandemia",
+    youtubeUrl: "https://youtu.be/SQLYlWgvzro",
     moderator: [
       {
         avatar: {
@@ -58,6 +59,7 @@ export const agenda = [
     date: "14 Jan",
     area: "Primeira e Terceira Idades",
     title: "A Pandemia do 8 ao 80",
+    youtubeUrl: "https://youtu.be/LVqd1fy4YzQ",
     moderator: [
       {
         avatar: {
@@ -122,6 +124,7 @@ export const agenda = [
     date: "19 Jan",
     area: "Cultura e Artes",
     title: "Dos aplausos ao silêncio",
+    youtubeUrl: "https://youtu.be/QC1HG6xf42Q",
     moderator: [
       {
         avatar: {
@@ -187,6 +190,7 @@ export const agenda = [
     date: "21 Jan",
     area: "Economia",
     title: "O ROI de uma Pandemia",
+    youtubeUrl: "https://youtu.be/NQEbLKOD7J4",
     moderator: [
       {
         avatar: {
@@ -252,6 +256,7 @@ export const agenda = [
     date: "26 Jan",
     area: "Saúde Pública",
     title: "Quando a Saúde fica doente",
+    youtubeUrl: "https://youtu.be/E-RITxCFJgw",
     moderator: [
       {
         avatar: {
@@ -305,6 +310,7 @@ export const agenda = [
     date: "28 Jan",
     area: "Media",
     title: "Somos capazes de lidar com a verdade?",
+    youtubeUrl: "https://youtu.be/qPS4MqAmZ4c",
     moderator: [
       {
         avatar: {
@@ -359,6 +365,7 @@ export const agenda = [
     date: "2 Fev",
     area: "Comunicação de Crise",
     title: "A (boa) comunicação pode acabar com uma Pandemia?",
+    youtubeUrl: "https://youtu.be/6m8leH9PcxI",
     moderator: [
       {
         avatar: {
@@ -424,6 +431,7 @@ export const agenda = [
     date: "4 Fev",
     area: "Política",
     title: "A Política e Politiquices de uma Pandemia",
+    youtubeUrl: "https://youtu.be/HRvjyxc6hak",
     moderator: [
       {
         avatar: {
