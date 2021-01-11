@@ -145,6 +145,12 @@ export const Event = styled.li`
     }
   }
 
+  .youtube__button {
+    height: 40px;
+    padding: 1.25rem 1rem;
+    text-transform: initial;
+  }
+
   .event__section {
     margin-top: ${rem("30px")};
     --ivdm-event-stagger: 187.5ms;

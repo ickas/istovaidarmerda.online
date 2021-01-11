@@ -4,6 +4,7 @@ import classNames from "classnames";
 import { useInView } from "react-intersection-observer";
 import Personas, { PERSONAS_VALUES } from "./personas";
 import Icon from "../icon";
+import ButtonLink from "../button-link";
 import * as Styles from "./styles";
 import "./types.d";
 
@@ -12,6 +13,7 @@ export const EVENT = {
   date: string,
   area: string,
   title: string.isRequired,
+  youtubeUrl: string,
   moderator: arrayOf(shape(PERSONAS_VALUES)),
   speakers: arrayOf(shape(PERSONAS_VALUES)),
   index: number,
@@ -22,7 +24,7 @@ export const EVENT = {
  * @param {ISchedule} props
  * @returns {JSX.Element | null}
  */
-const Event = ({ signLanguage, date, area, title, moderator, speakers, index, type }) => {
+const Event = ({ signLanguage, date, area, title, youtubeUrl, moderator, speakers, index, type }) => {
   const { ref, inView } = useInView({
     threshold: 0.125,
     triggerOnce: true,
@@ -71,6 +73,19 @@ const Event = ({ signLanguage, date, area, title, moderator, speakers, index, ty
           {title}
         </span>
       </div>
+      {youtubeUrl && (
+        <ButtonLink
+          className="youtube__button"
+          borderColor="#C62828"
+          bgColor="#ED0007"
+          url={youtubeUrl}
+          icon="youtube"
+          value="YouTube"
+          target="_blank"
+          label="Seguir no YouTube"
+          external
+        />
+      )}
       {moderator && (
         <div className="event__section">
           {type === "agenda" && <h4 className="event__section__title">Moderator</h4>}
