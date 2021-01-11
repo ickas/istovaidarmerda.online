@@ -131,7 +131,7 @@ Object {
         class="styles__EventsWrapper-wac1w6-1 hQOvCs"
       >
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 0;"
         >
@@ -340,7 +340,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 1;"
         >
@@ -588,7 +588,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 2;"
         >
@@ -836,7 +836,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 3;"
         >
@@ -1084,7 +1084,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 4;"
         >
@@ -1293,7 +1293,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 5;"
         >
@@ -1502,7 +1502,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 6;"
         >
@@ -1750,7 +1750,7 @@ Object {
           </div>
         </li>
         <li
-          class="styles__Event-wac1w6-2 hVxGKZ schedule"
+          class="styles__Event-wac1w6-2 ksehAO schedule"
           data-type="agenda"
           style="--ivdm-event-delay: 7;"
         >
@@ -2005,7 +2005,7 @@ Object {
       class="styles__EventsWrapper-wac1w6-1 hQOvCs"
     >
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 0;"
       >
@@ -2214,7 +2214,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 1;"
       >
@@ -2462,7 +2462,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 2;"
       >
@@ -2710,7 +2710,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 3;"
       >
@@ -2958,7 +2958,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 4;"
       >
@@ -3167,7 +3167,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 5;"
       >
@@ -3376,7 +3376,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 6;"
       >
@@ -3624,7 +3624,7 @@ Object {
         </div>
       </li>
       <li
-        class="styles__Event-wac1w6-2 hVxGKZ schedule"
+        class="styles__Event-wac1w6-2 ksehAO schedule"
         data-type="agenda"
         style="--ivdm-event-delay: 7;"
       >
@@ -4189,7 +4189,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 0;"
             >
@@ -4252,7 +4252,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 1;"
             >
@@ -4263,7 +4263,7 @@ Object {
                   class="title"
                   itemprop="name"
                 >
-                  #istovaidardicatech
+                  #istovaidartech
                 </span>
               </div>
               <div
@@ -4354,7 +4354,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 2;"
             >
@@ -4417,7 +4417,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 3;"
             >
@@ -4532,7 +4532,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 0;"
           >
@@ -4595,7 +4595,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 1;"
           >
@@ -4606,7 +4606,7 @@ Object {
                 class="title"
                 itemprop="name"
               >
-                #istovaidardicatech
+                #istovaidartech
               </span>
             </div>
             <div
@@ -4697,7 +4697,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 2;"
           >
@@ -4760,7 +4760,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 3;"
           >
@@ -4923,7 +4923,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 0;"
             >
@@ -4971,6 +4971,25 @@ Object {
                   Os Heróis da Pandemia
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/SQLYlWgvzro"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -5155,7 +5174,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 1;"
             >
@@ -5203,6 +5222,25 @@ Object {
                   A Pandemia do 8 ao 80
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/LVqd1fy4YzQ"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -5426,7 +5464,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 2;"
             >
@@ -5474,6 +5512,25 @@ Object {
                   Dos aplausos ao silêncio
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/QC1HG6xf42Q"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -5697,7 +5754,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 3;"
             >
@@ -5745,6 +5802,25 @@ Object {
                   O ROI de uma Pandemia
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/NQEbLKOD7J4"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -5968,7 +6044,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 4;"
             >
@@ -6016,6 +6092,25 @@ Object {
                   Quando a Saúde fica doente
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/E-RITxCFJgw"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -6200,7 +6295,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 5;"
             >
@@ -6248,6 +6343,25 @@ Object {
                   Somos capazes de lidar com a verdade?
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/qPS4MqAmZ4c"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -6432,7 +6546,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 6;"
             >
@@ -6480,6 +6594,25 @@ Object {
                   A (boa) comunicação pode acabar com uma Pandemia?
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/6m8leH9PcxI"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -6703,7 +6836,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 7;"
             >
@@ -6751,6 +6884,25 @@ Object {
                   A Política e Politiquices de uma Pandemia
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/HRvjyxc6hak"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -7026,7 +7178,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 0;"
           >
@@ -7074,6 +7226,25 @@ Object {
                 Os Heróis da Pandemia
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/SQLYlWgvzro"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -7258,7 +7429,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 1;"
           >
@@ -7306,6 +7477,25 @@ Object {
                 A Pandemia do 8 ao 80
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/LVqd1fy4YzQ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -7529,7 +7719,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 2;"
           >
@@ -7577,6 +7767,25 @@ Object {
                 Dos aplausos ao silêncio
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/QC1HG6xf42Q"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -7800,7 +8009,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 3;"
           >
@@ -7848,6 +8057,25 @@ Object {
                 O ROI de uma Pandemia
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/NQEbLKOD7J4"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -8071,7 +8299,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 4;"
           >
@@ -8119,6 +8347,25 @@ Object {
                 Quando a Saúde fica doente
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/E-RITxCFJgw"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -8303,7 +8550,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 5;"
           >
@@ -8351,6 +8598,25 @@ Object {
                 Somos capazes de lidar com a verdade?
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/qPS4MqAmZ4c"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -8535,7 +8801,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 6;"
           >
@@ -8583,6 +8849,25 @@ Object {
                 A (boa) comunicação pode acabar com uma Pandemia?
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/6m8leH9PcxI"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -8806,7 +9091,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 7;"
           >
@@ -8854,6 +9139,25 @@ Object {
                 A Política e Politiquices de uma Pandemia
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/HRvjyxc6hak"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -9186,7 +9490,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 0;"
             >
@@ -9234,6 +9538,25 @@ Object {
                   Os Heróis da Pandemia
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/SQLYlWgvzro"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -9418,7 +9741,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 1;"
             >
@@ -9466,6 +9789,25 @@ Object {
                   A Pandemia do 8 ao 80
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/LVqd1fy4YzQ"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -9689,7 +10031,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 2;"
             >
@@ -9737,6 +10079,25 @@ Object {
                   Dos aplausos ao silêncio
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/QC1HG6xf42Q"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -9960,7 +10321,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 3;"
             >
@@ -10008,6 +10369,25 @@ Object {
                   O ROI de uma Pandemia
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/NQEbLKOD7J4"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -10231,7 +10611,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 4;"
             >
@@ -10279,6 +10659,25 @@ Object {
                   Quando a Saúde fica doente
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/E-RITxCFJgw"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -10463,7 +10862,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 5;"
             >
@@ -10511,6 +10910,25 @@ Object {
                   Somos capazes de lidar com a verdade?
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/qPS4MqAmZ4c"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -10695,7 +11113,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 6;"
             >
@@ -10743,6 +11161,25 @@ Object {
                   A (boa) comunicação pode acabar com uma Pandemia?
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/6m8leH9PcxI"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -10966,7 +11403,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="agenda"
               style="--ivdm-event-delay: 7;"
             >
@@ -11014,6 +11451,25 @@ Object {
                   A Política e Politiquices de uma Pandemia
                 </span>
               </div>
+              <a
+                aria-label="Seguir no YouTube"
+                class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+                data-testid="button-link"
+                href="https://youtu.be/HRvjyxc6hak"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <svg
+                  role="presentation"
+                  viewBox="0 0 32 32"
+                >
+                  <path
+                    d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                    fill="var(--light, #ffffff)"
+                  />
+                </svg>
+                YouTube
+              </a>
               <div
                 class="event__section"
               >
@@ -11250,7 +11706,7 @@ Object {
             class="styles__EventsWrapper-wac1w6-1 hQOvCs"
           >
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 0;"
             >
@@ -11313,7 +11769,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 1;"
             >
@@ -11324,7 +11780,7 @@ Object {
                   class="title"
                   itemprop="name"
                 >
-                  #istovaidardicatech
+                  #istovaidartech
                 </span>
               </div>
               <div
@@ -11415,7 +11871,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 2;"
             >
@@ -11478,7 +11934,7 @@ Object {
               </div>
             </li>
             <li
-              class="styles__Event-wac1w6-2 hVxGKZ schedule"
+              class="styles__Event-wac1w6-2 ksehAO schedule"
               data-type="rubrics"
               style="--ivdm-event-delay: 3;"
             >
@@ -11584,7 +12040,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 0;"
           >
@@ -11632,6 +12088,25 @@ Object {
                 Os Heróis da Pandemia
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/SQLYlWgvzro"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -11816,7 +12291,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 1;"
           >
@@ -11864,6 +12339,25 @@ Object {
                 A Pandemia do 8 ao 80
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/LVqd1fy4YzQ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -12087,7 +12581,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 2;"
           >
@@ -12135,6 +12629,25 @@ Object {
                 Dos aplausos ao silêncio
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/QC1HG6xf42Q"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -12358,7 +12871,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 3;"
           >
@@ -12406,6 +12919,25 @@ Object {
                 O ROI de uma Pandemia
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/NQEbLKOD7J4"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -12629,7 +13161,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 4;"
           >
@@ -12677,6 +13209,25 @@ Object {
                 Quando a Saúde fica doente
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/E-RITxCFJgw"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -12861,7 +13412,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 5;"
           >
@@ -12909,6 +13460,25 @@ Object {
                 Somos capazes de lidar com a verdade?
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/qPS4MqAmZ4c"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -13093,7 +13663,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 6;"
           >
@@ -13141,6 +13711,25 @@ Object {
                 A (boa) comunicação pode acabar com uma Pandemia?
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/6m8leH9PcxI"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -13364,7 +13953,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="agenda"
             style="--ivdm-event-delay: 7;"
           >
@@ -13412,6 +14001,25 @@ Object {
                 A Política e Politiquices de uma Pandemia
               </span>
             </div>
+            <a
+              aria-label="Seguir no YouTube"
+              class="styles__Button-e7r930-0 fyOfvY youtube__button event__link"
+              data-testid="button-link"
+              href="https://youtu.be/HRvjyxc6hak"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <svg
+                role="presentation"
+                viewBox="0 0 32 32"
+              >
+                <path
+                  d="M26.232 11.355c-0.245-0.902-0.939-1.6-1.821-1.846l-0.018-0.004c-1.622-0.438-8.126-0.438-8.126-0.438s-6.507 0-8.126 0.437c-0.9 0.251-1.594 0.948-1.835 1.832l-0.004 0.018c-0.435 1.633-0.435 5.039-0.435 5.039s0 3.406 0.435 5.039c0.247 0.895 0.943 1.583 1.823 1.817l0.018 0.004c1.622 0.437 8.126 0.437 8.126 0.437s6.507 0 8.126-0.437c0.898-0.238 1.592-0.927 1.835-1.803l0.004-0.018c0.435-1.633 0.435-5.039 0.435-5.039s-0.002-3.405-0.437-5.038zM14.139 19.486v-6.185l5.436 3.093z"
+                  fill="var(--light, #ffffff)"
+                />
+              </svg>
+              YouTube
+            </a>
             <div
               class="event__section"
             >
@@ -13648,7 +14256,7 @@ Object {
           class="styles__EventsWrapper-wac1w6-1 hQOvCs"
         >
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 0;"
           >
@@ -13711,7 +14319,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 1;"
           >
@@ -13722,7 +14330,7 @@ Object {
                 class="title"
                 itemprop="name"
               >
-                #istovaidardicatech
+                #istovaidartech
               </span>
             </div>
             <div
@@ -13813,7 +14421,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 2;"
           >
@@ -13876,7 +14484,7 @@ Object {
             </div>
           </li>
           <li
-            class="styles__Event-wac1w6-2 hVxGKZ schedule"
+            class="styles__Event-wac1w6-2 ksehAO schedule"
             data-type="rubrics"
             style="--ivdm-event-delay: 3;"
           >
