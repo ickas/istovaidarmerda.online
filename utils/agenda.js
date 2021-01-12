@@ -117,6 +117,16 @@ export const agenda = [
         job: "Virologista",
         url: "https://twitter.com/mjamorim1",
       },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/ccgc.jpg",
+          twoX: "/images/avatars/2x/ccgc.jpg",
+          threeX: "/images/avatars/3x/ccgc.jpg",
+        },
+        name: "Centro Comunitário da Gafanha do Carmo",
+        job: "",
+        url: "https://twitter.com/ASSGC2",
+      },
     ],
   },
   {
