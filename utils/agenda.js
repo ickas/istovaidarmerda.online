@@ -178,7 +178,7 @@ export const agenda = [
           threeX: "/images/avatars/3x/luis-de-matos.jpg",
         },
         name: "Luís de Matos",
-        job: "Ilusionista",
+        job: "Mágico",
         type: "twitter",
         url: "https://twitter.com/realluisdematos",
       },
