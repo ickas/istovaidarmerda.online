@@ -463,7 +463,7 @@ export const agenda = [
           threeX: "/images/avatars/3x/miguel-poiares-maduro.jpg",
         },
         name: "Miguel Poiares Maduro",
-        job: "Político, Comentador",
+        job: "Académico, Autor e Comentador Político",
         type: "twitter",
         url: "https://twitter.com/MaduroPoiares",
       },
@@ -490,5 +490,65 @@ export const agenda = [
         url: "https://facebook.com/tigcorreia",
       },
     ],
+  },
+  {
+    signLanguage: true,
+    date: "9 Fev",
+    area: "Saúde Mental",
+    title: "Eu, tu, nós - a Pandemia da Saúde Mental",
+    moderator: [
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/sonia-teles-fernandes.jpg",
+          twoX: "/images/avatars/2x/sonia-teles-fernandes.jpg",
+          threeX: "/images/avatars/3x/sonia-teles-fernandes.jpg",
+        },
+        name: "Sónia Teles Fernandes",
+        job: "Criadora do Isto Vai Dar Merda",
+        type: "twitter",
+        url: "https://twitter.com/SoniaTelesF",
+      },
+    ],
+    speakers: [
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/ana-matos-pires.jpg",
+          twoX: "/images/avatars/2x/ana-matos-pires.jpg",
+          threeX: "/images/avatars/3x/ana-matos-pires.jpg",
+        },
+        name: "Ana Matos Pires",
+        job: "Médica Psiquiatra, Assessora Programa Nacional para a Saúde Mental",
+        type: "twitter",
+        url: "https://twitter.com/anamatospires",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/joana-raposo.jpg",
+          twoX: "/images/avatars/2x/joana-raposo.jpg",
+          threeX: "/images/avatars/3x/joana-raposo.jpg",
+        },
+        name: "Joana Raposo Gomes",
+        job: "Psiquiatra, Sexologia Clínica",
+        type: "twitter",
+        url: "https://twitter.com/JoanaRaposoG",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/sergio-ferreira.jpg",
+          twoX: "/images/avatars/2x/sergio-ferreira.jpg",
+          threeX: "/images/avatars/3x/sergio-ferreira.jpg",
+        },
+        name: "Sérgio Ferreira",
+        job: "Psiquiatra e Psicoterapêuta",
+        type: "twitter",
+        url: "https://twitter.com/snferreira",
+      },
+    ],
+  },
+  {
+    signLanguage: true,
+    date: "11 Fev",
+    area: "A Pandemia vivida pelos Jovens Sub-25",
+    title: "A última palavra é deles",
   },
 ];

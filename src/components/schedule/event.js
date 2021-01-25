@@ -103,7 +103,7 @@ const Event = ({ signLanguage, date, area, title, youtubeUrl, moderator, speaker
           )}
         </>
       ) : (
-        <div className="event__section">{type === "agenda" && <h4>⚠️ Brevemente ⚠️</h4>}</div>
+        <div className="event__section">{type === "agenda" && <h4>A anunciar...</h4>}</div>
       )}
     </Styles.Event>
   );
