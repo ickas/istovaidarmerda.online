@@ -1,4 +1,5 @@
 import React, { useContext, useEffect } from "react";
+import Link from "next/link";
 import classNames from "classnames";
 import useSound from "use-sound";
 import { useInView } from "react-intersection-observer";
@@ -43,6 +44,30 @@ const Where = ({ twitter, youtube, onPlaySound }) => {
         <p>
           O <i>Isto Vai Dar Merda</i> decorrerá exclusivamente na rede social <strong>Twitter</strong>, com excepção da
           transmissão das sessões online que serão também disponibilizadas no canal <strong>YouTube</strong> do evento.
+        </p>
+        <p>
+          Todas as sessões online serão também disponibilizadas em formato de <strong>podcast</strong> nas plataformas{" "}
+          <Link href="https://open.spotify.com/show/6R6RisJT1Ogk2zc67j7MMc" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+              Spotify
+            </a>
+          </Link>
+          ,{" "}
+          <Link href="https://podcasts.apple.com/pt/podcast/isto-vai/id1549116254" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+              Apple Podcasts
+            </a>
+          </Link>{" "}
+          e{" "}
+          <Link
+            href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80N2MzNTBhNC9wb2RjYXN0L3Jzcw=="
+            passHref
+          >
+            <a target="_blank" rel="noopener noreferrer">
+              Google Podcasts
+            </a>
+          </Link>
+          .
         </p>
         <p>
           As sessões terão <strong>intérprete de língua gestual portuguesa</strong> para abrir o evento à comunidade

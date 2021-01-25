@@ -44,6 +44,42 @@ const Footer = () => (
         </ul>
       </div>
       <div>
+        <h3 className="title as-h4">Podcast</h3>
+        <ul>
+          <li>
+            <Link href="https://open.spotify.com/show/6R6RisJT1Ogk2zc67j7MMc" passHref>
+              <a target="_blank" rel="noopener noreferrer">
+                Spotify
+              </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="https://podcasts.apple.com/pt/podcast/isto-vai/id1549116254" passHref>
+              <a target="_blank" rel="noopener noreferrer">
+                Apple Podcasts
+              </a>
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80N2MzNTBhNC9wb2RjYXN0L3Jzcw=="
+              passHref
+            >
+              <a target="_blank" rel="noopener noreferrer">
+                Google Podcasts
+              </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="https://anchor.fm/s/47c350a4/podcast/rss" passHref>
+              <a target="_blank" rel="noopener noreferrer">
+                RSS
+              </a>
+            </Link>
+          </li>
+        </ul>
+      </div>
+      <div>
         <h3 className="title as-h4">Media</h3>
         <ul>
           <li>

@@ -68,6 +68,11 @@ export const Wrapper = styled.section`
 
     p {
       max-width: ${rem("600px")};
+
+      a {
+        color: var(--default);
+        font-weight: var(--fontBlack);
+      }
     }
   }
 
