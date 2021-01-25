@@ -86,17 +86,24 @@ const Event = ({ signLanguage, date, area, title, youtubeUrl, moderator, speaker
           external
         />
       )}
-      {moderator && (
-        <div className="event__section">
-          {type === "agenda" && <h4 className="event__section__title">Moderator</h4>}
-          <Personas values={moderator} />
-        </div>
-      )}
-      {speakers && (
-        <div className="event__section">
-          {type === "agenda" && <h4 className="event__section__title">Painel</h4>}
-          <Personas values={speakers} />
-        </div>
+
+      {speakers?.length > 0 ? (
+        <>
+          {moderator && (
+            <div className="event__section">
+              {type === "agenda" && <h4 className="event__section__title">Moderator</h4>}
+              <Personas values={moderator} />
+            </div>
+          )}
+          {speakers && (
+            <div className="event__section">
+              {type === "agenda" && <h4 className="event__section__title">Painel</h4>}
+              <Personas values={speakers} />
+            </div>
+          )}
+        </>
+      ) : (
+        <div className="event__section">{type === "agenda" && <h4>⚠️ Brevemente ⚠️</h4>}</div>
       )}
     </Styles.Event>
   );
