@@ -412,17 +412,6 @@ export const agenda = [
         type: "twitter",
         url: "https://twitter.com/JoanaLoA",
       },
-      {
-        avatar: {
-          oneX: "/images/avatars/1x/silvia-castro.jpg",
-          twoX: "/images/avatars/2x/silvia-castro.jpg",
-          threeX: "/images/avatars/3x/silvia-castro.jpg",
-        },
-        name: "Sílvia Castro",
-        job: "Neurociências, Comunicação de Ciência",
-        type: "twitter",
-        url: "https://twitter.com/Silvia_Castro",
-      },
     ],
   },
   {
