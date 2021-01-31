@@ -566,9 +566,9 @@ export const agenda = [
       },
       {
         avatar: {
-          oneX: "/images/avatars/1x/joana-raposo.jpg",
-          twoX: "/images/avatars/2x/joana-raposo.jpg",
-          threeX: "/images/avatars/3x/joana-raposo.jpg",
+          oneX: "/images/avatars/1x/default.jpg",
+          twoX: "/images/avatars/2x/default.jpg",
+          threeX: "/images/avatars/3x/default.jpg",
         },
         name: "Leonor",
         job: "16 anos, Estudante Secundário",
@@ -586,9 +586,9 @@ export const agenda = [
       },
       {
         avatar: {
-          oneX: "/images/avatars/1x/sergio-ferreira.jpg",
-          twoX: "/images/avatars/2x/sergio-ferreira.jpg",
-          threeX: "/images/avatars/3x/sergio-ferreira.jpg",
+          oneX: "/images/avatars/1x/default.jpg",
+          twoX: "/images/avatars/2x/default.jpg",
+          threeX: "/images/avatars/3x/default.jpg",
         },
         name: "Duarte",
         job: "17 anos, Estudante Secundário",
