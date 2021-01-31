@@ -539,5 +539,180 @@ export const agenda = [
     date: "11 Fev",
     area: "A Pandemia vivida pelos Jovens Sub-25",
     title: "A última palavra é deles",
+    moderator: [
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/margarida-gaspar-matos.jpg",
+          twoX: "/images/avatars/2x/margarida-gaspar-matos.jpg",
+          threeX: "/images/avatars/3x/margarida-gaspar-matos.jpg",
+        },
+        name: "Margarida Gaspar Matos",
+        job: "Psicóloga especializada em Jovens, Professora Catedrática FMH",
+        type: "facebook",
+        url: "https://facebook.com/margarida.g.dematos",
+      },
+    ],
+    speakers: [
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/luisa-silva-agapito.jpg",
+          twoX: "/images/avatars/2x/luisa-silva-agapito.jpg",
+          threeX: "/images/avatars/3x/luisa-silva-agapito.jpg",
+        },
+        name: "Luísa Silva Agapito",
+        job: "21 anos, Estudante Universitária",
+        type: "twitter",
+        url: "https://twitter.com/luisasagapito",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/default.jpg",
+          twoX: "/images/avatars/2x/default.jpg",
+          threeX: "/images/avatars/3x/default.jpg",
+        },
+        name: "Leonor",
+        job: "16 anos, Estudante Secundário",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/diogo-esculcas.jpg",
+          twoX: "/images/avatars/2x/diogo-esculcas.jpg",
+          threeX: "/images/avatars/3x/diogo-esculcas.jpg",
+        },
+        name: "Diogo Esculcas",
+        job: "18 anos, Estudante Universitário",
+        type: "twitter",
+        url: "https://twitter.com/esculcass",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/default.jpg",
+          twoX: "/images/avatars/2x/default.jpg",
+          threeX: "/images/avatars/3x/default.jpg",
+        },
+        name: "Duarte",
+        job: "17 anos, Estudante Secundário",
+      },
+    ],
+  },
+  {
+    signLanguage: false,
+    date: "12 Fev",
+    area: "Bastidores com a Equipa IVDM",
+    title: "Isto Deu Merda?",
+    moderator: [
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/sonia-teles-fernandes.jpg",
+          twoX: "/images/avatars/2x/sonia-teles-fernandes.jpg",
+          threeX: "/images/avatars/3x/sonia-teles-fernandes.jpg",
+        },
+        name: "Sónia Teles Fernandes",
+        job: "Criadora do Isto Vai Dar Merda",
+        type: "twitter",
+        url: "https://twitter.com/SoniaTelesF",
+      },
+    ],
+    speakers: [
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/henrique-macedo.jpg",
+          twoX: "/images/avatars/2x/henrique-macedo.jpg",
+          threeX: "/images/avatars/3x/henrique-macedo.jpg",
+        },
+        name: "Henrique Macedo",
+        job: "Frontend Developer",
+        type: "twitter",
+        url: "https://twitter.com/henrikemacedo",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/joao-dias.jpg",
+          twoX: "/images/avatars/2x/joao-dias.jpg",
+          threeX: "/images/avatars/3x/joao-dias.jpg",
+        },
+        name: "João Dias",
+        job: "Frontend Developer",
+        type: "twitter",
+        url: "https://twitter.com/JoaoTMDias ",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/isabel-silva.jpg",
+          twoX: "/images/avatars/2x/isabel-silva.jpg",
+          threeX: "/images/avatars/3x/isabel-silva.jpg",
+        },
+        name: "Isabela Silva",
+        job: "Fotógrafa Oficial #istovaidarfoto",
+        type: "twitter",
+        url: "https://twitter.com/Idzabela",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/rui-cavaleiro.jpg",
+          twoX: "/images/avatars/2x/rui-cavaleiro.jpg",
+          threeX: "/images/avatars/3x/rui-cavaleiro.jpg",
+        },
+        name: "Rui Caveleiro",
+        job: "Mestre Rabiscador #istovaidarrabisco",
+        type: "twitter",
+        url: "https://twitter.com/Rui_Cavaleiro_",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/filipe-rebelo.jpg",
+          twoX: "/images/avatars/2x/filipe-rebelo.jpg",
+          threeX: "/images/avatars/3x/filipe-rebelo.jpg",
+        },
+        name: "Filipe Rebelo",
+        job: "WOME, #istovaidarvinho",
+        type: "twitter",
+        url: "https://twitter.com/frebelo76",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/docc-media.jpg",
+          twoX: "/images/avatars/2x/docc-media.jpg",
+          threeX: "/images/avatars/3x/docc-media.jpg",
+        },
+        name: "Alexandre Pereira",
+        job: "DOCC Media, edição video",
+        type: "twitter",
+        url: "https://twitter.com/Alexand78903321",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/joao-coutinho.jpg",
+          twoX: "/images/avatars/2x/joao-coutinho.jpg",
+          threeX: "/images/avatars/3x/joao-coutinho.jpg",
+        },
+        name: "João Coutinho",
+        job: "N2 Podcast, #istovaidartech",
+        type: "twitter",
+        url: "https://twitter.com/Joaocoutinho",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/artur-azevedo.jpg",
+          twoX: "/images/avatars/2x/artur-azevedo.jpg",
+          threeX: "/images/avatars/3x/artur-azevedo.jpg",
+        },
+        name: "Artur Azevedo",
+        job: "N2 Podcast, #istovaidartech",
+        type: "twitter",
+        url: "https://twitter.com/arturazevedo",
+      },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/esec.jpg",
+          twoX: "/images/avatars/2x/esec.jpg",
+          threeX: "/images/avatars/3x/esec.jpg",
+        },
+        name: "Neuza Santana",
+        job: "Professora Curso Língua Gestual Portuguesa, ESEC",
+        type: "twitter",
+        url: "https://twitter.com/esecoimbra",
+      },
+    ],
   },
 ];
