@@ -40,8 +40,22 @@ const Personas = ({ values }) => {
       const srcSet = `${src} 1x, ${persona.avatar.twoX} 2x, ${persona.avatar.threeX} 3x`;
       return (
         <Styles.Persona key={key} className="event">
-          <Link href={persona.url}>
-            <a target="_blank" title={title} className="persona" rel="noopener noreferrer">
+          {persona.url ? (
+            <Link href={persona.url}>
+              <a target="_blank" title={title} className="persona" rel="noopener noreferrer">
+                <div className="persona__avatar">
+                  <img src={src} srcSet={srcSet} alt={persona.name} width={50} height={50} loading="lazy" />
+                </div>
+                <div className="persona__metadata">
+                  <span className="name" itemProp="performer">
+                    {persona.name}
+                  </span>
+                  <span className="job">{persona.job}</span>
+                </div>
+              </a>
+            </Link>
+          ) : (
+            <div className="persona">
               <div className="persona__avatar">
                 <img src={src} srcSet={srcSet} alt={persona.name} width={50} height={50} loading="lazy" />
               </div>
@@ -51,8 +65,8 @@ const Personas = ({ values }) => {
                 </span>
                 <span className="job">{persona.job}</span>
               </div>
-            </a>
-          </Link>
+            </div>
+          )}
         </Styles.Persona>
       );
     });
