@@ -485,6 +485,7 @@ export const agenda = [
     date: "9 Fev",
     area: "Saúde Mental",
     title: "Eu, tu, nós - a Pandemia da Saúde Mental",
+    youtubeUrl: "https://youtu.be/Eb8sB_4wKMg",
     moderator: [
       {
         avatar: {
@@ -539,6 +540,7 @@ export const agenda = [
     date: "11 Fev",
     area: "A Pandemia vivida pelos Jovens Sub-25",
     title: "A última palavra é deles",
+    youtubeUrl: "https://youtu.be/Y-iri9zbxUM",
     moderator: [
       {
         avatar: {
@@ -600,6 +602,7 @@ export const agenda = [
     date: "12 Fev",
     area: "Bastidores com a Equipa IVDM",
     title: "Isto Deu Merda?",
+    youtubeUrl: "https://youtu.be/lOH6gYzj580",
     moderator: [
       {
         avatar: {
