@@ -533,6 +533,17 @@ export const agenda = [
         type: "twitter",
         url: "https://twitter.com/snferreira",
       },
+      {
+        avatar: {
+          oneX: "/images/avatars/1x/bernardo-gomes.jpg",
+          twoX: "/images/avatars/2x/bernardo-gomes.jpg",
+          threeX: "/images/avatars/2x/bernardo-gomes.jpg",
+        },
+        name: "Bernardo Gomes",
+        job: "Médico de Saúde Pública",
+        type: "twitter",
+        url: "https://twitter.com/BLMG",
+      },
     ],
   },
   {
