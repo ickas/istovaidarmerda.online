@@ -83,7 +83,7 @@ const Footer = () => (
         <h3 className="title as-h4">Media</h3>
         <ul>
           <li>
-            <Link href="https://drive.google.com/drive/folders/1J4i9QUIF_M7-OQ8qXOPmOJdGK3O7HUqR?usp=sharing" passHref>
+            <Link href="https://drive.google.com/drive/folders/1LXdzY33Ml7c9st2lJ0PwBPeIX98qOV8N?usp=sharing" passHref>
               <a target="_blank" rel="noopener noreferrer">
                 Press Kit
               </a>
